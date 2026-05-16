@@ -179,6 +179,15 @@ body.dark {
     margin: 6px 0;
 }
 
+a {
+    text-decoration: none;
+    transition: text-decoration 0.2s ease;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
 @media (max-width: 680px) {
     .b {
         padding: 14px 20px;
