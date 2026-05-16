@@ -164,6 +164,21 @@ body.dark {
     color: #80bfff;
 }
 
+.footer {
+    text-align: center;
+    padding: 24px 20px;
+    border-top: 1px solid #eef2f8;
+    margin-top: 20px;
+}
+
+.dark .footer {
+    border-top-color: #3a3d5c;
+}
+
+.notice-content p {
+    margin: 6px 0;
+}
+
 @media (max-width: 680px) {
     .b {
         padding: 14px 20px;
