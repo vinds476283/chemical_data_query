@@ -1,0 +1,3021 @@
+[{
+        "chem": "H<sub>3</sub>AsO<sub>4</sub>",
+        "en": "Arsenic acid",
+        "zh": "砷酸",
+        "type": "弱酸",
+        "series": "1",
+        "T": "298",
+        "K": "5.50×10<sup>-3</sup>",
+        "pK": "2.26"
+    },
+    {
+        "chem": "H<sub>3</sub>AsO<sub>4</sub>",
+        "en": "Arsenic acid",
+        "zh": "砷酸",
+        "type": "弱酸",
+        "series": "2",
+        "T": "298",
+        "K": "1.74×10<sup>-7</sup>",
+        "pK": "6.76"
+    },
+    {
+        "chem": "H<sub>3</sub>AsO<sub>4</sub>",
+        "en": "Arsenic acid",
+        "zh": "砷酸",
+        "type": "弱酸",
+        "series": "3",
+        "T": "298",
+        "K": "5.13×10<sup>-12</sup>",
+        "pK": "11.29"
+    },
+    {
+        "chem": "H<sub>3</sub>BO<sub>3</sub>",
+        "en": "Boric acid",
+        "zh": "硼酸",
+        "type": "弱酸",
+        "series": "1",
+        "T": "293",
+        "K": "5.81×10<sup>-10</sup>",
+        "pK": "9.236"
+    },
+    {
+        "chem": "H<sub>2</sub>CO<sub>3</sub>",
+        "en": "Carbonic acid",
+        "zh": "碳酸",
+        "type": "弱酸",
+        "series": "1",
+        "T": "298",
+        "K": "4.45×10<sup>-7</sup>",
+        "pK": "6.352(11)"
+    },
+    {
+        "chem": "H<sub>2</sub>CO<sub>3</sub>",
+        "en": "Carbonic acid",
+        "zh": "碳酸",
+        "type": "弱酸",
+        "series": "2",
+        "T": "298",
+        "K": "4.69×10<sup>-11</sup>",
+        "pK": "10.329"
+    },
+    {
+        "chem": "HClO<sub>2</sub>",
+        "en": "Chlorous acid",
+        "zh": "亚氯酸",
+        "type": "弱酸",
+        "series": "",
+        "T": "298",
+        "K": "1.1×10<sup>-2</sup>",
+        "pK": "1.94"
+    },
+    {
+        "chem": "HCNO",
+        "en": "Cyanic acid",
+        "zh": "氰酸",
+        "type": "弱酸",
+        "series": "",
+        "T": "298",
+        "K": "3.5×10<sup>-4</sup>",
+        "pK": "3.46"
+    },
+    {
+        "chem": "HN<sub>3</sub>",
+        "en": "Hydrazoic acid",
+        "zh": "叠氮酸",
+        "type": "弱酸",
+        "series": "",
+        "T": "298",
+        "K": "2.4×10<sup>-5</sup>",
+        "pK": "4.62"
+    },
+    {
+        "chem": "HCN",
+        "en": "Hydrocyanic acid",
+        "zh": "氢氰酸",
+        "type": "弱酸",
+        "series": "",
+        "T": "298",
+        "K": "6.2×10<sup>-10</sup>",
+        "pK": "9.21"
+    },
+    {
+        "chem": "HF",
+        "en": "Hydrofluoric acid",
+        "zh": "氢氟酸",
+        "type": "弱酸",
+        "series": "",
+        "T": "298",
+        "K": "6.3×10<sup>-4</sup>",
+        "pK": "3.20(4)"
+    },
+    {
+        "chem": "H<sub>2</sub>O<sub>2</sub>",
+        "en": "Hydrogen peroxide",
+        "zh": "过氧化氢",
+        "type": "弱酸",
+        "series": "1",
+        "T": "298",
+        "K": "2.3×10<sup>-12</sup>",
+        "pK": "11.64(2)"
+    },
+    {
+        "chem": "H<sub>3</sub>PO<sub>2</sub>",
+        "en": "Hydrogen phosphinate",
+        "zh": "次磷酸",
+        "type": "弱酸",
+        "series": "",
+        "T": "298",
+        "K": "5.9×10<sup>-2</sup>",
+        "pK": "1.23"
+    },
+    {
+        "chem": "H<sub>2</sub>Se",
+        "en": "Hydrogen selenide",
+        "zh": "硒化氢",
+        "type": "弱酸",
+        "series": "1",
+        "T": "298",
+        "K": "1.3×10<sup>-4</sup>",
+        "pK": "3.89"
+    },
+    {
+        "chem": "H<sub>2</sub>Se",
+        "en": "Hydrogen selenide",
+        "zh": "硒化氢",
+        "type": "弱酸",
+        "series": "2",
+        "T": "298",
+        "K": "1.0×10<sup>-11</sup>",
+        "pK": "11.0"
+    },
+    {
+        "chem": "H<sub>2</sub>S",
+        "en": "Hydrogen sulfide",
+        "zh": "硫化氢",
+        "type": "弱酸",
+        "series": "1",
+        "T": "298",
+        "K": "1.1×10<sup>-7</sup>",
+        "pK": "6.97"
+    },
+    {
+        "chem": "H<sub>2</sub>S",
+        "en": "Hydrogen sulfide",
+        "zh": "硫化氢",
+        "type": "弱酸",
+        "series": "2",
+        "T": "298",
+        "K": "1.3×10<sup>-13</sup>",
+        "pK": "12.90"
+    },
+    {
+        "chem": "H<sub>2</sub>Te",
+        "en": "Hydrogen telluride",
+        "zh": "碲化氢",
+        "type": "弱酸",
+        "series": "1",
+        "T": "291",
+        "K": "2.3×10<sup>-3</sup>",
+        "pK": "2.64"
+    },
+    {
+        "chem": "H<sub>2</sub>Te",
+        "en": "Hydrogen telluride",
+        "zh": "碲化氢",
+        "type": "弱酸",
+        "series": "2",
+        "T": "291",
+        "K": "10<sup>-11</sup>~10<sup>-12</sup>",
+        "pK": "11~12"
+    },
+    {
+        "chem": "HBrO",
+        "en": "Hypobromous acid",
+        "zh": "次溴酸",
+        "type": "弱酸",
+        "series": "",
+        "T": "298",
+        "K": "2.8×10<sup>-9</sup>",
+        "pK": "8.55"
+    },
+    {
+        "chem": "HClO",
+        "en": "Hypochlorous acid",
+        "zh": "次氯酸",
+        "type": "弱酸",
+        "series": "",
+        "T": "298",
+        "K": "2.90×10<sup>-8</sup>",
+        "pK": "7.537"
+    },
+    {
+        "chem": "HIO",
+        "en": "Hypoiodous acid",
+        "zh": "次碘酸",
+        "type": "弱酸",
+        "series": "",
+        "T": "298",
+        "K": "3×10<sup>-11</sup>",
+        "pK": "10.5(5)"
+    },
+    {
+        "chem": "HIO<sub>3</sub>",
+        "en": "Iodic acid",
+        "zh": "碘酸",
+        "type": "弱酸",
+        "series": "",
+        "T": "298",
+        "K": "1.57×10<sup>-1</sup>",
+        "pK": "0.804"
+    },
+    {
+        "chem": "HNO<sub>2</sub>",
+        "en": "Nitrous acid",
+        "zh": "亚硝酸",
+        "type": "弱酸",
+        "series": "",
+        "T": "298",
+        "K": "7.2×10<sup>-4</sup>",
+        "pK": "3.14(1)"
+    },
+    {
+        "chem": "HIO<sub>4</sub>",
+        "en": "Periodic acid",
+        "zh": "偏高碘酸",
+        "type": "弱酸",
+        "series": "",
+        "T": "298",
+        "K": "2.3×10<sup>-2</sup>",
+        "pK": "1.64"
+    },
+    {
+        "chem": "H<sub>3</sub>PO<sub>4</sub>",
+        "en": "Phosphoric acid",
+        "zh": "磷酸",
+        "type": "弱酸",
+        "series": "1",
+        "T": "298",
+        "K": "7.11×10<sup>-3</sup>",
+        "pK": "2.148(20)"
+    },
+    {
+        "chem": "H<sub>3</sub>PO<sub>4</sub>",
+        "en": "Phosphoric acid",
+        "zh": "磷酸",
+        "type": "弱酸",
+        "series": "2",
+        "T": "298",
+        "K": "6.34×10<sup>-8</sup>",
+        "pK": "7.198(10)"
+    },
+    {
+        "chem": "H<sub>3</sub>PO<sub>4</sub>",
+        "en": "Phosphoric acid",
+        "zh": "磷酸",
+        "type": "弱酸",
+        "series": "3",
+        "T": "298",
+        "K": "4.8×10<sup>-13</sup>",
+        "pK": "12.32(6)"
+    },
+    {
+        "chem": "H<sub>3</sub>PO<sub>3</sub>",
+        "en": "Phosphorous acid",
+        "zh": "亚磷酸",
+        "type": "弱酸",
+        "series": "1",
+        "T": "293",
+        "K": "3.7×10<sup>-2</sup>",
+        "pK": "1.43"
+    },
+    {
+        "chem": "H<sub>3</sub>PO<sub>3</sub>",
+        "en": "Phosphorous acid",
+        "zh": "亚磷酸",
+        "type": "弱酸",
+        "series": "2",
+        "T": "293",
+        "K": "2.1×10<sup>-7</sup>",
+        "pK": "6.68(14)"
+    },
+    {
+        "chem": "H<sub>4</sub>P<sub>2</sub>O<sub>7</sub>",
+        "en": "Pyrophosphoric acid",
+        "zh": "焦磷酸",
+        "type": "弱酸",
+        "series": "1",
+        "T": "298",
+        "K": "1.2×10<sup>-1</sup>",
+        "pK": "0.91"
+    },
+    {
+        "chem": "H<sub>4</sub>P<sub>2</sub>O<sub>7</sub>",
+        "en": "Pyrophosphoric acid",
+        "zh": "焦磷酸",
+        "type": "弱酸",
+        "series": "2",
+        "T": "298",
+        "K": "7.9×10<sup>-3</sup>",
+        "pK": "2.10"
+    },
+    {
+        "chem": "H<sub>4</sub>P<sub>2</sub>O<sub>7</sub>",
+        "en": "Pyrophosphoric acid",
+        "zh": "焦磷酸",
+        "type": "弱酸",
+        "series": "3",
+        "T": "298",
+        "K": "2.0×10<sup>-7</sup>",
+        "pK": "6.70"
+    },
+    {
+        "chem": "H<sub>4</sub>P<sub>2</sub>O<sub>7</sub>",
+        "en": "Pyrophosphoric acid",
+        "zh": "焦磷酸",
+        "type": "弱酸",
+        "series": "4",
+        "T": "298",
+        "K": "4.5×10<sup>-10</sup>",
+        "pK": "9.35"
+    },
+    {
+        "chem": "H<sub>2</sub>SeO<sub>4</sub>",
+        "en": "Selenic acid",
+        "zh": "硒酸",
+        "type": "弱酸",
+        "series": "2",
+        "T": "298",
+        "K": "2.2×10<sup>-2</sup>",
+        "pK": "1.66"
+    },
+    {
+        "chem": "H<sub>2</sub>SeO<sub>3</sub>",
+        "en": "Selenious acid",
+        "zh": "亚硒酸",
+        "type": "弱酸",
+        "series": "1",
+        "T": "298",
+        "K": "2.4×10<sup>-3</sup>",
+        "pK": "2.62"
+    },
+    {
+        "chem": "H<sub>2</sub>SeO<sub>3</sub>",
+        "en": "Selenious acid",
+        "zh": "亚硒酸",
+        "type": "弱酸",
+        "series": "2",
+        "T": "298",
+        "K": "5.0×10<sup>-9</sup>",
+        "pK": "8.30(15)"
+    },
+    {
+        "chem": "H<sub>4</sub>SiO<sub>4</sub>",
+        "en": "Silicic acid",
+        "zh": "硅酸",
+        "type": "弱酸",
+        "series": "1",
+        "T": "303",
+        "K": "2.5×10<sup>-10</sup>",
+        "pK": "9.60(10)"
+    },
+    {
+        "chem": "H<sub>4</sub>SiO<sub>4</sub>",
+        "en": "Silicic acid",
+        "zh": "硅酸",
+        "type": "弱酸",
+        "series": "2",
+        "T": "303",
+        "K": "1.6×10<sup>-12</sup>",
+        "pK": "11.8(1)"
+    },
+    {
+        "chem": "H<sub>2</sub>SO<sub>4</sub>",
+        "en": "Sulfuric acid",
+        "zh": "硫酸",
+        "type": "弱酸",
+        "series": "2",
+        "T": "298",
+        "K": "1.0×10<sup>-2</sup>",
+        "pK": "1.99(1)"
+    },
+    {
+        "chem": "H<sub>2</sub>SO<sub>3</sub>",
+        "en": "Sulfurous acid",
+        "zh": "亚硫酸",
+        "type": "弱酸",
+        "series": "1",
+        "T": "298",
+        "K": "1.3×10<sup>-2</sup>",
+        "pK": "1.89"
+    },
+    {
+        "chem": "H<sub>2</sub>SO<sub>3</sub>",
+        "en": "Sulfurous acid",
+        "zh": "亚硫酸",
+        "type": "弱酸",
+        "series": "2",
+        "T": "298",
+        "K": "6.24×10<sup>-8</sup>",
+        "pK": "7.205"
+    },
+    {
+        "chem": "H<sub>6</sub>TeO<sub>6</sub>",
+        "en": "Telluric acid",
+        "zh": "碲酸",
+        "type": "弱酸",
+        "series": "1",
+        "T": "298",
+        "K": "2.2×10<sup>-8</sup>",
+        "pK": "7.65(5)"
+    },
+    {
+        "chem": "H<sub>6</sub>TeO<sub>6</sub>",
+        "en": "Telluric acid",
+        "zh": "碲酸",
+        "type": "弱酸",
+        "series": "2",
+        "T": "298",
+        "K": "1.0×10<sup>-11</sup>",
+        "pK": "11.00(5)"
+    },
+    {
+        "chem": "H<sub>2</sub>TeO<sub>3</sub>",
+        "en": "Tellurous acid",
+        "zh": "亚碲酸",
+        "type": "弱酸",
+        "series": "1",
+        "T": "293",
+        "K": "5.4×10<sup>-7</sup>",
+        "pK": "6.27"
+    },
+    {
+        "chem": "H<sub>2</sub>TeO<sub>3</sub>",
+        "en": "Tellurous acid",
+        "zh": "亚碲酸",
+        "type": "弱酸",
+        "series": "2",
+        "T": "293",
+        "K": "3.7×10<sup>-9</sup>",
+        "pK": "8.43"
+    },
+    {
+        "chem": "HBF<sub>4</sub>",
+        "en": "Tetrafluoroboric acid",
+        "zh": "四氟硼酸",
+        "type": "弱酸",
+        "series": "",
+        "T": "298",
+        "K": "3.2×10<sup>-1</sup>",
+        "pK": "0.50"
+    },
+    {
+        "chem": "CH<sub>3</sub>COOH",
+        "en": "Acetic acid",
+        "zh": "乙酸",
+        "type": "弱酸",
+        "series": "",
+        "T": "298",
+        "K": "1.75×10<sup>-5</sup>",
+        "pK": "4.756"
+    },
+    {
+        "chem": "C<sub>6</sub>H<sub>8</sub>O<sub>7</sub>",
+        "en": "Citric acid",
+        "zh": "柠檬酸",
+        "type": "弱酸",
+        "series": "1",
+        "T": "298",
+        "K": "7.45×10<sup>-4</sup>",
+        "pK": "3.128"
+    },
+    {
+        "chem": "C<sub>6</sub>H<sub>8</sub>O<sub>7</sub>",
+        "en": "Citric acid",
+        "zh": "柠檬酸",
+        "type": "弱酸",
+        "series": "2",
+        "T": "298",
+        "K": "1.73×10<sup>-5</sup>",
+        "pK": "4.761"
+    },
+    {
+        "chem": "C<sub>6</sub>H<sub>8</sub>O<sub>7</sub>",
+        "en": "Citric acid",
+        "zh": "柠檬酸",
+        "type": "弱酸",
+        "series": "3",
+        "T": "298",
+        "K": "4.02×10<sup>-7</sup>",
+        "pK": "6.396"
+    },
+    {
+        "chem": "C<sub>10</sub>H<sub>16</sub>N<sub>2</sub>O<sub>8</sub>(edta)",
+        "en": "Ethylenediamine N,N,N',N'-tetraacetic acid",
+        "zh": "乙二胺四乙酸",
+        "type": "弱酸",
+        "series": "1",
+        "T": "298",
+        "K": "1.0×10<sup>-2</sup>",
+        "pK": "1.99"
+    },
+    {
+        "chem": "C<sub>10</sub>H<sub>16</sub>N<sub>2</sub>O<sub>8</sub>(edta)",
+        "en": "Ethylenediamine N,N,N',N'-tetraacetic acid",
+        "zh": "乙二胺四乙酸",
+        "type": "弱酸",
+        "series": "2",
+        "T": "298",
+        "K": "2.1×10<sup>-3</sup>",
+        "pK": "2.67"
+    },
+    {
+        "chem": "C<sub>10</sub>H<sub>16</sub>N<sub>2</sub>O<sub>8</sub>(edta)",
+        "en": "Ethylenediamine N,N,N',N'-tetraacetic acid",
+        "zh": "乙二胺四乙酸",
+        "type": "弱酸",
+        "series": "3",
+        "T": "298",
+        "K": "6.9×10<sup>-7</sup>",
+        "pK": "6.16"
+    },
+    {
+        "chem": "C<sub>10</sub>H<sub>16</sub>N<sub>2</sub>O<sub>8</sub>(edta)",
+        "en": "Ethylenediamine N,N,N',N'-tetraacetic acid",
+        "zh": "乙二胺四乙酸",
+        "type": "弱酸",
+        "series": "4",
+        "T": "398",
+        "K": "5.5×10<sup>-11</sup>",
+        "pK": "10.26"
+    },
+    {
+        "chem": "HCOOH",
+        "en": "Formic acid",
+        "zh": "甲酸",
+        "type": "弱酸",
+        "series": "",
+        "T": "298",
+        "K": "1.77×10<sup>-4</sup>",
+        "pK": "3.751"
+    },
+    {
+        "chem": "C<sub>3</sub>H<sub>6</sub>O<sub>3</sub>",
+        "en": "Lactic acid",
+        "zh": "乳酸",
+        "type": "弱酸",
+        "series": "",
+        "T": "298",
+        "K": "1.39×10<sup>-4</sup>",
+        "pK": "3.858"
+    },
+    {
+        "chem": "H<sub>2</sub>C<sub>2</sub>O<sub>4</sub>",
+        "en": "Oxalic acid",
+        "zh": "草酸",
+        "type": "弱酸",
+        "series": "1",
+        "T": "298",
+        "K": "5.36×10<sup>-2</sup>",
+        "pK": "1.271"
+    },
+    {
+        "chem": "H<sub>2</sub>C<sub>2</sub>O<sub>4</sub>",
+        "en": "Oxalic acid",
+        "zh": "草酸",
+        "type": "弱酸",
+        "series": "2",
+        "T": "298",
+        "K": "5.35×10<sup>-5</sup>",
+        "pK": "4.272"
+    },
+    {
+        "chem": "C<sub>6</sub>H<sub>5</sub>OH",
+        "en": "Phenol",
+        "zh": "苯酚",
+        "type": "弱酸",
+        "series": "",
+        "T": "298",
+        "K": "1.0×10<sup>-10</sup>",
+        "pK": "9.99"
+    },
+    {
+        "chem": "C<sub>4</sub>H<sub>6</sub>O<sub>6</sub>",
+        "en": "Tartaric acid",
+        "zh": "α-酒石酸",
+        "type": "弱酸",
+        "series": "1",
+        "T": "298",
+        "K": "9.20×10<sup>-4</sup>",
+        "pK": "3.036"
+    },
+    {
+        "chem": "C<sub>4</sub>H<sub>6</sub>O<sub>6</sub>",
+        "en": "Tartaric acid",
+        "zh": "α-酒石酸",
+        "type": "弱酸",
+        "series": "2",
+        "T": "298",
+        "K": "4.31×10<sup>-5</sup>",
+        "pK": "4.366"
+    },
+    {
+        "chem": "NH<sub>3</sub>",
+        "en": "Ammonia",
+        "zh": "氨",
+        "type": "弱碱",
+        "series": "",
+        "T": "298",
+        "K": "1.76×10<sup>-5</sup>",
+        "pK": "4.754"
+    },
+    {
+        "chem": "C<sub>6</sub>H<sub>5</sub>NH<sub>2</sub>",
+        "en": "Aniline",
+        "zh": "苯胺",
+        "type": "弱碱",
+        "series": "",
+        "T": "298",
+        "K": "4.0×10<sup>-10</sup>",
+        "pK": "9.40"
+    },
+    {
+        "chem": "C<sub>4</sub>H<sub>12</sub>N<sub>2</sub>",
+        "en": "1,4-Butanediamine",
+        "zh": "1,4-丁二胺",
+        "type": "弱碱",
+        "series": "1",
+        "T": "298",
+        "K": "2.2×10<sup>-5</sup>",
+        "pK": "4.65"
+    },
+    {
+        "chem": "C<sub>4</sub>H<sub>12</sub>N<sub>2</sub>",
+        "en": "1,4-Butanediamine",
+        "zh": "1,4-丁二胺",
+        "type": "弱碱",
+        "series": "2",
+        "T": "298",
+        "K": "6.6×10<sup>-4</sup>",
+        "pK": "3.18"
+    },
+    {
+        "chem": "(CH<sub>3</sub>)<sub>2</sub>NH",
+        "en": "Dimethylamine",
+        "zh": "二甲胺",
+        "type": "弱碱",
+        "series": "",
+        "T": "298",
+        "K": "5.9×10<sup>-4</sup>",
+        "pK": "3.23"
+    },
+    {
+        "chem": "(C<sub>2</sub>H<sub>5</sub>)<sub>2</sub>NH",
+        "en": "Diethylamine",
+        "zh": "二乙胺",
+        "type": "弱碱",
+        "series": "",
+        "T": "298",
+        "K": "6.3×10<sup>-4</sup>",
+        "pK": "3.20"
+    },
+    {
+        "chem": "C<sub>2</sub>H<sub>5</sub>NH<sub>2</sub>",
+        "en": "Ethylamine",
+        "zh": "乙胺",
+        "type": "弱碱",
+        "series": "",
+        "T": "298",
+        "K": "4.3×10<sup>-4</sup>",
+        "pK": "3.37"
+    },
+    {
+        "chem": "C<sub>6</sub>H<sub>16</sub>N<sub>2</sub>",
+        "en": "1,6-Hexanediamine",
+        "zh": "1,6-己二胺",
+        "type": "弱碱",
+        "series": "1",
+        "T": "298",
+        "K": "6.76×10<sup>-5</sup>",
+        "pK": "4.170"
+    },
+    {
+        "chem": "C<sub>6</sub>H<sub>16</sub>N<sub>2</sub>",
+        "en": "1,6-Hexanediamine",
+        "zh": "1,6-己二胺",
+        "type": "弱碱",
+        "series": "2",
+        "T": "298",
+        "K": "8.51×10<sup>-4</sup>",
+        "pK": "3.070"
+    },
+    {
+        "chem": "N<sub>2</sub>H<sub>4</sub>",
+        "en": "Hydrazine",
+        "zh": "肼",
+        "type": "弱碱",
+        "series": "1",
+        "T": "298",
+        "K": "1.9×10<sup>-14</sup>",
+        "pK": "13.73"
+    },
+    {
+        "chem": "N<sub>2</sub>H<sub>4</sub>",
+        "en": "Hydrazine",
+        "zh": "肼",
+        "type": "弱碱",
+        "series": "2",
+        "T": "298",
+        "K": "8.7×10<sup>-7</sup>",
+        "pK": "6.06"
+    },
+    {
+        "chem": "CH<sub>3</sub>NH<sub>2</sub>",
+        "en": "Methylamine",
+        "zh": "甲胺",
+        "type": "弱碱",
+        "series": "",
+        "T": "298",
+        "K": "4.2×10<sup>-4</sup>",
+        "pK": "3.38"
+    },
+    {
+        "chem": "C<sub>5</sub>H<sub>5</sub>N",
+        "en": "Pyridine",
+        "zh": "吡啶",
+        "type": "弱碱",
+        "series": "",
+        "T": "298",
+        "K": "1.5×10<sup>-9</sup>",
+        "pK": "8.83"
+    },
+    {
+        "chem": "Al(OH)<sub>3</sub>",
+        "en": "Aluminum hydroxide",
+        "zh": "氢氧化铝",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "1.3×10<sup>-33</sup>",
+        "pK": "32.89"
+    },
+    {
+        "chem": "AlPO<sub>4</sub>",
+        "en": "Aluminum phosphate",
+        "zh": "磷酸铝",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "9.84×10<sup>-21</sup>",
+        "pK": "20.01"
+    },
+    {
+        "chem": "Al<sub>2</sub>S<sub>3</sub>",
+        "en": "Aluminum sulfide",
+        "zh": "硫化铝",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "2×10<sup>-7</sup>",
+        "pK": "6.7"
+    },
+    {
+        "chem": "As<sub>2</sub>S<sub>3</sub>",
+        "en": "Arsenic(Ⅲ)sulfide",
+        "zh": "三硫化二砷",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "2.1×10<sup>-22</sup>",
+        "pK": "21.68"
+    },
+    {
+        "chem": "Ba<sub>3</sub>(AsO<sub>4</sub>)<sub>2</sub>",
+        "en": "Barium arsenate",
+        "zh": "砷酸钡",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "8.0×10<sup>-51</sup>",
+        "pK": "50.11"
+    },
+    {
+        "chem": "Ba(BrO<sub>3</sub>)<sub>2</sub>",
+        "en": "Barium bromate",
+        "zh": "溴酸钡",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "2.43×10<sup>-4</sup>",
+        "pK": "5.50"
+    },
+    {
+        "chem": "BaCO<sub>3</sub>",
+        "en": "Barium carbonate",
+        "zh": "碳酸钡",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "2.58×10<sup>-9</sup>",
+        "pK": "8.59"
+    },
+    {
+        "chem": "BaCrO<sub>4</sub>",
+        "en": "Barium chromate",
+        "zh": "铬酸钡",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "1.17×10<sup>-10</sup>",
+        "pK": "9.93"
+    },
+    {
+        "chem": "BaF<sub>2</sub>",
+        "en": "Barium fluoride",
+        "zh": "氟化钡",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "1.84×10<sup>-7</sup>",
+        "pK": "6.74"
+    },
+    {
+        "chem": "BaSiF<sub>6</sub>",
+        "en": "Barium hexafluorosilicate",
+        "zh": "六氟硅酸钡",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "1×10<sup>-6</sup>",
+        "pK": "6"
+    },
+    {
+        "chem": "Ba(OH)<sub>2</sub>·8H<sub>2</sub>O",
+        "en": "Barium hydroxide 8-hydrate",
+        "zh": "八水合氢氧化钡",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "2.55×10<sup>-4</sup>",
+        "pK": "3.59"
+    },
+    {
+        "chem": "Ba(IO<sub>3</sub>)<sub>2</sub>·H<sub>2</sub>O",
+        "en": "Barium iodate hydrate",
+        "zh": "一水合碘酸钡",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "4.01×10<sup>-9</sup>",
+        "pK": "8.40"
+    },
+    {
+        "chem": "BaC<sub>2</sub>O<sub>4</sub>·H<sub>2</sub>O",
+        "en": "Barium oxalate hydrate",
+        "zh": "一水合草酸钡",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "2.3×10<sup>-8</sup>",
+        "pK": "7.64"
+    },
+    {
+        "chem": "Ba<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub>",
+        "en": "Barium phosphate",
+        "zh": "磷酸钡",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "3.4×10<sup>-23</sup>",
+        "pK": "22.47"
+    },
+    {
+        "chem": "Ba<sub>2</sub>P<sub>2</sub>O<sub>7</sub>",
+        "en": "Barium pyrophosphate",
+        "zh": "焦磷酸钡",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "3.2×10<sup>-11</sup>",
+        "pK": "10.5"
+    },
+    {
+        "chem": "BaSO<sub>4</sub>",
+        "en": "Barium sulfate",
+        "zh": "硫酸钡",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "1.08×10<sup>-10</sup>",
+        "pK": "9.97"
+    },
+    {
+        "chem": "BaSO<sub>3</sub>",
+        "en": "Barium sulfite",
+        "zh": "亚硫酸钡",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "5.0×10<sup>-10</sup>",
+        "pK": "9.30"
+    },
+    {
+        "chem": "BaS<sub>2</sub>O<sub>3</sub>",
+        "en": "Barium thiosulfate",
+        "zh": "硫代硫酸钡",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "1.6×10<sup>-5</sup>",
+        "pK": "4.79"
+    },
+    {
+        "chem": "BeCO<sub>3</sub>·4H<sub>2</sub>O",
+        "en": "Beryllium carbonate 4-hydrate",
+        "zh": "四水合碳酸铍",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "1×10<sup>-3</sup>",
+        "pK": "3"
+    },
+    {
+        "chem": "Be(OH)<sub>2</sub>",
+        "en": "Beryllium hydroxide(amorphous)",
+        "zh": "氢氧化铍",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "6.92×10<sup>-22</sup>",
+        "pK": "21.16"
+    },
+    {
+        "chem": "BiAsO<sub>4</sub>",
+        "en": "Bismuth arsenate",
+        "zh": "砷酸铋",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "4.43×10<sup>-10</sup>",
+        "pK": "9.35"
+    },
+    {
+        "chem": "Bi(OH)<sub>3</sub>",
+        "en": "Bismuth hydroxide",
+        "zh": "氢氧化铋",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "6.0×10<sup>-31</sup>",
+        "pK": "30.4"
+    },
+    {
+        "chem": "BiI<sub>3</sub>",
+        "en": "Bismuth iodide",
+        "zh": "碘化铋",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "7.71×10<sup>-19</sup>",
+        "pK": "18.11"
+    },
+    {
+        "chem": "BiOBr",
+        "en": "Bismuth oxide bromide",
+        "zh": "溴氧化铋",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "3.0×10<sup>-7</sup>",
+        "pK": "6.52"
+    },
+    {
+        "chem": "BiOCl",
+        "en": "Bismuth oxide chloride",
+        "zh": "氯氧化铋",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "1.8×10<sup>-31</sup>",
+        "pK": "30.75"
+    },
+    {
+        "chem": "BiO(OH)",
+        "en": "Bismuth oxide hydroxide",
+        "zh": "氢氧化氧铋",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "4×10<sup>-10</sup>",
+        "pK": "9.4"
+    },
+    {
+        "chem": "BiO(NO<sub>3</sub>)",
+        "en": "Bismuth oxide nitrate",
+        "zh": "硝酸氧铋",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "2.82×10<sup>-3</sup>",
+        "pK": "2.55"
+    },
+    {
+        "chem": "BiO(NO<sub>2</sub>)",
+        "en": "Bismuth oxide nitrite",
+        "zh": "亚硝酸氧铋",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "4.9×10<sup>-7</sup>",
+        "pK": "6.31"
+    },
+    {
+        "chem": "BiPO<sub>4</sub>",
+        "en": "Bismuth phosphate",
+        "zh": "磷酸铋",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "1.3×10<sup>-23</sup>",
+        "pK": "22.89"
+    },
+    {
+        "chem": "Bi<sub>2</sub>S<sub>3</sub>",
+        "en": "Bismuth sulfide",
+        "zh": "硫化铋",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "1×10<sup>-97</sup>",
+        "pK": "97"
+    },
+    {
+        "chem": "CdCO<sub>3</sub>",
+        "en": "Cadmium carbonate",
+        "zh": "碳酸镉",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "1.0×10<sup>-12</sup>",
+        "pK": "12.0"
+    },
+    {
+        "chem": "Cd(CN)<sub>2</sub>",
+        "en": "Cadmium cyanide",
+        "zh": "氰化镉",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "1.0×10<sup>-8</sup>",
+        "pK": "8.0"
+    },
+    {
+        "chem": "CdF<sub>2</sub>",
+        "en": "Cadmium fluoride",
+        "zh": "氟化镉",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "6.44×10<sup>-3</sup>",
+        "pK": "2.19"
+    },
+    {
+        "chem": "Cd(OH)<sub>2</sub>(新生成)",
+        "en": "Cadmium hydroxide",
+        "zh": "氢氧化镉(新生成)",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "7.2×10<sup>-15</sup>",
+        "pK": "14.14"
+    },
+    {
+        "chem": "Cd(IO<sub>3</sub>)<sub>2</sub>",
+        "en": "Cadmium iodate",
+        "zh": "碘酸镉",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "2.5×10<sup>-8</sup>",
+        "pK": "7.60"
+    },
+    {
+        "chem": "Cd<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub>",
+        "en": "Cadmium phosphate",
+        "zh": "磷酸镉",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "2.53×10<sup>-33</sup>",
+        "pK": "32.60"
+    },
+    {
+        "chem": "CdS",
+        "en": "Cadmium sulfide",
+        "zh": "硫化镉",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "8.0×10<sup>-27</sup>",
+        "pK": "26.10"
+    },
+    {
+        "chem": "Ca<sub>3</sub>(AsO<sub>4</sub>)<sub>2</sub>",
+        "en": "Calcium arsenate",
+        "zh": "砷酸钙",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "6.8×10<sup>-19</sup>",
+        "pK": "18.17"
+    },
+    {
+        "chem": "CaCO<sub>3</sub>",
+        "en": "Calcium carbonate",
+        "zh": "碳酸钙",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "2.8×10<sup>-9</sup>",
+        "pK": "8.54"
+    },
+    {
+        "chem": "Ca[Mg(CO<sub>3</sub>)<sub>2</sub>](白云石)",
+        "en": "Calcium carbonatomagnesium",
+        "zh": "白云石",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "1×10<sup>-11</sup>",
+        "pK": "11"
+    },
+    {
+        "chem": "CaCrO<sub>4</sub>",
+        "en": "Calcium chromate",
+        "zh": "铬酸钙",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "7.1×10<sup>-4</sup>",
+        "pK": "3.15"
+    },
+    {
+        "chem": "CaF<sub>2</sub>",
+        "en": "Calcium fluoride",
+        "zh": "氟化钙",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "5.30×10<sup>-9</sup>",
+        "pK": "8.28"
+    },
+    {
+        "chem": "Ca[SiF<sub>6</sub>]",
+        "en": "Calcium hexafluorosilicate",
+        "zh": "六氟硅酸钙",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "8.1×10<sup>-4</sup>",
+        "pK": "3.09"
+    },
+    {
+        "chem": "Ca(OH)<sub>2</sub>",
+        "en": "Calcium hydroxide",
+        "zh": "氢氧化钙",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "5.5×10<sup>-6</sup>",
+        "pK": "5.26"
+    },
+    {
+        "chem": "Ca(IO<sub>3</sub>)<sub>2</sub>·6H<sub>2</sub>O",
+        "en": "Calcium iodate 6-water",
+        "zh": "六水合碘酸钙",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "7.10×10<sup>-7</sup>",
+        "pK": "6.15"
+    },
+    {
+        "chem": "CaC<sub>2</sub>O<sub>4</sub>·H<sub>2</sub>O",
+        "en": "Calcium oxalate hydrate",
+        "zh": "一水合草酸钙",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "2.32×10<sup>-9</sup>",
+        "pK": "8.63"
+    },
+    {
+        "chem": "Ca<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub>",
+        "en": "Calcium phosphate",
+        "zh": "磷酸钙",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "2.07×10<sup>-29</sup>",
+        "pK": "28.68"
+    },
+    {
+        "chem": "CaSiO<sub>3</sub>",
+        "en": "Calcium silicate,meta",
+        "zh": "偏硅酸钙",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "2.5×10<sup>-8</sup>",
+        "pK": "7.60"
+    },
+    {
+        "chem": "CaSO<sub>4</sub>",
+        "en": "Calcium sulfate",
+        "zh": "硫酸钙",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "4.93×10<sup>-5</sup>",
+        "pK": "4.31"
+    },
+    {
+        "chem": "CaSO<sub>4</sub>·2H<sub>2</sub>O",
+        "en": "Calcium sulfate 2-water",
+        "zh": "二水合硫酸钙",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "3.14×10<sup>-5</sup>",
+        "pK": "4.50"
+    },
+    {
+        "chem": "CaSO<sub>3</sub>",
+        "en": "Calcium sulfite",
+        "zh": "亚硫酸钙",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "6.8×10<sup>-8</sup>",
+        "pK": "7.17"
+    },
+    {
+        "chem": "CeF<sub>3</sub>",
+        "en": "Cerium(Ⅲ)fluoride",
+        "zh": "氟化铈(III)",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "8×10<sup>-16</sup>",
+        "pK": "15.1"
+    },
+    {
+        "chem": "Ce(OH)<sub>3</sub>",
+        "en": "Cerium(Ⅲ)hydroxide",
+        "zh": "氢氧化铈(III)",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "1.6×10<sup>-20</sup>",
+        "pK": "19.8"
+    },
+    {
+        "chem": "Ce(OH)<sub>4</sub>",
+        "en": "Cerium(Ⅳ)hydroxide",
+        "zh": "氢氧化铈(IV)",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "2×10<sup>-48</sup>",
+        "pK": "47.7"
+    },
+    {
+        "chem": "CePO<sub>4</sub>",
+        "en": "Cerium(Ⅲ)phosphate",
+        "zh": "磷酸铈(III)",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "1×10<sup>-23</sup>",
+        "pK": "23"
+    },
+    {
+        "chem": "Ce<sub>2</sub>S<sub>3</sub>",
+        "en": "Cerium(Ⅲ)sulfide",
+        "zh": "硫化铈(III)",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "6.0×10<sup>-11</sup>",
+        "pK": "10.22"
+    },
+    {
+        "chem": "Cs<sub>3</sub>[Co(NO<sub>2</sub>)<sub>6</sub>]",
+        "en": "Cesium cobalthexanitrite",
+        "zh": "六亚硝酸钴(III)酸铯",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "5.7×10<sup>-16</sup>",
+        "pK": "15.24"
+    },
+    {
+        "chem": "Cs<sub>2</sub>[PtCl<sub>6</sub>]",
+        "en": "Cesium hexachloroplatinate(Ⅳ)",
+        "zh": "六氯合铂(IV)酸铯",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "3.2×10<sup>-8</sup>",
+        "pK": "7.50"
+    },
+    {
+        "chem": "Cs<sub>2</sub>[PtF<sub>6</sub>]",
+        "en": "Cesium hexafluoroplatinate(Ⅳ)",
+        "zh": "六氟合铂(IV)酸铯",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "2.4×10<sup>-6</sup>",
+        "pK": "5.62"
+    },
+    {
+        "chem": "Cs<sub>2</sub>[SiF<sub>6</sub>]",
+        "en": "Cesium hexafluorosilicate",
+        "zh": "六氟硅酸铯",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "1.3×10<sup>-5</sup>",
+        "pK": "4.90"
+    },
+    {
+        "chem": "CsClO<sub>4</sub>",
+        "en": "Cesium perchlorate",
+        "zh": "高氯酸铯",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "3.95×10<sup>-3</sup>",
+        "pK": "2.40"
+    },
+    {
+        "chem": "CsIO<sub>4</sub>",
+        "en": "Cesium periodate",
+        "zh": "高碘酸铯",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "5.16×10<sup>-6</sup>",
+        "pK": "5.29"
+    },
+    {
+        "chem": "CsMnO<sub>4</sub>",
+        "en": "Cesium permanganate",
+        "zh": "高锰酸铯",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "8.2×10<sup>-5</sup>",
+        "pK": "4.08"
+    },
+    {
+        "chem": "CsReO<sub>4</sub>",
+        "en": "Cesium perrhanate",
+        "zh": "高铼酸铯",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "4.0×10<sup>-4</sup>",
+        "pK": "3.40"
+    },
+    {
+        "chem": "Cs[BF<sub>4</sub>]",
+        "en": "Cesium tetrafluoroborate",
+        "zh": "四氟硼酸铯",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "5×10<sup>-5</sup>",
+        "pK": "4.7"
+    },
+    {
+        "chem": "Cr(OH)<sub>2</sub>",
+        "en": "Chromium(Ⅱ)hydroxide",
+        "zh": "氢氧化铬(II)",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "2×10<sup>-16</sup>",
+        "pK": "15.7"
+    },
+    {
+        "chem": "CrAsO<sub>4</sub>",
+        "en": "Chromium(Ⅲ)arsenate",
+        "zh": "砷酸铬(III)",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "7.7×10<sup>-21</sup>",
+        "pK": "20.11"
+    },
+    {
+        "chem": "CrF<sub>3</sub>",
+        "en": "Chromium(Ⅲ)fluoride",
+        "zh": "氟化铬(III)",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "6.6×10<sup>-11</sup>",
+        "pK": "10.18"
+    },
+    {
+        "chem": "Cr(OH)<sub>3</sub>",
+        "en": "Chromium(Ⅲ)hydroxide",
+        "zh": "氢氧化铬(III)",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "6.3×10<sup>-31</sup>",
+        "pK": "30.20"
+    },
+    {
+        "chem": "CrPO<sub>4</sub>·4H<sub>2</sub>O(绿色)",
+        "en": "Chromium(Ⅲ)phosphate 4-water",
+        "zh": "四水合磷酸铬(III)(绿色)",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "2.4×10<sup>-23</sup>",
+        "pK": "22.62"
+    },
+    {
+        "chem": "CrPO<sub>4</sub>·4H<sub>2</sub>O(紫罗兰色)",
+        "en": "Chromium(Ⅲ)phosphate 4-water",
+        "zh": "四水合磷酸铬(III)(紫罗兰色)",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "1.0×10<sup>-17</sup>",
+        "pK": "17.00"
+    },
+    {
+        "chem": "Co<sub>3</sub>(AsO<sub>4</sub>)<sub>2</sub>",
+        "en": "Cobalt arsenate",
+        "zh": "砷酸钴",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "6.80×10<sup>-29</sup>",
+        "pK": "28.17"
+    },
+    {
+        "chem": "CoCO<sub>3</sub>",
+        "en": "Cobalt carbonate",
+        "zh": "碳酸钴",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "1.4×10<sup>-13</sup>",
+        "pK": "12.84"
+    },
+    {
+        "chem": "Co(OH)<sub>2</sub>(新生成)",
+        "en": "Cobalt(Ⅱ)hydroxide",
+        "zh": "氢氧化钴(II)(新生成)",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "5.92×10<sup>-15</sup>",
+        "pK": "14.23"
+    },
+    {
+        "chem": "Co(OH)<sub>3</sub>",
+        "en": "Cobalt(Ⅲ)hydroxide",
+        "zh": "氢氧化钴(III)",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "1.6×10<sup>-44</sup>",
+        "pK": "43.8"
+    },
+    {
+        "chem": "Co<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub>",
+        "en": "Cobalt phosphate",
+        "zh": "磷酸钴",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "2.05×10<sup>-35</sup>",
+        "pK": "34.69"
+    },
+    {
+        "chem": "α-CoS",
+        "en": "Cobalt sulfide",
+        "zh": "α-硫化钴",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "4.0×10<sup>-21</sup>",
+        "pK": "20.40"
+    },
+    {
+        "chem": "β-CoS",
+        "en": "Cobalt sulfide",
+        "zh": "β-硫化钴",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "2.0×10<sup>-25</sup>",
+        "pK": "24.70"
+    },
+    {
+        "chem": "CuN<sub>3</sub>",
+        "en": "Copper(Ⅰ)azide",
+        "zh": "叠氮化铜(I)",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "4.9×10<sup>-9</sup>",
+        "pK": "8.31"
+    },
+    {
+        "chem": "CuBr",
+        "en": "Copper(Ⅰ)bromide",
+        "zh": "溴化铜(I)",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "6.27×10<sup>-9</sup>",
+        "pK": "8.20"
+    },
+    {
+        "chem": "CuCl",
+        "en": "Copper(Ⅰ)chloride",
+        "zh": "氯化铜(I)",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "1.72×10<sup>-7</sup>",
+        "pK": "6.76"
+    },
+    {
+        "chem": "CuCN",
+        "en": "Copper(Ⅰ)cyanide",
+        "zh": "氰化铜(I)",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "3.47×10<sup>-20</sup>",
+        "pK": "19.46"
+    },
+    {
+        "chem": "CuOH",
+        "en": "Copper(Ⅰ)hydroxide",
+        "zh": "氢氧化铜(I)",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "1×10<sup>-14</sup>",
+        "pK": "14"
+    },
+    {
+        "chem": "CuI",
+        "en": "Copper(Ⅰ)iodide",
+        "zh": "碘化铜(I)",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "1.27×10<sup>-12</sup>",
+        "pK": "11.90"
+    },
+    {
+        "chem": "Cu<sub>2</sub>S",
+        "en": "Copper(Ⅰ)sulfide",
+        "zh": "硫化铜(I)",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "2.5×10<sup>-48</sup>",
+        "pK": "47.60"
+    },
+    {
+        "chem": "CuSCN",
+        "en": "Copper(Ⅰ)thiocyanate",
+        "zh": "硫氰酸铜(I)",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "1.77×10<sup>-13</sup>",
+        "pK": "12.75"
+    },
+    {
+        "chem": "Cu<sub>3</sub>(AsO<sub>4</sub>)<sub>2</sub>",
+        "en": "Copper arsenate",
+        "zh": "砷酸铜",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "7.95×10<sup>-36</sup>",
+        "pK": "35.10"
+    },
+    {
+        "chem": "Cu(N<sub>3</sub>)<sub>2</sub>",
+        "en": "Copper(Ⅱ)azide",
+        "zh": "叠氮化铜(II)",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "6.3×10<sup>-10</sup>",
+        "pK": "9.20"
+    },
+    {
+        "chem": "CuCO<sub>3</sub>",
+        "en": "Copper(Ⅱ)carbonate",
+        "zh": "碳酸铜(II)",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "1.4×10<sup>-10</sup>",
+        "pK": "9.86"
+    },
+    {
+        "chem": "CuCrO<sub>4</sub>",
+        "en": "Copper(Ⅱ)chromate",
+        "zh": "铬酸铜(II)",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "3.6×10<sup>-6</sup>",
+        "pK": "5.44"
+    },
+    {
+        "chem": "Cu(OH)<sub>2</sub>",
+        "en": "Copper(Ⅱ)hydroxide",
+        "zh": "氢氧化铜(II)",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "2.2×10<sup>-20</sup>",
+        "pK": "19.66"
+    },
+    {
+        "chem": "Cu(IO<sub>3</sub>)<sub>2</sub>",
+        "en": "Copper iodate",
+        "zh": "碘酸铜",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "6.94×10<sup>-8</sup>",
+        "pK": "7.16"
+    },
+    {
+        "chem": "CuC<sub>2</sub>O<sub>4</sub>",
+        "en": "Copper oxalate",
+        "zh": "草酸铜",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "4.43×10<sup>-10</sup>",
+        "pK": "9.35"
+    },
+    {
+        "chem": "Cu<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub>",
+        "en": "Copper phosphate",
+        "zh": "磷酸铜",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "1.40×10<sup>-37</sup>",
+        "pK": "36.85"
+    },
+    {
+        "chem": "CuS",
+        "en": "Copper sulfide",
+        "zh": "硫化铜",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "6.3×10<sup>-36</sup>",
+        "pK": "35.20"
+    },
+    {
+        "chem": "Ga(OH)<sub>3</sub>",
+        "en": "Gallium hydroxide",
+        "zh": "氢氧化镓",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "7.28×10<sup>-36</sup>",
+        "pK": "35.14"
+    },
+    {
+        "chem": "GeO<sub>2</sub>",
+        "en": "Germanium oxide",
+        "zh": "二氧化锗",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "1.0×10<sup>-57</sup>",
+        "pK": "57.0"
+    },
+    {
+        "chem": "AuCl<sub>3</sub>",
+        "en": "Gold(Ⅲ)chloride",
+        "zh": "氯化金(III)",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "3.2×10<sup>-25</sup>",
+        "pK": "24.50"
+    },
+    {
+        "chem": "Au(OH)<sub>3</sub>",
+        "en": "Gold(Ⅲ)hydroxide",
+        "zh": "氢氧化金(III)",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "5.5×10<sup>-46</sup>",
+        "pK": "45.26"
+    },
+    {
+        "chem": "AuI<sub>3</sub>",
+        "en": "Gold(Ⅲ)iodide",
+        "zh": "碘化金(III)",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "1×10<sup>-46</sup>",
+        "pK": "46"
+    },
+    {
+        "chem": "Hf(OH)<sub>3</sub>",
+        "en": "Hafnium hydroxide",
+        "zh": "氢氧化铪",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "4.0×10<sup>-26</sup>",
+        "pK": "25.40"
+    },
+    {
+        "chem": "In(OH)<sub>3</sub>",
+        "en": "Indium hydroxide",
+        "zh": "氢氧化铟",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "6.3×10<sup>-34</sup>",
+        "pK": "33.2"
+    },
+    {
+        "chem": "In<sub>2</sub>S<sub>3</sub>",
+        "en": "Indium sulfide",
+        "zh": "硫化铟",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "5.7×10<sup>-74</sup>",
+        "pK": "73.24"
+    },
+    {
+        "chem": "FeCO<sub>3</sub>",
+        "en": "Iron(Ⅱ)carbonate",
+        "zh": "碳酸亚铁",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "3.13×10<sup>-11</sup>",
+        "pK": "10.50"
+    },
+    {
+        "chem": "FeF<sub>2</sub>",
+        "en": "Iron(Ⅱ)fluoride",
+        "zh": "氟化亚铁",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "2.36×10<sup>-6</sup>",
+        "pK": "5.63"
+    },
+    {
+        "chem": "Fe(OH)<sub>2</sub>",
+        "en": "Iron(Ⅱ)hydroxide",
+        "zh": "氢氧化亚铁",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "4.87×10<sup>-17</sup>",
+        "pK": "16.31"
+    },
+    {
+        "chem": "FeS",
+        "en": "Iron(Ⅱ)sulfide",
+        "zh": "硫化亚铁",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "6.3×10<sup>-18</sup>",
+        "pK": "17.20"
+    },
+    {
+        "chem": "FeAsO<sub>4</sub>",
+        "en": "Iron(Ⅲ)arsenate",
+        "zh": "砷酸铁(III)",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "5.7×10<sup>-21</sup>",
+        "pK": "20.24"
+    },
+    {
+        "chem": "Fe(OH)<sub>3</sub>",
+        "en": "Iron(Ⅲ)hydroxide",
+        "zh": "氢氧化铁(III)",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "2.79×10<sup>-39</sup>",
+        "pK": "38.55"
+    },
+    {
+        "chem": "FePO<sub>4</sub>·2H<sub>2</sub>O",
+        "en": "Iron(Ⅲ)phosphate dihydrate",
+        "zh": "二水合磷酸铁(III)",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "9.91×10<sup>-16</sup>",
+        "pK": "15.00"
+    },
+    {
+        "chem": "La(OH)<sub>3</sub>",
+        "en": "Lanthanum hydroxide",
+        "zh": "氢氧化镧",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "2.0×10<sup>-19</sup>",
+        "pK": "18.70"
+    },
+    {
+        "chem": "LaPO<sub>4</sub>",
+        "en": "Lanthanum phosphate",
+        "zh": "磷酸镧",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "3.7×10<sup>-23</sup>",
+        "pK": "22.43"
+    },
+    {
+        "chem": "La<sub>2</sub>S<sub>3</sub>",
+        "en": "Lanthanum sulfide",
+        "zh": "硫化镧",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "2.0×10<sup>-13</sup>",
+        "pK": "12.70"
+    },
+    {
+        "chem": "Pb(OAc)<sub>2</sub>",
+        "en": "Lead acetate",
+        "zh": "乙酸铅",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "1.8×10<sup>-3</sup>",
+        "pK": "2.75"
+    },
+    {
+        "chem": "Pb<sub>3</sub>(AsO<sub>4</sub>)<sub>3</sub>",
+        "en": "Lead arsenate",
+        "zh": "砷酸铅",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "4.0×10<sup>-36</sup>",
+        "pK": "35.39"
+    },
+    {
+        "chem": "Pb(N<sub>3</sub>)<sub>2</sub>",
+        "en": "Lead azide",
+        "zh": "叠氮化铅",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "2.5×10<sup>-9</sup>",
+        "pK": "8.59"
+    },
+    {
+        "chem": "PbCO<sub>3</sub>",
+        "en": "Lead carbonate",
+        "zh": "碳酸铅",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "7.4×10<sup>-14</sup>",
+        "pK": "13.13"
+    },
+    {
+        "chem": "PbCl<sub>2</sub>",
+        "en": "Lead chloride",
+        "zh": "氯化铅",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "1.70×10<sup>-5</sup>",
+        "pK": "4.77"
+    },
+    {
+        "chem": "PbCrO<sub>4</sub>",
+        "en": "Lead chromate",
+        "zh": "铬酸铅",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "2.8×10<sup>-13</sup>",
+        "pK": "12.55"
+    },
+    {
+        "chem": "PbF<sub>2</sub>",
+        "en": "Lead fluoride",
+        "zh": "氟化铅",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "3.3×10<sup>-8</sup>",
+        "pK": "7.48"
+    },
+    {
+        "chem": "Pb(OH)<sub>2</sub>",
+        "en": "Lead hydroxide",
+        "zh": "氢氧化铅",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "1.43×10<sup>-15</sup>",
+        "pK": "14.84"
+    },
+    {
+        "chem": "Pb(IO<sub>3</sub>)<sub>2</sub>",
+        "en": "Lead iodate",
+        "zh": "碘酸铅",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "3.69×10<sup>-13</sup>",
+        "pK": "12.43"
+    },
+    {
+        "chem": "PbI<sub>2</sub>",
+        "en": "Lead iodide",
+        "zh": "碘化铅",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "9.8×10<sup>-9</sup>",
+        "pK": "8.01"
+    },
+    {
+        "chem": "PbC<sub>2</sub>O<sub>4</sub>",
+        "en": "Lead oxalate",
+        "zh": "草酸铅",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "4.8×10<sup>-10</sup>",
+        "pK": "9.32"
+    },
+    {
+        "chem": "Pb<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub>",
+        "en": "Lead phosphate",
+        "zh": "磷酸铅",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "8.0×10<sup>-43</sup>",
+        "pK": "42.10"
+    },
+    {
+        "chem": "PbSO<sub>4</sub>",
+        "en": "Lead sulfate",
+        "zh": "硫酸铅",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "2.53×10<sup>-8</sup>",
+        "pK": "7.60"
+    },
+    {
+        "chem": "PbS",
+        "en": "Lead sulfide",
+        "zh": "硫化铅",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "8.0×10<sup>-28</sup>",
+        "pK": "27.10"
+    },
+    {
+        "chem": "Li<sub>2</sub>CO<sub>3</sub>",
+        "en": "Lithium carbonate",
+        "zh": "碳酸锂",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "2.5×10<sup>-2</sup>",
+        "pK": "1.60"
+    },
+    {
+        "chem": "LiF",
+        "en": "Lithium fluoride",
+        "zh": "氟化锂",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "1.84×10<sup>-3</sup>",
+        "pK": "2.74"
+    },
+    {
+        "chem": "Li<sub>3</sub>PO<sub>4</sub>",
+        "en": "Lithium phosphate",
+        "zh": "磷酸锂",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "2.37×10<sup>-11</sup>",
+        "pK": "10.63"
+    },
+    {
+        "chem": "MgNH<sub>4</sub>PO<sub>4</sub>",
+        "en": "Magnesium ammonium phosphate",
+        "zh": "磷酸铵镁",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "2.5×10<sup>-13</sup>",
+        "pK": "12.60"
+    },
+    {
+        "chem": "Mg<sub>3</sub>(AsO<sub>4</sub>)<sub>2</sub>",
+        "en": "Magnesium arsenate",
+        "zh": "砷酸镁",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "2.1×10<sup>-20</sup>",
+        "pK": "19.68"
+    },
+    {
+        "chem": "MgCO<sub>3</sub>",
+        "en": "Magnesium carbonate",
+        "zh": "碳酸镁",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "6.82×10<sup>-6</sup>",
+        "pK": "5.17"
+    },
+    {
+        "chem": "MgF<sub>2</sub>",
+        "en": "Magnesium fluoride",
+        "zh": "氟化镁",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "5.16×10<sup>-11</sup>",
+        "pK": "10.29"
+    },
+    {
+        "chem": "Mg(OH)<sub>2</sub>",
+        "en": "Magnesium hydroxide",
+        "zh": "氢氧化镁",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "5.61×10<sup>-12</sup>",
+        "pK": "11.25"
+    },
+    {
+        "chem": "Mg<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub>",
+        "en": "Magnesium phosphate",
+        "zh": "磷酸镁",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "1.04×10<sup>-24</sup>",
+        "pK": "23.98"
+    },
+    {
+        "chem": "MnCO<sub>3</sub>",
+        "en": "Manganese carbonate",
+        "zh": "碳酸锰",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "2.34×10<sup>-11</sup>",
+        "pK": "10.63"
+    },
+    {
+        "chem": "Mn(OH)<sub>2</sub>",
+        "en": "Manganese hydroxide",
+        "zh": "氢氧化锰",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "1.9×10<sup>-13</sup>",
+        "pK": "12.72"
+    },
+    {
+        "chem": "MnS(无定形)",
+        "en": "Manganese sulfide",
+        "zh": "硫化锰(无定形)",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "2.5×10<sup>-10</sup>",
+        "pK": "9.60"
+    },
+    {
+        "chem": "MnS(晶体)",
+        "en": "Manganese sulfide",
+        "zh": "硫化锰(晶体)",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "2.5×10<sup>-13</sup>",
+        "pK": "12.60"
+    },
+    {
+        "chem": "Hg<sub>2</sub>(N<sub>3</sub>)<sub>2</sub>",
+        "en": "Mercury(Ⅰ)azide",
+        "zh": "叠氮化亚汞",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "7.1×10<sup>-10</sup>",
+        "pK": "9.15"
+    },
+    {
+        "chem": "Hg<sub>2</sub>Br<sub>2</sub>",
+        "en": "Mercury(Ⅰ)bromide",
+        "zh": "溴化亚汞",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "6.40×10<sup>-23</sup>",
+        "pK": "22.19"
+    },
+    {
+        "chem": "Hg<sub>2</sub>CO<sub>3</sub>",
+        "en": "Mercury(Ⅰ)carbonate",
+        "zh": "碳酸亚汞",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "3.6×10<sup>-17</sup>",
+        "pK": "16.44"
+    },
+    {
+        "chem": "Hg<sub>2</sub>Cl<sub>2</sub>",
+        "en": "Mercury(Ⅰ)chloride",
+        "zh": "氯化亚汞",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "1.43×10<sup>-18</sup>",
+        "pK": "17.84"
+    },
+    {
+        "chem": "Hg<sub>2</sub>(CN)<sub>2</sub>",
+        "en": "Mercury(Ⅰ)cyanide",
+        "zh": "氰化亚汞",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "5×10<sup>-40</sup>",
+        "pK": "39.3"
+    },
+    {
+        "chem": "Hg<sub>2</sub>CrO<sub>4</sub>",
+        "en": "Mercury(Ⅰ)chromate",
+        "zh": "铬酸亚汞",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "2.0×10<sup>-9</sup>",
+        "pK": "8.70"
+    },
+    {
+        "chem": "Hg<sub>2</sub>F<sub>2</sub>",
+        "en": "Mercury(Ⅰ)fluoride",
+        "zh": "氟化亚汞",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "3.10×10<sup>-6</sup>",
+        "pK": "5.51"
+    },
+    {
+        "chem": "Hg<sub>2</sub>(OH)<sub>2</sub>",
+        "en": "Mercury(Ⅰ)hydroxide",
+        "zh": "氢氧化亚汞",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "2.0×10<sup>-24</sup>",
+        "pK": "23.70"
+    },
+    {
+        "chem": "Hg<sub>2</sub>I<sub>2</sub>",
+        "en": "Mercury iodide",
+        "zh": "碘化亚汞",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "5.2×10<sup>-29</sup>",
+        "pK": "28.72"
+    },
+    {
+        "chem": "Hg<sub>2</sub>SO<sub>4</sub>",
+        "en": "Mercury sulfate",
+        "zh": "硫酸亚汞",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "6.5×10<sup>-7</sup>",
+        "pK": "6.19"
+    },
+    {
+        "chem": "Hg<sub>2</sub>S",
+        "en": "Mercury sulfide",
+        "zh": "硫化亚汞",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "1.0×10<sup>-47</sup>",
+        "pK": "47.0"
+    },
+    {
+        "chem": "HgBr<sub>2</sub>",
+        "en": "Mercury bromide",
+        "zh": "溴化汞",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "6.2×10<sup>-20</sup>",
+        "pK": "19.21"
+    },
+    {
+        "chem": "Hg(OH)<sub>2</sub>",
+        "en": "Mercury hydroxide",
+        "zh": "氢氧化汞",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "3.2×10<sup>-26</sup>",
+        "pK": "25.52"
+    },
+    {
+        "chem": "Hg(IO<sub>3</sub>)<sub>2</sub>",
+        "en": "Mercury iodate",
+        "zh": "碘酸汞",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "3.2×10<sup>-13</sup>",
+        "pK": "12.49"
+    },
+    {
+        "chem": "HgI<sub>2</sub>",
+        "en": "Mercury iodide",
+        "zh": "碘化汞",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "2.9×10<sup>-29</sup>",
+        "pK": "28.54"
+    },
+    {
+        "chem": "HgS(红)",
+        "en": "Mercury sulfide",
+        "zh": "硫化汞(红色)",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "4×10<sup>-53</sup>",
+        "pK": "52.4"
+    },
+    {
+        "chem": "HgS(黑)",
+        "en": "Mercury sulfide",
+        "zh": "硫化汞(黑色)",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "1.6×10<sup>-52</sup>",
+        "pK": "51.80"
+    },
+    {
+        "chem": "Nd(OH)<sub>3</sub>",
+        "en": "Neodymium hydroxide",
+        "zh": "氢氧化钕",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "3.2×10<sup>-22</sup>",
+        "pK": "21.49"
+    },
+    {
+        "chem": "Ni<sub>3</sub>(AsO<sub>4</sub>)<sub>2</sub>",
+        "en": "Nickel arsenate",
+        "zh": "砷酸镍",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "3.1×10<sup>-26</sup>",
+        "pK": "25.51"
+    },
+    {
+        "chem": "NiCO<sub>3</sub>",
+        "en": "Nickel carbonate",
+        "zh": "碳酸镍",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "1.42×10<sup>-7</sup>",
+        "pK": "6.85"
+    },
+    {
+        "chem": "Ni(OH)<sub>2</sub>(新生成)",
+        "en": "Nickel hydroxide",
+        "zh": "氢氧化镍(II)(新生成)",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "5.48×10<sup>-16</sup>",
+        "pK": "15.26"
+    },
+    {
+        "chem": "NiC<sub>2</sub>O<sub>4</sub>",
+        "en": "Nickel oxalate",
+        "zh": "草酸镍",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "4×10<sup>-10</sup>",
+        "pK": "9.4"
+    },
+    {
+        "chem": "Ni<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub>",
+        "en": "Nickel phosphate",
+        "zh": "磷酸镍",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "4.74×10<sup>-32</sup>",
+        "pK": "31.32"
+    },
+    {
+        "chem": "β-NiS",
+        "en": "Nickel β-sulfide",
+        "zh": "β-硫化镍",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "1.0×10<sup>-24</sup>",
+        "pK": "24.0"
+    },
+    {
+        "chem": "Pd(OH)<sub>2</sub>",
+        "en": "Palladium(Ⅱ)hydroxide",
+        "zh": "氢氧化钯(II)",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "1.0×10<sup>-31</sup>",
+        "pK": "31.0"
+    },
+    {
+        "chem": "Pt(OH)<sub>2</sub>",
+        "en": "Platinum(Ⅱ)hydroxide",
+        "zh": "氢氧化铂(II)",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "1×10<sup>-35</sup>",
+        "pK": "35"
+    },
+    {
+        "chem": "K<sub>2</sub>[PtBr<sub>6</sub>]",
+        "en": "Potassium hexabromoplatinate",
+        "zh": "六溴合铂(IV)酸钾",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "6.3×10<sup>-5</sup>",
+        "pK": "4.20"
+    },
+    {
+        "chem": "K<sub>2</sub>[PdCl<sub>6</sub>]",
+        "en": "Potassium hexachloropalladinate",
+        "zh": "六氯合钯(IV)酸钾",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "6.0×10<sup>-6</sup>",
+        "pK": "5.22"
+    },
+    {
+        "chem": "K<sub>2</sub>[PtCl<sub>6</sub>]",
+        "en": "Potassium hexachloroplatinate",
+        "zh": "六氯合铂(IV)酸钾",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "7.48×10<sup>-6</sup>",
+        "pK": "5.13"
+    },
+    {
+        "chem": "K<sub>2</sub>[PtF<sub>6</sub>]",
+        "en": "Potassium hexafluoroplatinate",
+        "zh": "六氟合铂(IV)酸钾",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "2.9×10<sup>-5</sup>",
+        "pK": "4.54"
+    },
+    {
+        "chem": "K<sub>2</sub>[SiF<sub>6</sub>]",
+        "en": "Potassium hexafluorosilicate",
+        "zh": "六氟硅酸钾",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "8.7×10<sup>-7</sup>",
+        "pK": "6.06"
+    },
+    {
+        "chem": "KIO<sub>4</sub>",
+        "en": "Potassium iodate",
+        "zh": "高碘酸钾",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "3.74×10<sup>-4</sup>",
+        "pK": "3.43"
+    },
+    {
+        "chem": "KClO<sub>4</sub>",
+        "en": "Potassium perchlorate",
+        "zh": "高氯酸钾",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "1.05×10<sup>-2</sup>",
+        "pK": "1.98"
+    },
+    {
+        "chem": "K<sub>2</sub>Na[Co(NO<sub>2</sub>)<sub>6</sub>]·H<sub>2</sub>O",
+        "en": "Potassium cobaltinitrite hydrate",
+        "zh": "一水合六亚硝酸钴(III)酸钠钾",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "2.2×10<sup>-11</sup>",
+        "pK": "10.66"
+    },
+    {
+        "chem": "Pr(OH)<sub>3</sub>",
+        "en": "Praseodymium hydroxide",
+        "zh": "氢氧化镨",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "3.39×10<sup>-24</sup>",
+        "pK": "23.45"
+    },
+    {
+        "chem": "Rh(OH)<sub>3</sub>",
+        "en": "Rhodium hydroxide",
+        "zh": "氢氧化铑",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "1×10<sup>-23</sup>",
+        "pK": "23"
+    },
+    {
+        "chem": "Rb<sub>3</sub>[Co(NO<sub>2</sub>)<sub>6</sub>]",
+        "en": "Rubidium cobaltinitrite",
+        "zh": "六亚硝酸钴(III)酸铷",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "1.5×10<sup>-15</sup>",
+        "pK": "14.83"
+    },
+    {
+        "chem": "Rb<sub>2</sub>[PtCl<sub>6</sub>]",
+        "en": "Rubidium hexachloroplatinate",
+        "zh": "六氯合铂(IV)酸铷",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "6.3×10<sup>-8</sup>",
+        "pK": "7.20"
+    },
+    {
+        "chem": "Rb<sub>2</sub>[PtF<sub>6</sub>]",
+        "en": "Rubidium hexafluoroplatinate",
+        "zh": "六氟合铂(IV)酸铷",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "7.7×10<sup>-7</sup>",
+        "pK": "6.12"
+    },
+    {
+        "chem": "Rb<sub>2</sub>[SiF<sub>6</sub>]",
+        "en": "Rubidium hexafluorosilicate",
+        "zh": "六氟硅酸铷",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "5.0×10<sup>-7</sup>",
+        "pK": "6.30"
+    },
+    {
+        "chem": "RbClO<sub>4</sub>",
+        "en": "Rubidium perchlorate",
+        "zh": "高氯酸铷",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "3.0×10<sup>-3</sup>",
+        "pK": "2.52"
+    },
+    {
+        "chem": "RbIO<sub>4</sub>",
+        "en": "Rubidium periodate",
+        "zh": "高碘酸铷",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "5.5×10<sup>-4</sup>",
+        "pK": "3.26"
+    },
+    {
+        "chem": "Ru(OH)<sub>3</sub>",
+        "en": "Ruthenium hydroxide",
+        "zh": "氢氧化钌",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "1×10<sup>-36</sup>",
+        "pK": "36"
+    },
+    {
+        "chem": "Ag<sub>3</sub>AsO<sub>4</sub>",
+        "en": "Silver arsenate",
+        "zh": "砷酸银",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "1.03×10<sup>-22</sup>",
+        "pK": "21.99"
+    },
+    {
+        "chem": "AgN<sub>3</sub>",
+        "en": "Silver azide",
+        "zh": "叠氮化银",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "2.8×10<sup>-9</sup>",
+        "pK": "8.54"
+    },
+    {
+        "chem": "AgBr",
+        "en": "Silver bromide",
+        "zh": "溴化银",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "5.35×10<sup>-13</sup>",
+        "pK": "12.27"
+    },
+    {
+        "chem": "Ag<sub>2</sub>CO<sub>3</sub>",
+        "en": "Silver carbonate",
+        "zh": "碳酸银",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "8.46×10<sup>-12</sup>",
+        "pK": "11.07"
+    },
+    {
+        "chem": "AgCl",
+        "en": "Silver chloride",
+        "zh": "氯化银",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "1.77×10<sup>-10</sup>",
+        "pK": "9.75"
+    },
+    {
+        "chem": "Ag<sub>2</sub>CrO<sub>4</sub>",
+        "en": "Silver chromate",
+        "zh": "铬酸银",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "1.12×10<sup>-12</sup>",
+        "pK": "11.95"
+    },
+    {
+        "chem": "AgCN",
+        "en": "Silver cyanide",
+        "zh": "氰化银",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "5.97×10<sup>-17</sup>",
+        "pK": "16.22"
+    },
+    {
+        "chem": "AgIO<sub>3</sub>",
+        "en": "Silver iodate",
+        "zh": "碘酸银",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "3.17×10<sup>-8</sup>",
+        "pK": "7.50"
+    },
+    {
+        "chem": "AgI",
+        "en": "Silver iodide",
+        "zh": "碘化银",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "8.52×10<sup>-17</sup>",
+        "pK": "16.07"
+    },
+    {
+        "chem": "AgNO<sub>2</sub>",
+        "en": "Silver nitrite",
+        "zh": "亚硝酸银",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "6.0×10<sup>-4</sup>",
+        "pK": "3.22"
+    },
+    {
+        "chem": "Ag<sub>2</sub>C<sub>2</sub>O<sub>4</sub>",
+        "en": "Silver oxalate",
+        "zh": "草酸银",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "5.40×10<sup>-12</sup>",
+        "pK": "11.27"
+    },
+    {
+        "chem": "Ag<sub>3</sub>PO<sub>4</sub>",
+        "en": "Silver phosphate",
+        "zh": "磷酸银",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "8.89×10<sup>-17</sup>",
+        "pK": "16.05"
+    },
+    {
+        "chem": "Ag<sub>2</sub>SO<sub>4</sub>",
+        "en": "Silver sulfate",
+        "zh": "硫酸银",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "1.20×10<sup>-5</sup>",
+        "pK": "4.92"
+    },
+    {
+        "chem": "Ag<sub>2</sub>SO<sub>3</sub>",
+        "en": "Silver sulfite",
+        "zh": "亚硫酸银",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "1.50×10<sup>-14</sup>",
+        "pK": "13.82"
+    },
+    {
+        "chem": "Ag<sub>2</sub>S",
+        "en": "Silver sulfide",
+        "zh": "硫化银",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "6.3×10<sup>-50</sup>",
+        "pK": "49.20"
+    },
+    {
+        "chem": "Na[Sb(OH)<sub>6</sub>]",
+        "en": "Sodium antimonate",
+        "zh": "六羟基锑酸钠",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "4×10<sup>-8</sup>",
+        "pK": "7.4"
+    },
+    {
+        "chem": "Na<sub>2</sub>[AlF<sub>6</sub>]",
+        "en": "Sodium hexafluoroaluminate",
+        "zh": "六氟铝酸钠",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "4.0×10<sup>-10</sup>",
+        "pK": "9.39"
+    },
+    {
+        "chem": "SrCO<sub>3</sub>",
+        "en": "Strontium carbonate",
+        "zh": "碳酸锶",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "5.60×10<sup>-10</sup>",
+        "pK": "9.25"
+    },
+    {
+        "chem": "SrCrO<sub>4</sub>",
+        "en": "Strontium chromate",
+        "zh": "铬酸锶",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "2.2×10<sup>-5</sup>",
+        "pK": "4.65"
+    },
+    {
+        "chem": "SrF<sub>2</sub>",
+        "en": "Strontium fluoride",
+        "zh": "氟化锶",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "4.33×10<sup>-9</sup>",
+        "pK": "8.36"
+    },
+    {
+        "chem": "Sr<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub>",
+        "en": "Strontium phosphate",
+        "zh": "磷酸锶",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "4.0×10<sup>-28</sup>",
+        "pK": "27.39"
+    },
+    {
+        "chem": "SrSO<sub>4</sub>",
+        "en": "Strontium sulfate",
+        "zh": "硫酸锶",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "3.44×10<sup>-7</sup>",
+        "pK": "6.46"
+    },
+    {
+        "chem": "TlCl",
+        "en": "Thallium chloride",
+        "zh": "氯化铊",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "1.86×10<sup>-4</sup>",
+        "pK": "3.73"
+    },
+    {
+        "chem": "Tl<sub>2</sub>CrO<sub>4</sub>",
+        "en": "Thallium chromate",
+        "zh": "铬酸铊",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "8.67×10<sup>-13</sup>",
+        "pK": "12.06"
+    },
+    {
+        "chem": "TlIO<sub>3</sub>",
+        "en": "Thallium iodate",
+        "zh": "碘酸铊",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "3.12×10<sup>-6</sup>",
+        "pK": "5.51"
+    },
+    {
+        "chem": "TlI",
+        "en": "Thallium iodide",
+        "zh": "碘化铊",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "5.54×10<sup>-8</sup>",
+        "pK": "7.26"
+    },
+    {
+        "chem": "Tl<sub>2</sub>S",
+        "en": "Thallium sulfide",
+        "zh": "硫化铊",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "5.0×10<sup>-21</sup>",
+        "pK": "20.30"
+    },
+    {
+        "chem": "Tl(OH)<sub>3</sub>",
+        "en": "Thallium hydroxide",
+        "zh": "氢氧化铊",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "1.68×10<sup>-44</sup>",
+        "pK": "43.77"
+    },
+    {
+        "chem": "Sn(OH)<sub>2</sub>",
+        "en": "Tin(Ⅱ)hydroxide",
+        "zh": "氢氧化锡(II)",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "5.45×10<sup>-28</sup>",
+        "pK": "27.26"
+    },
+    {
+        "chem": "Sn(OH)<sub>4</sub>",
+        "en": "Tin(Ⅳ)hydroxide",
+        "zh": "氢氧化锡(IV)",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "1×10<sup>-56</sup>",
+        "pK": "56"
+    },
+    {
+        "chem": "SnS",
+        "en": "Tin sulfide",
+        "zh": "硫化锡",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "1.0×10<sup>-25</sup>",
+        "pK": "25.00"
+    },
+    {
+        "chem": "Ti(OH)<sub>3</sub>",
+        "en": "Titanium(Ⅲ)hydroxide",
+        "zh": "氢氧化钛(III)",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "1×10<sup>-40</sup>",
+        "pK": "40"
+    },
+    {
+        "chem": "TiO(OH)<sub>2</sub>",
+        "en": "Titanium(Ⅳ)oxide hydroxide",
+        "zh": "氢氧化氧钛(IV)",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "1×10<sup>-29</sup>",
+        "pK": "29"
+    },
+    {
+        "chem": "VO(OH)<sub>2</sub>",
+        "en": "Vanadium(Ⅳ)hydroxide",
+        "zh": "氢氧化氧钒(IV)",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "5.9×10<sup>-23</sup>",
+        "pK": "22.13"
+    },
+    {
+        "chem": "(VO<sub>2</sub>)<sub>3</sub>PO<sub>4</sub>",
+        "en": "Vanadium(Ⅲ)phosphate",
+        "zh": "磷酸钒(III)",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "8×10<sup>-25</sup>",
+        "pK": "24.1"
+    },
+    {
+        "chem": "Zn<sub>3</sub>(AsO<sub>4</sub>)<sub>2</sub>",
+        "en": "Zinc arsenate",
+        "zh": "砷酸锌",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "2.8×10<sup>-28</sup>",
+        "pK": "27.55"
+    },
+    {
+        "chem": "ZnCO<sub>3</sub>",
+        "en": "Zinc carbonate",
+        "zh": "碳酸锌",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "1.46×10<sup>-10</sup>",
+        "pK": "9.94"
+    },
+    {
+        "chem": "ZnF<sub>2</sub>",
+        "en": "Zinc fluoride",
+        "zh": "氟化锌",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "3.04×10<sup>-2</sup>",
+        "pK": "1.52"
+    },
+    {
+        "chem": "Zn(OH)<sub>2</sub>",
+        "en": "Zinc hydroxide",
+        "zh": "氢氧化锌",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "3×10<sup>-17</sup>",
+        "pK": "16.5"
+    },
+    {
+        "chem": "Zn<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub>",
+        "en": "Zinc phosphate",
+        "zh": "磷酸锌",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "9.0×10<sup>-33</sup>",
+        "pK": "32.04"
+    },
+    {
+        "chem": "α-ZnS",
+        "en": "Zinc sulfide",
+        "zh": "α-硫化锌",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "1.6×10<sup>-24</sup>",
+        "pK": "23.80"
+    },
+    {
+        "chem": "β-ZnS",
+        "en": "Zinc sulfide",
+        "zh": "β-硫化锌",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "2.5×10<sup>-22</sup>",
+        "pK": "21.60"
+    },
+    {
+        "chem": "ZrO(OH)<sub>2</sub>",
+        "en": "Zirconium oxide hydroxide",
+        "zh": "氢氧化氧锆",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "6.3×10<sup>-49</sup>",
+        "pK": "48.20"
+    },
+    {
+        "chem": "Zr<sub>3</sub>(PO<sub>4</sub>)<sub>4</sub>",
+        "en": "Zirconium phosphate",
+        "zh": "磷酸锆",
+        "type": "难溶物",
+        "series": "",
+        "T": "",
+        "K": "1×10<sup>-132</sup>",
+        "pK": "132"
+    }
+]

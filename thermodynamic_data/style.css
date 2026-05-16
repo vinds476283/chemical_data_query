@@ -1,0 +1,383 @@
+/*
+MIT License
+
+Copyright (c) 2026 [vinds](https://y.vinds.top)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    background-color: #f5f7fa;
+    color: #333;
+    line-height: 1.6;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+body.dark {
+    background-color: #1a1a2e;
+    color: #e0e0e0;
+}
+
+.h {
+    background: #0080ff;
+    color: white;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.dark .h {
+    background: #0060c0;
+}
+
+.b {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header-left {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.avatar-container {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background: rgba(255, 255, 255, 0.2);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.3s ease;
+    cursor: default;
+}
+
+.avatar-container:hover {
+    transform: scale(1.05);
+    background: rgba(255, 255, 255, 0.3);
+}
+
+.l {
+    font-size: 28px;
+    font-weight: 700;
+    letter-spacing: 1px;
+}
+
+.c {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+#b {
+    background: rgba(255, 255, 255, 0.2);
+    border: none;
+    color: white;
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    cursor: pointer;
+    font-size: 18px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.3s;
+}
+
+#b:hover {
+    background: rgba(255, 255, 255, 0.3);
+    transform: translateY(-2px);
+}
+
+.k {
+    max-width: 1200px;
+    margin: 0 auto 20px;
+    padding: 0 20px;
+    position: sticky;
+    top: 0;
+    background-color: #f5f7fa;
+    z-index: 100;
+    padding-top: 15px;
+}
+
+body.dark .k {
+    background-color: #1a1a2e;
+}
+
+.h {
+    position: relative;
+    z-index: 101;
+}
+
+.search-container {
+    background: white;
+    border-radius: 60px;
+    padding: 8px 20px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+    transition: all 0.3s;
+}
+
+.dark .search-container {
+    background: #2d3047;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+.search-wrapper {
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+.search-icon {
+    position: absolute;
+    left: 12px;
+    color: #0080ff;
+    font-size: 18px;
+}
+
+#c {
+    width: 100%;
+    padding: 14px 50px 14px 45px;
+    font-size: 16px;
+    border: none;
+    background: transparent;
+    outline: none;
+    color: #333;
+}
+
+.dark #c {
+    color: #e0e0e0;
+}
+
+#c::placeholder {
+    color: #aaa;
+}
+
+.clear-btn {
+    position: absolute;
+    right: 10px;
+    background: none;
+    border: none;
+    font-size: 18px;
+    color: #aaa;
+    cursor: pointer;
+    padding: 5px;
+    border-radius: 50%;
+    transition: all 0.2s;
+}
+
+.clear-btn:hover {
+    color: #0080ff;
+    background: rgba(0, 128, 255, 0.1);
+}
+
+.search-tip {
+    font-size: 12px;
+    color: #888;
+    margin-top: 8px;
+    margin-left: 12px;
+    padding-bottom: 6px;
+}
+
+.dark .search-tip {
+    color: #aaa;
+}
+
+.v {
+    max-width: 1200px;
+    margin: 0 auto 40px;
+    padding: 0 20px;
+}
+
+.w {
+    background: white;
+    border-radius: 20px;
+    padding: 20px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.dark .w {
+    background: #2d3047;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+}
+
+.w:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 12px 25px rgba(0, 0, 0, 0.12);
+}
+
+.table-card {
+    overflow: hidden;
+    padding: 0;
+}
+
+.table-wrapper {
+    overflow-x: auto;
+    border-radius: 16px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 14px;
+}
+
+thead tr {
+    background: #f0f7ff;
+    border-bottom: 2px solid #0080ff;
+}
+
+.dark thead tr {
+    background: #1e2a3a;
+    border-bottom: 2px solid #0080ff;
+}
+
+th {
+    padding: 16px 12px;
+    text-align: left;
+    font-weight: 600;
+    color: #0080ff;
+    white-space: nowrap;
+}
+
+.dark th {
+    color: #4da6ff;
+}
+
+td {
+    padding: 12px 12px;
+    border-bottom: 1px solid #eaeaea;
+    color: #333;
+    white-space: nowrap;
+}
+
+.dark td {
+    border-bottom: 1px solid #3a3d5c;
+    color: #e0e0e0;
+}
+
+tbody tr:hover {
+    background-color: #f8fbff;
+}
+
+.dark tbody tr:hover {
+    background-color: #3a3d5c;
+}
+
+.no-result {
+    text-align: center;
+    padding: 48px 20px;
+    font-size: 18px;
+    color: #888;
+    background: #f9f9f9;
+    border-radius: 16px;
+    margin: 10px;
+}
+
+.dark .no-result {
+    background: #252a3e;
+    color: #aaa;
+}
+
+.footer {
+    max-width: 1200px;
+    margin: 20px auto 30px;
+    padding: 20px;
+    text-align: center;
+    color: #666;
+    border-top: 1px solid #eaeaea;
+}
+
+.dark .footer {
+    color: #aaa;
+    border-top: 1px solid #3a3d5c;
+}
+
+.notice-content {
+    font-size: 14px;
+    line-height: 1.6;
+}
+
+.notice-content p {
+    margin-bottom: 8px;
+}
+
+#h {
+    font-style: italic;
+    color: #666;
+}
+
+.dark #h {
+    color: #aaa;
+}
+
+#j {
+    font-size: 12px;
+    color: #888;
+    margin-left: 20px;
+}
+
+.dark #j {
+    color: #999;
+}
+
+.footer a {
+    text-decoration: none;
+    transition: text-decoration 0.2s ease;
+}
+
+.footer a:hover {
+    text-decoration: underline;
+}
+
+@media (max-width: 768px) {
+    .l {
+        font-size: 20px;
+    }
+    .avatar-container {
+        width: 48px;
+        height: 48px;
+    }
+    .avatar-container i {
+        font-size: 24px !important;
+        margin: 12px !important;
+    }
+    th,
+    td {
+        padding: 10px 8px;
+        font-size: 12px;
+    }
+    .search-container {
+        padding: 5px 16px;
+    }
+    #c {
+        padding: 12px 45px 12px 40px;
+    }
+}
