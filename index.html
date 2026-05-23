@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<!--
+MIT License
+
+Copyright (c) 2026 [vinds](https://y.vinds.top)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+-->
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>vinds | 化合物热力学数据查询</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+
+<body>
+
+    <div class="h">
+        <div class="b">
+            <div class="header-left">
+                <span class="l" id="a">化合物热力学数据查询</span>
+            </div>
+            <div class="c">
+                <button id="b"><i class="fas fa-sun"></i></button>
+            </div>
+        </div>
+    </div>
+
+    <div id="homeView" class="home-view" style="display: none;">
+        <div class="k">
+            <div class="m">
+                <div class="w">
+                    <a href="?table=thermodynamic_data" class="x">热力学数据</a>
+                </div>
+                <div class="w">
+                    <a href="?table=dissociation_constant" class="x">酸碱难溶物解离常数</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="dataView" class="data-view" style="display: none;">
+        <div class="k">
+            <div class="search-container">
+                <div class="search-wrapper">
+                    <i class="fas fa-search search-icon"></i>
+                    <input type="text" id="c" placeholder="搜索化学式、名称、状态或热力学数据..." maxlength="200" autocomplete="off">
+                    <button id="d" class="clear-btn" style="display: none;"><i class="fas fa-times"></i></button>
+                </div>
+            </div>
+        </div>
+        <div class="v">
+            <div class="w table-card">
+                <div class="table-wrapper">
+                    <table id="e">
+                        <thead id="tableHeader"></thead>
+                        <tbody id="f"></tbody>
+                    </table>
+                </div>
+                <div id="g" class="no-result" style="display: none;">未检索到相关内容</div>
+            </div>
+        </div>
+    </div>
+
+    <footer class="footer">
+        <div class="notice-content">
+            <p><a href="https://opensource.org/license/mit" target="_blank" rel="noopener noreferrer">MIT License</a> | See the <a href="/LICENSE" target="_blank" rel="noopener noreferrer">LICENSE</a> file for the full license text.</p>
+            <p>Copyright © 2026-present | <a href="https://github.com/vinds476283/chemical_data_query" target="_blank" rel="noopener noreferrer">Github</a> | <a href="https://y.vinds.top" target="_blank" rel="noopener noreferrer">铟子vinds</a></p>
+            <p id="downloadLinks" style="display: none;">下载完整数据：<a id="downloadJson" href="#" download=".json">.json</a> | <a id="downloadXlsx" href="#" download=".xlsx">.xlsx</a></p>
+            <p id="dataSource" style="display: none;"></p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+
+</html>

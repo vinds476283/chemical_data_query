@@ -1,0 +1,5393 @@
+[{
+        "chem": "化学式",
+        "en": "英文名",
+        "zh": "中文名",
+        "state": "状态",
+        "enthalpy": "ΔH° (kJ/mol)",
+        "gibbs": "ΔG° (kJ/mol)",
+        "entropy": "S° (J/(mol·K))",
+        "thebibliography": "W M Haynes. CRC Handbook of Chemistry and Physics. 97th ed.<br> Boca Raton: CRC Press Ine, 2016-2017:5-3~5-64."
+    },
+    {
+        "chem": "Ag",
+        "en": "Silver",
+        "zh": "银  ",
+        "state": "s",
+        "enthalpy": "0",
+        "gibbs": "",
+        "entropy": "42.6"
+    },
+    {
+        "chem": "Ag",
+        "en": "Silver",
+        "zh": "银  ",
+        "state": "g",
+        "enthalpy": "284.9",
+        "gibbs": "246.0",
+        "entropy": "173.0"
+    },
+    {
+        "chem": "Ag<sub>2</sub>",
+        "en": "Disilver",
+        "zh": "二银  ",
+        "state": "g",
+        "enthalpy": "410",
+        "gibbs": "358.8",
+        "entropy": "257.1"
+    },
+    {
+        "chem": "Ag<sub>2</sub>CO<sub>3</sub>",
+        "en": "Silver(Ⅰ) carbonate",
+        "zh": "碳酸银(Ⅰ)  ",
+        "state": "s",
+        "enthalpy": "-505.8",
+        "gibbs": "-436.8",
+        "entropy": "167.4"
+    },
+    {
+        "chem": "Ag<sub>2</sub>CrO<sub>4</sub>",
+        "en": "Silver(Ⅰ) chromate",
+        "zh": "铬酸银(Ⅰ)  ",
+        "state": "s",
+        "enthalpy": "-731.7",
+        "gibbs": "-641.8",
+        "entropy": "217.6"
+    },
+    {
+        "chem": "Ag<sub>2</sub>O",
+        "en": "Silver(Ⅰ) oxide",
+        "zh": "氧化银(Ⅰ)  ",
+        "state": "s",
+        "enthalpy": "-31.1",
+        "gibbs": "-11.2",
+        "entropy": "121.3"
+    },
+    {
+        "chem": "Ag<sub>2</sub>S",
+        "en": "Silver(Ⅰ) sulfide",
+        "zh": "硫化银(Ⅰ)  ",
+        "state": "s",
+        "enthalpy": "-32.6",
+        "gibbs": "-40.7",
+        "entropy": "144"
+    },
+    {
+        "chem": "Ag<sub>2</sub>SO<sub>4</sub>",
+        "en": "Silver(Ⅰ) sulfate",
+        "zh": "硫酸银(Ⅰ)  ",
+        "state": "s",
+        "enthalpy": "-715.9",
+        "gibbs": "-618.4",
+        "entropy": "200.4"
+    },
+    {
+        "chem": "AgBr",
+        "en": "Silver(Ⅰ) bromide",
+        "zh": "溴化银(Ⅰ)  ",
+        "state": "s",
+        "enthalpy": "-100.4",
+        "gibbs": "-96.9",
+        "entropy": "107.1"
+    },
+    {
+        "chem": "AgBrO<sub>3</sub>",
+        "en": "Silver(Ⅰ) bromate",
+        "zh": "溴酸银(Ⅰ)  ",
+        "state": "s",
+        "enthalpy": "-10.5",
+        "gibbs": "71.3",
+        "entropy": "151.9"
+    },
+    {
+        "chem": "AgCl",
+        "en": "Silver(Ⅰ) chloride",
+        "zh": "氯化银(Ⅰ)  ",
+        "state": "s",
+        "enthalpy": "-127",
+        "gibbs": "-109.8",
+        "entropy": "96.3"
+    },
+    {
+        "chem": "AgClO<sub>3</sub>",
+        "en": "Silver(Ⅰ) chlorate",
+        "zh": "氯酸银(Ⅰ)  ",
+        "state": "s",
+        "enthalpy": "-30.3",
+        "gibbs": "64.5",
+        "entropy": "142"
+    },
+    {
+        "chem": "AgClO<sub>4</sub>",
+        "en": "Silver(Ⅰ) perchlorate",
+        "zh": "高氯酸银(Ⅰ)  ",
+        "state": "s",
+        "enthalpy": "-31.1",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "AgCN",
+        "en": "Silver(Ⅰ) cyanide",
+        "zh": "氰化银(Ⅰ)  ",
+        "state": "s",
+        "enthalpy": "146",
+        "gibbs": "156.9",
+        "entropy": "107.2"
+    },
+    {
+        "chem": "AgF",
+        "en": "Silver(Ⅰ) fluoride",
+        "zh": "氟化银(Ⅰ)  ",
+        "state": "s",
+        "enthalpy": "-204.6",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "AgI",
+        "en": "Silver(Ⅰ) iodide",
+        "zh": "碘化银(Ⅰ)  ",
+        "state": "s",
+        "enthalpy": "-61.8",
+        "gibbs": "-66.2",
+        "entropy": "115.5"
+    },
+    {
+        "chem": "AgIO<sub>3</sub>",
+        "en": "Silver(Ⅰ) iodate",
+        "zh": "碘酸银(Ⅰ)  ",
+        "state": "s",
+        "enthalpy": "-171.1",
+        "gibbs": "-93.7",
+        "entropy": "149.4"
+    },
+    {
+        "chem": "AgNO<sub>3</sub>",
+        "en": "Silver(Ⅰ) nitrate",
+        "zh": "硝酸银(Ⅰ)  ",
+        "state": "s",
+        "enthalpy": "-124.4",
+        "gibbs": "-33.4",
+        "entropy": "140.9"
+    },
+    {
+        "chem": "Al",
+        "en": "Aluminum",
+        "zh": "铝  ",
+        "state": "s",
+        "enthalpy": "0",
+        "gibbs": "",
+        "entropy": "28.3"
+    },
+    {
+        "chem": "Al",
+        "en": "Aluminum",
+        "zh": "铝  ",
+        "state": "g",
+        "enthalpy": "330",
+        "gibbs": "289.4",
+        "entropy": "164.6"
+    },
+    {
+        "chem": "Al<sub>2</sub>",
+        "en": "Dialuminum",
+        "zh": "二铝  ",
+        "state": "g",
+        "enthalpy": "485.9",
+        "gibbs": "433.3",
+        "entropy": "233.2"
+    },
+    {
+        "chem": "Al<sub>2</sub>Cl<sub>6</sub>",
+        "en": "Aluminum hexachloride",
+        "zh": "六氯化二铝  ",
+        "state": "g",
+        "enthalpy": "-1290.8",
+        "gibbs": "-1220.4",
+        "entropy": "490"
+    },
+    {
+        "chem": "Al<sub>2</sub>O<sub>3</sub>",
+        "en": "Aluminum oxide(α)",
+        "zh": "氧化铝(α)  ",
+        "state": "s",
+        "enthalpy": "-1675.7",
+        "gibbs": "-1582.3",
+        "entropy": "50.9"
+    },
+    {
+        "chem": "Al<sub>2</sub>S<sub>3</sub>",
+        "en": "Aluminum sulfide",
+        "zh": "硫化铝  ",
+        "state": "s",
+        "enthalpy": "-724",
+        "gibbs": "",
+        "entropy": "116.9"
+    },
+    {
+        "chem": "AlCl<sub>3</sub>",
+        "en": "Aluminum chloride",
+        "zh": "氯化铝  ",
+        "state": "s",
+        "enthalpy": "-704.2",
+        "gibbs": "-628.8",
+        "entropy": "109.3"
+    },
+    {
+        "chem": "AlF<sub>3</sub>",
+        "en": "Aluminum fluoride",
+        "zh": "氟化铝  ",
+        "state": "s",
+        "enthalpy": "-1510.4",
+        "gibbs": "-1431.1",
+        "entropy": "66.5"
+    },
+    {
+        "chem": "AlF<sub>3</sub>",
+        "en": "Aluminum fluoride",
+        "zh": "氟化铝  ",
+        "state": "g",
+        "enthalpy": "-1204.6",
+        "gibbs": "-1188.2",
+        "entropy": "277.1"
+    },
+    {
+        "chem": "AlH<sub>3</sub>",
+        "en": "Aluminum hydride",
+        "zh": "氢化铝  ",
+        "state": "s",
+        "enthalpy": "-46",
+        "gibbs": "",
+        "entropy": "30"
+    },
+    {
+        "chem": "AlI<sub>3</sub>",
+        "en": "Aluminum iodide",
+        "zh": "碘化铝  ",
+        "state": "s",
+        "enthalpy": "-302.9",
+        "gibbs": "",
+        "entropy": "195.9"
+    },
+    {
+        "chem": "AlPO<sub>4</sub>",
+        "en": "Aluminum phosphate",
+        "zh": "磷酸铝  ",
+        "state": "s",
+        "enthalpy": "-1733.8",
+        "gibbs": "-1617.9",
+        "entropy": "90.8"
+    },
+    {
+        "chem": "Ar",
+        "en": "Argon",
+        "zh": "氩  ",
+        "state": "g",
+        "enthalpy": "0",
+        "gibbs": "",
+        "entropy": "154.8"
+    },
+    {
+        "chem": "As",
+        "en": "Arsenic (gray)",
+        "zh": "砷（灰砷）  ",
+        "state": "s",
+        "enthalpy": "0",
+        "gibbs": "",
+        "entropy": "35.1"
+    },
+    {
+        "chem": "As",
+        "en": "Arsenic (gray)",
+        "zh": "砷（灰砷）  ",
+        "state": "g",
+        "enthalpy": "302.5",
+        "gibbs": "261",
+        "entropy": "174.2"
+    },
+    {
+        "chem": "As",
+        "en": "Arsenic (yellow)",
+        "zh": "砷（黄砷）  ",
+        "state": "s",
+        "enthalpy": "14.6",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "As<sub>2</sub>O<sub>5</sub>",
+        "en": "Arsenic(Ⅴ) oxide",
+        "zh": "五氧化二砷  ",
+        "state": "s",
+        "enthalpy": "-924.9",
+        "gibbs": "-782.3",
+        "entropy": "105.4"
+    },
+    {
+        "chem": "As<sub>2</sub>S<sub>3</sub>",
+        "en": "Arsenic(Ⅲ) sulfide",
+        "zh": "三硫化二砷  ",
+        "state": "s",
+        "enthalpy": "-169",
+        "gibbs": "-168.6",
+        "entropy": "163.6"
+    },
+    {
+        "chem": "AsH<sub>3</sub>",
+        "en": "Arsine",
+        "zh": "砷化氢  ",
+        "state": "g",
+        "enthalpy": "66.4",
+        "gibbs": "68.9",
+        "entropy": "222.8"
+    },
+    {
+        "chem": "Au",
+        "en": "Gold",
+        "zh": "金  ",
+        "state": "s",
+        "enthalpy": "0",
+        "gibbs": "",
+        "entropy": "47.4"
+    },
+    {
+        "chem": "AuCl<sub>3</sub>",
+        "en": "Gold(Ⅲ) chloride",
+        "zh": "氯化金(Ⅲ)  ",
+        "state": "s",
+        "enthalpy": "-117.6",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "B<sub>10</sub>H<sub>14</sub>",
+        "en": "Decaborane(14)",
+        "zh": "十硼烷(14)  ",
+        "state": "g",
+        "enthalpy": "47.3",
+        "gibbs": "232.8",
+        "entropy": "350.7"
+    },
+    {
+        "chem": "B<sub>2</sub>H<sub>6</sub>",
+        "en": "Diborane",
+        "zh": "乙硼烷  ",
+        "state": "g",
+        "enthalpy": "36.4",
+        "gibbs": "87.6",
+        "entropy": "232.1"
+    },
+    {
+        "chem": "B<sub>2</sub>O<sub>3</sub>",
+        "en": "Boron oxide",
+        "zh": "氧化硼  ",
+        "state": "s",
+        "enthalpy": "-1273.5",
+        "gibbs": "-1194.3",
+        "entropy": "54"
+    },
+    {
+        "chem": "B<sub>2</sub>O<sub>3</sub>",
+        "en": "Boron oxide",
+        "zh": "氧化硼  ",
+        "state": "g",
+        "enthalpy": "-843.8",
+        "gibbs": "-832",
+        "entropy": "279.8"
+    },
+    {
+        "chem": "B<sub>3</sub>N<sub>3</sub>H<sub>6</sub>",
+        "en": "Borazine",
+        "zh": "硼吖嗪  ",
+        "state": "l",
+        "enthalpy": "-541",
+        "gibbs": "-392.7",
+        "entropy": "199.6"
+    },
+    {
+        "chem": "B<sub>4</sub>H<sub>10</sub>",
+        "en": "Tetraborane(10)",
+        "zh": "四硼烷(10)  ",
+        "state": "g",
+        "enthalpy": "66.1",
+        "gibbs": "184.3",
+        "entropy": "280.3"
+    },
+    {
+        "chem": "Ba",
+        "en": "Barium",
+        "zh": "钡  ",
+        "state": "s",
+        "enthalpy": "0",
+        "gibbs": "",
+        "entropy": "62.5"
+    },
+    {
+        "chem": "Ba",
+        "en": "Barium",
+        "zh": "钡  ",
+        "state": "g",
+        "enthalpy": "180",
+        "gibbs": "146",
+        "entropy": "170.2"
+    },
+    {
+        "chem": "Ba(NO<sub>3</sub>)<sub>2</sub>",
+        "en": "Barium nitrate",
+        "zh": "硝酸钡  ",
+        "state": "s",
+        "enthalpy": "-988",
+        "gibbs": "-792.6",
+        "entropy": "214"
+    },
+    {
+        "chem": "Ba(OH)<sub>2</sub>",
+        "en": "Barium hydroxide",
+        "zh": "氢氧化钡  ",
+        "state": "s",
+        "enthalpy": "-944.7",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "BaCl<sub>2</sub>",
+        "en": "Barium chloride",
+        "zh": "氯化钡  ",
+        "state": "s",
+        "enthalpy": "-855",
+        "gibbs": "-806.7",
+        "entropy": "123.7"
+    },
+    {
+        "chem": "BaCO<sub>3</sub>",
+        "en": "Barium carbonate",
+        "zh": "碳酸钡  ",
+        "state": "s",
+        "enthalpy": "-1213",
+        "gibbs": "-1134.4",
+        "entropy": "112.1"
+    },
+    {
+        "chem": "BaO",
+        "en": "Barium oxide",
+        "zh": "氧化钡  ",
+        "state": "s",
+        "enthalpy": "-548",
+        "gibbs": "-520.3",
+        "entropy": "72.1"
+    },
+    {
+        "chem": "BaS",
+        "en": "Barium sulfide",
+        "zh": "硫化钡  ",
+        "state": "s",
+        "enthalpy": "-460",
+        "gibbs": "-456",
+        "entropy": "78.2"
+    },
+    {
+        "chem": "BaSO<sub>4</sub>",
+        "en": "Barium sulfate",
+        "zh": "硫酸钡  ",
+        "state": "s",
+        "enthalpy": "-1473.2",
+        "gibbs": "-1362.2",
+        "entropy": "132.2"
+    },
+    {
+        "chem": "BBr<sub>3</sub>",
+        "en": "Boron tribromide",
+        "zh": "三溴化硼  ",
+        "state": "l",
+        "enthalpy": "-239.7",
+        "gibbs": "-238.5",
+        "entropy": "229.7"
+    },
+    {
+        "chem": "BBr<sub>3</sub>",
+        "en": "Boron tribromide",
+        "zh": "三溴化硼  ",
+        "state": "g",
+        "enthalpy": "-205.6",
+        "gibbs": "-232.5",
+        "entropy": "324.2"
+    },
+    {
+        "chem": "BCl<sub>3</sub>",
+        "en": "Boron trichloride",
+        "zh": "三氯化硼  ",
+        "state": "l",
+        "enthalpy": "-427.2",
+        "gibbs": "-387.4",
+        "entropy": "206.3"
+    },
+    {
+        "chem": "BCl<sub>3</sub>",
+        "en": "Boron trichloride",
+        "zh": "三氯化硼  ",
+        "state": "g",
+        "enthalpy": "-403.8",
+        "gibbs": "-388.7",
+        "entropy": "290.1"
+    },
+    {
+        "chem": "Be",
+        "en": "Beryllium",
+        "zh": "铍  ",
+        "state": "s",
+        "enthalpy": "0",
+        "gibbs": "",
+        "entropy": "9.5"
+    },
+    {
+        "chem": "Be(OH)<sub>2</sub>",
+        "en": "Beryllium hydroxide",
+        "zh": "氢氧化铍  ",
+        "state": "s",
+        "enthalpy": "-902.5",
+        "gibbs": "-815",
+        "entropy": "45.5"
+    },
+    {
+        "chem": "BeCl<sub>2</sub>",
+        "en": "Beryllium chloride",
+        "zh": "氯化铍  ",
+        "state": "s",
+        "enthalpy": "-490.4",
+        "gibbs": "-445.6",
+        "entropy": "75.8"
+    },
+    {
+        "chem": "BeCO<sub>3</sub>",
+        "en": "Beryllium carbonate",
+        "zh": "碳酸铍  ",
+        "state": "s",
+        "enthalpy": "-1025",
+        "gibbs": "",
+        "entropy": "52"
+    },
+    {
+        "chem": "BeO",
+        "en": "Beryllium oxide",
+        "zh": "氧化铍  ",
+        "state": "s",
+        "enthalpy": "-609.4",
+        "gibbs": "-580.1",
+        "entropy": "13.8"
+    },
+    {
+        "chem": "BeS",
+        "en": "Beryllium sulfide",
+        "zh": "硫化铍  ",
+        "state": "s",
+        "enthalpy": "-234.3",
+        "gibbs": "",
+        "entropy": "34"
+    },
+    {
+        "chem": "BeSO<sub>4</sub>",
+        "en": "Beryllium sulfate",
+        "zh": "硫酸铍  ",
+        "state": "s",
+        "enthalpy": "-1205.2",
+        "gibbs": "-1093.8",
+        "entropy": "77.9"
+    },
+    {
+        "chem": "BF<sub>3</sub>",
+        "en": "Boron trifluoride",
+        "zh": "三氟化硼  ",
+        "state": "g",
+        "enthalpy": "-1136",
+        "gibbs": "-1119.4",
+        "entropy": "254.4"
+    },
+    {
+        "chem": "BF<sub>3</sub>NH<sub>3</sub>",
+        "en": "Aminetrifluoroboron",
+        "zh": "三氟化硼氨合物  ",
+        "state": "s",
+        "enthalpy": "-1353.9",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "Bi",
+        "en": "Bismuth",
+        "zh": "铋  ",
+        "state": "s",
+        "enthalpy": "0",
+        "gibbs": "",
+        "entropy": "56.7"
+    },
+    {
+        "chem": "Bi(OH)<sub>3</sub>",
+        "en": "Bismuth hydroxide",
+        "zh": "氢氧化铋  ",
+        "state": "s",
+        "enthalpy": "-711.3",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "Bi<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>",
+        "en": "Bismuth sulfate",
+        "zh": "硫酸铋  ",
+        "state": "s",
+        "enthalpy": "-2544.3",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "Bi<sub>2</sub>O<sub>3</sub>",
+        "en": "Bismuth oxide",
+        "zh": "氧化铋  ",
+        "state": "s",
+        "enthalpy": "-573.9",
+        "gibbs": "-493.7",
+        "entropy": "151.5"
+    },
+    {
+        "chem": "Bi<sub>2</sub>S<sub>3</sub>",
+        "en": "Bismuth sulfide",
+        "zh": "硫化铋  ",
+        "state": "s",
+        "enthalpy": "-143.1",
+        "gibbs": "-140.6",
+        "entropy": "200.4"
+    },
+    {
+        "chem": "BiCl<sub>3</sub>",
+        "en": "Bismuth trichloride",
+        "zh": "三氯化铋  ",
+        "state": "s",
+        "enthalpy": "-379.1",
+        "gibbs": "-315",
+        "entropy": "177"
+    },
+    {
+        "chem": "BiCl<sub>3</sub>",
+        "en": "Bismuth trichloride",
+        "zh": "三氯化铋  ",
+        "state": "g",
+        "enthalpy": "-265.7",
+        "gibbs": "-256",
+        "entropy": "358.9"
+    },
+    {
+        "chem": "BN",
+        "en": "Boron nitride",
+        "zh": "氮化硼  ",
+        "state": "s",
+        "enthalpy": "-254.4",
+        "gibbs": "-228.4",
+        "entropy": "14.8"
+    },
+    {
+        "chem": "Br<sub>2</sub>",
+        "en": "Bromine",
+        "zh": "溴  ",
+        "state": "l",
+        "enthalpy": "0",
+        "gibbs": "",
+        "entropy": "152.2"
+    },
+    {
+        "chem": "Br<sub>2</sub>",
+        "en": "Bromine",
+        "zh": "溴  ",
+        "state": "g",
+        "enthalpy": "30.9",
+        "gibbs": "3.1",
+        "entropy": "245.5"
+    },
+    {
+        "chem": "C",
+        "en": "Carbon(graphite)",
+        "zh": "碳（石墨）  ",
+        "state": "s",
+        "enthalpy": "0",
+        "gibbs": "",
+        "entropy": "5.7"
+    },
+    {
+        "chem": "C",
+        "en": "Carbon(graphite)",
+        "zh": "碳（石墨）  ",
+        "state": "g",
+        "enthalpy": "716.7",
+        "gibbs": "671.3",
+        "entropy": "158.1"
+    },
+    {
+        "chem": "C",
+        "en": "Carbon(diamond)",
+        "zh": "碳（金刚石）  ",
+        "state": "s",
+        "enthalpy": "1.9",
+        "gibbs": "2.9",
+        "entropy": "2.4"
+    },
+    {
+        "chem": "CBr<sub>4</sub>",
+        "en": "Tetrabromomethane",
+        "zh": "四溴化碳  ",
+        "state": "s",
+        "enthalpy": "29.4",
+        "gibbs": "47.7",
+        "entropy": "212.5"
+    },
+    {
+        "chem": "CBr<sub>4</sub>",
+        "en": "Tetrabromomethane",
+        "zh": "四溴化碳  ",
+        "state": "g",
+        "enthalpy": "83.9",
+        "gibbs": "67",
+        "entropy": "358.1"
+    },
+    {
+        "chem": "COCl<sub>2</sub>",
+        "en": "Carbonyl chloride",
+        "zh": "碳酰氯  ",
+        "state": "g",
+        "enthalpy": "-219.1",
+        "gibbs": "-204.9",
+        "entropy": "283.5"
+    },
+    {
+        "chem": "CCl<sub>4</sub>",
+        "en": "Tetrachloromethane",
+        "zh": "四氯化碳  ",
+        "state": "l",
+        "enthalpy": "-128.2",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "CCl<sub>4</sub>",
+        "en": "Tetrachloromethane",
+        "zh": "四氯化碳  ",
+        "state": "g",
+        "enthalpy": "-95.7",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "CF<sub>4</sub>",
+        "en": "Tetrafluoromethane",
+        "zh": "四氟化碳  ",
+        "state": "g",
+        "enthalpy": "-933.6",
+        "gibbs": "",
+        "entropy": "261.6"
+    },
+    {
+        "chem": "(CN)<sub>2</sub>",
+        "en": "Cyanogen",
+        "zh": "氰  ",
+        "state": "l",
+        "enthalpy": "285.9",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "(CN)<sub>2</sub>",
+        "en": "Cyanogen",
+        "zh": "氰  ",
+        "state": "g",
+        "enthalpy": "306.7",
+        "gibbs": "",
+        "entropy": "241.9"
+    },
+    {
+        "chem": "CO",
+        "en": "Carbon monoxide",
+        "zh": "一氧化碳  ",
+        "state": "g",
+        "enthalpy": "-110.5",
+        "gibbs": "-137.2",
+        "entropy": "197.7"
+    },
+    {
+        "chem": "CO<sub>2</sub>",
+        "en": "Carbon dioxide",
+        "zh": "二氧化碳  ",
+        "state": "g",
+        "enthalpy": "-393.5",
+        "gibbs": "-394.4",
+        "entropy": "213.8"
+    },
+    {
+        "chem": "Ca",
+        "en": "Calcium",
+        "zh": "钙  ",
+        "state": "s",
+        "enthalpy": "0",
+        "gibbs": "",
+        "entropy": "41.6"
+    },
+    {
+        "chem": "Ca(NO<sub>3</sub>)<sub>2</sub>",
+        "en": "Calcium nitrate",
+        "zh": "硝酸钙  ",
+        "state": "s",
+        "enthalpy": "-938.2",
+        "gibbs": "-742.8",
+        "entropy": "193.2"
+    },
+    {
+        "chem": "Ca(OH)<sub>2</sub>",
+        "en": "Calcium hydroxide",
+        "zh": "氢氧化钙  ",
+        "state": "s",
+        "enthalpy": "-985.2",
+        "gibbs": "-897.5",
+        "entropy": "83.4"
+    },
+    {
+        "chem": "Ca<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub>",
+        "en": "Calcium phosphate",
+        "zh": "磷酸钙  ",
+        "state": "s",
+        "enthalpy": "-4120.8",
+        "gibbs": "-3884.7",
+        "entropy": "236"
+    },
+    {
+        "chem": "CaBr<sub>2</sub>",
+        "en": "Calcium bromide",
+        "zh": "溴化钙  ",
+        "state": "s",
+        "enthalpy": "-628.8",
+        "gibbs": "-663.6",
+        "entropy": "130"
+    },
+    {
+        "chem": "CaC<sub>2</sub>",
+        "en": "Calcium carbide",
+        "zh": "碳化钙  ",
+        "state": "s",
+        "enthalpy": "-59.8",
+        "gibbs": "-64.9",
+        "entropy": "70"
+    },
+    {
+        "chem": "CaC<sub>2</sub>O<sub>4</sub>",
+        "en": "Calcium oxalate",
+        "zh": "草酸钙  ",
+        "state": "s",
+        "enthalpy": "-1360.6",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "CaCl<sub>2</sub>",
+        "en": "Calcium chloride",
+        "zh": "氯化钙  ",
+        "state": "s",
+        "enthalpy": "-795.4",
+        "gibbs": "-748.8",
+        "entropy": "108.4"
+    },
+    {
+        "chem": "CaCO<sub>3</sub>",
+        "en": "Calcium carbonate(calcite)",
+        "zh": "碳酸钙（方解石）  ",
+        "state": "s",
+        "enthalpy": "-1207.6",
+        "gibbs": "-1129.1",
+        "entropy": "91.7"
+    },
+    {
+        "chem": "CaCO<sub>3</sub>",
+        "en": "Calcium carbonate(aragonite)",
+        "zh": "碳酸钙（文石）  ",
+        "state": "s",
+        "enthalpy": "-1207.8",
+        "gibbs": "-1128.2",
+        "entropy": "88"
+    },
+    {
+        "chem": "CaH<sub>2</sub>",
+        "en": "Calcium hydride",
+        "zh": "氢化钙  ",
+        "state": "s",
+        "enthalpy": "-181.5",
+        "gibbs": "-142.5",
+        "entropy": "41.4"
+    },
+    {
+        "chem": "CaO",
+        "en": "Calcium oxide",
+        "zh": "氧化钙  ",
+        "state": "s",
+        "enthalpy": "-634.9",
+        "gibbs": "-603.3",
+        "entropy": "38.1"
+    },
+    {
+        "chem": "CaSO<sub>4</sub>",
+        "en": "Calcium sulfate",
+        "zh": "硫酸钙  ",
+        "state": "s",
+        "enthalpy": "-1434.5",
+        "gibbs": "-1322.0",
+        "entropy": "106.5"
+    },
+    {
+        "chem": "Cd",
+        "en": "Cadmium",
+        "zh": "镉  ",
+        "state": "s",
+        "enthalpy": "0",
+        "gibbs": "",
+        "entropy": "51.8"
+    },
+    {
+        "chem": "CdCl<sub>2</sub>",
+        "en": "Cadmium chloride",
+        "zh": "氯化镉  ",
+        "state": "s",
+        "enthalpy": "-391.5",
+        "gibbs": "-343.9",
+        "entropy": "115.3"
+    },
+    {
+        "chem": "CdCO<sub>3</sub>",
+        "en": "Cadmium carbonate",
+        "zh": "碳酸镉  ",
+        "state": "s",
+        "enthalpy": "-750.6",
+        "gibbs": "-669.4",
+        "entropy": "92.5"
+    },
+    {
+        "chem": "CdO",
+        "en": "Cadmium oxide",
+        "zh": "氧化镉  ",
+        "state": "s",
+        "enthalpy": "-258.4",
+        "gibbs": "-228.7",
+        "entropy": "54.8"
+    },
+    {
+        "chem": "CdS",
+        "en": "Cadmium sulfide",
+        "zh": "硫化镉  ",
+        "state": "s",
+        "enthalpy": "-161.9",
+        "gibbs": "-156.5",
+        "entropy": "64.9"
+    },
+    {
+        "chem": "CdSO<sub>4</sub>",
+        "en": "Cadmium sulfate",
+        "zh": "硫酸镉  ",
+        "state": "s",
+        "enthalpy": "-933.3",
+        "gibbs": "-822.7",
+        "entropy": "123"
+    },
+    {
+        "chem": "Ce",
+        "en": "Cerium(γ,fcc)",
+        "zh": "铈（γ面心立方）  ",
+        "state": "s",
+        "enthalpy": "0",
+        "gibbs": "",
+        "entropy": "72"
+    },
+    {
+        "chem": "Ce<sub>2</sub>O<sub>3</sub>",
+        "en": "Cerium(Ⅲ) oxide",
+        "zh": "氧化铈(Ⅲ)  ",
+        "state": "s",
+        "enthalpy": "-1796.2",
+        "gibbs": "-1706.2",
+        "entropy": "150.6"
+    },
+    {
+        "chem": "CeO<sub>2</sub>",
+        "en": "Cerium(Ⅳ) oxide",
+        "zh": "氧化铈(Ⅳ)  ",
+        "state": "s",
+        "enthalpy": "-1088.7",
+        "gibbs": "-1024.6",
+        "entropy": "62.3"
+    },
+    {
+        "chem": "Cl<sub>2</sub>",
+        "en": "Chlorine",
+        "zh": "氯  ",
+        "state": "g",
+        "enthalpy": "0",
+        "gibbs": "",
+        "entropy": "223.1"
+    },
+    {
+        "chem": "Cl<sub>2</sub>O",
+        "en": "Chlorine monoxide",
+        "zh": "一氧化二氯  ",
+        "state": "g",
+        "enthalpy": "80.3",
+        "gibbs": "97.9",
+        "entropy": "266.2"
+    },
+    {
+        "chem": "ClO",
+        "en": "Chlorine oxide",
+        "zh": "一氧化氯  ",
+        "state": "g",
+        "enthalpy": "101.8",
+        "gibbs": "98.1",
+        "entropy": "226.6"
+    },
+    {
+        "chem": "ClO<sub>2</sub>",
+        "en": "Chlorine dioxide",
+        "zh": "二氧化氯  ",
+        "state": "g",
+        "enthalpy": "102.5",
+        "gibbs": "120.5",
+        "entropy": "256.8"
+    },
+    {
+        "chem": "ClO<sub>2</sub>",
+        "en": "Chlorine superoxide(ClOO)",
+        "zh": "超氧化氯（ClOO）  ",
+        "state": "g",
+        "enthalpy": "89.1",
+        "gibbs": "105.0",
+        "entropy": "263.7"
+    },
+    {
+        "chem": "Co(NO<sub>3</sub>)<sub>2</sub>",
+        "en": "Cobalt(Ⅱ) nitrate",
+        "zh": "硝酸钴(Ⅱ)  ",
+        "state": "s",
+        "enthalpy": "-420.5",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "Co(OH)<sub>2</sub>",
+        "en": "Cobalt(Ⅱ) hydroxide",
+        "zh": "氢氧化钴(Ⅱ)  ",
+        "state": "s",
+        "enthalpy": "-539.7",
+        "gibbs": "-454.3",
+        "entropy": "79"
+    },
+    {
+        "chem": "Co<sub>2</sub>S<sub>3</sub>",
+        "en": "Cobalt(Ⅲ) sulfide",
+        "zh": "硫化钴(Ⅲ)  ",
+        "state": "s",
+        "enthalpy": "-147.3",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "CoCl<sub>2</sub>",
+        "en": "Cobalt(Ⅱ) chloride",
+        "zh": "氯化钴(Ⅱ)  ",
+        "state": "s",
+        "enthalpy": "-312.5",
+        "gibbs": "-269.8",
+        "entropy": "109.2"
+    },
+    {
+        "chem": "CoO",
+        "en": "Cobalt(Ⅱ) oxide",
+        "zh": "氧化钴(Ⅱ)  ",
+        "state": "s",
+        "enthalpy": "-237.9",
+        "gibbs": "-214.2",
+        "entropy": "53"
+    },
+    {
+        "chem": "CoS",
+        "en": "Cobalt(Ⅱ) sulfide",
+        "zh": "硫化钴(Ⅱ)  ",
+        "state": "s",
+        "enthalpy": "-82.8",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "CoSO<sub>4</sub>",
+        "en": "Cobalt(Ⅱ) sulfate",
+        "zh": "硫酸钴(Ⅱ)  ",
+        "state": "s",
+        "enthalpy": "-888.3",
+        "gibbs": "-782.3",
+        "entropy": "118"
+    },
+    {
+        "chem": "Cr",
+        "en": "Chromium",
+        "zh": "铬  ",
+        "state": "s",
+        "enthalpy": "0",
+        "gibbs": "",
+        "entropy": "23.8"
+    },
+    {
+        "chem": "CrCl<sub>2</sub>O<sub>2</sub>",
+        "en": "Chromium(Ⅵ) dichloride dioxide",
+        "zh": "二氯二氧化铬(Ⅵ)  ",
+        "state": "l",
+        "enthalpy": "-579.5",
+        "gibbs": "-510.8",
+        "entropy": "221.8"
+    },
+    {
+        "chem": "CrCl<sub>2</sub>O<sub>2</sub>",
+        "en": "Chromium(Ⅵ) dichloride dioxide",
+        "zh": "二氯二氧化铬(Ⅵ)  ",
+        "state": "g",
+        "enthalpy": "-538.1",
+        "gibbs": "-501.6",
+        "entropy": "329.8"
+    },
+    {
+        "chem": "Cr<sub>2</sub>O<sub>3</sub>",
+        "en": "Chromium(Ⅲ) oxide",
+        "zh": "三氧化二铬(Ⅲ)  ",
+        "state": "s",
+        "enthalpy": "-1139.7",
+        "gibbs": "-1058.1",
+        "entropy": "81.2"
+    },
+    {
+        "chem": "CrO<sub>3</sub>",
+        "en": "Chromium(Ⅵ) oxide",
+        "zh": "三氧化铬(Ⅵ)  ",
+        "state": "g",
+        "enthalpy": "-292.9",
+        "gibbs": "",
+        "entropy": "266.2"
+    },
+    {
+        "chem": "Cs",
+        "en": "Cesium",
+        "zh": "铯  ",
+        "state": "s",
+        "enthalpy": "0",
+        "gibbs": "",
+        "entropy": "85.2"
+    },
+    {
+        "chem": "CS",
+        "en": "Carbon monosufide",
+        "zh": "一硫化碳  ",
+        "state": "g",
+        "enthalpy": "280.3",
+        "gibbs": "228.8",
+        "entropy": "210.6"
+    },
+    {
+        "chem": "CS<sub>2</sub>",
+        "en": "Carbon disulfide",
+        "zh": "二硫化碳  ",
+        "state": "l",
+        "enthalpy": "89",
+        "gibbs": "64.6",
+        "entropy": "151.3"
+    },
+    {
+        "chem": "CS<sub>2</sub>",
+        "en": "Carbon disulfide",
+        "zh": "二硫化碳  ",
+        "state": "g",
+        "enthalpy": "116.7",
+        "gibbs": "67.1",
+        "entropy": "237.8"
+    },
+    {
+        "chem": "Cs<sub>2</sub>CO<sub>3</sub>",
+        "en": "Cesium carbonate",
+        "zh": "碳酸铯  ",
+        "state": "s",
+        "enthalpy": "-1139.7",
+        "gibbs": "-1054.3",
+        "entropy": "204.5"
+    },
+    {
+        "chem": "Cs<sub>2</sub>O",
+        "en": "Cesium oxide",
+        "zh": "氧化铯  ",
+        "state": "s",
+        "enthalpy": "-345.8",
+        "gibbs": "-308.1",
+        "entropy": "146.9"
+    },
+    {
+        "chem": "Cs<sub>2</sub>SO<sub>4</sub>",
+        "en": "Cesium sulfate",
+        "zh": "硫酸铯  ",
+        "state": "s",
+        "enthalpy": "-1443",
+        "gibbs": "-1323.6",
+        "entropy": "211.9"
+    },
+    {
+        "chem": "CsClO<sub>4</sub>",
+        "en": "Cesium perchlorate",
+        "zh": "高氯酸铯  ",
+        "state": "s",
+        "enthalpy": "-443.1",
+        "gibbs": "-314.3",
+        "entropy": "175.1"
+    },
+    {
+        "chem": "CsH",
+        "en": "Cesium hydride",
+        "zh": "氢化铯  ",
+        "state": "s",
+        "enthalpy": "-54.2",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "CsNO<sub>3</sub>",
+        "en": "Cesium nitrate",
+        "zh": "硝酸铯  ",
+        "state": "s",
+        "enthalpy": "-506",
+        "gibbs": "-406.5",
+        "entropy": "155.2"
+    },
+    {
+        "chem": "CsO<sub>2</sub>",
+        "en": "Cesium superoxide",
+        "zh": "超氧化铯  ",
+        "state": "s",
+        "enthalpy": "-286.2",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "CsOH",
+        "en": "Cesium hydroxide",
+        "zh": "氢氧化铯  ",
+        "state": "s",
+        "enthalpy": "-416.2",
+        "gibbs": "-371.8",
+        "entropy": "104.2"
+    },
+    {
+        "chem": "CsOH",
+        "en": "Cesium hydroxide",
+        "zh": "氢氧化铯  ",
+        "state": "g",
+        "enthalpy": "-256",
+        "gibbs": "-256.5",
+        "entropy": "254.8"
+    },
+    {
+        "chem": "Cu",
+        "en": "Copper",
+        "zh": "铜  ",
+        "state": "s",
+        "enthalpy": "0",
+        "gibbs": "",
+        "entropy": "33.2"
+    },
+    {
+        "chem": "Cu(NO<sub>3</sub>)<sub>2</sub>",
+        "en": "Copper(Ⅱ) nitrate",
+        "zh": "硝酸铜(Ⅱ)  ",
+        "state": "s",
+        "enthalpy": "-302.9",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "Cu(OH)<sub>2</sub>",
+        "en": "Copper(Ⅱ) hydroxide",
+        "zh": "氢氧化铜(Ⅱ)  ",
+        "state": "s",
+        "enthalpy": "-449.8",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "Cu<sub>2</sub>O",
+        "en": "Copper(Ⅰ) oxide",
+        "zh": "氧化亚铜(Ⅰ)  ",
+        "state": "s",
+        "enthalpy": "-168.6",
+        "gibbs": "-146",
+        "entropy": "93.1"
+    },
+    {
+        "chem": "CuBr",
+        "en": "Copper(Ⅰ) bromide",
+        "zh": "溴化亚铜(Ⅰ)  ",
+        "state": "s",
+        "enthalpy": "-104.6",
+        "gibbs": "-100.8",
+        "entropy": "96.1"
+    },
+    {
+        "chem": "CuBr<sub>2</sub>",
+        "en": "Copper(Ⅱ) bromide",
+        "zh": "溴化铜(Ⅱ)  ",
+        "state": "s",
+        "enthalpy": "-141.8",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "CuCl",
+        "en": "Copper(Ⅰ) chloride",
+        "zh": "氯化亚铜(Ⅰ)  ",
+        "state": "s",
+        "enthalpy": "-137.2",
+        "gibbs": "-119.9",
+        "entropy": "86.2"
+    },
+    {
+        "chem": "CuCl<sub>2</sub>",
+        "en": "Copper(Ⅱ) chloride",
+        "zh": "氯化铜(Ⅱ)  ",
+        "state": "s",
+        "enthalpy": "-220.1",
+        "gibbs": "-175.7",
+        "entropy": "108.1"
+    },
+    {
+        "chem": "CuCN",
+        "en": "Copper(Ⅰ) cyanide",
+        "zh": "氰化亚铜(Ⅰ)  ",
+        "state": "s",
+        "enthalpy": "96.2",
+        "gibbs": "111.3",
+        "entropy": "84.5"
+    },
+    {
+        "chem": "CuI",
+        "en": "Copper(Ⅰ) iodide",
+        "zh": "碘化亚铜(Ⅰ)  ",
+        "state": "s",
+        "enthalpy": "-67.8",
+        "gibbs": "-69.5",
+        "entropy": "96.7"
+    },
+    {
+        "chem": "CuO",
+        "en": "Copper(Ⅱ) oxide",
+        "zh": "氧化铜(Ⅱ)  ",
+        "state": "s",
+        "enthalpy": "-157.3",
+        "gibbs": "-129.7",
+        "entropy": "42.6"
+    },
+    {
+        "chem": "CuS",
+        "en": "Copper(Ⅱ) sulfide",
+        "zh": "硫化铜(Ⅱ)  ",
+        "state": "s",
+        "enthalpy": "-53.1",
+        "gibbs": "-53.6",
+        "entropy": "66.5"
+    },
+    {
+        "chem": "CuSO<sub>4</sub>",
+        "en": "Copper(Ⅱ) sulfate",
+        "zh": "硫酸铜(Ⅱ)  ",
+        "state": "s",
+        "enthalpy": "-771.4",
+        "gibbs": "-662.2",
+        "entropy": "109.2"
+    },
+    {
+        "chem": "CuWO<sub>4</sub>",
+        "en": "Copper(Ⅱ) tungstate",
+        "zh": "钨酸铜(Ⅱ)  ",
+        "state": "s",
+        "enthalpy": "-1105",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "Eu",
+        "en": "Europium",
+        "zh": "铕  ",
+        "state": "s",
+        "enthalpy": "0",
+        "gibbs": "",
+        "entropy": "77.8"
+    },
+    {
+        "chem": "Eu",
+        "en": "Europium",
+        "zh": "铕  ",
+        "state": "g",
+        "enthalpy": "175.3",
+        "gibbs": "142.2",
+        "entropy": "188.8"
+    },
+    {
+        "chem": "F<sub>2</sub>",
+        "en": "Fluorine",
+        "zh": "氟  ",
+        "state": "g",
+        "enthalpy": "0",
+        "gibbs": "",
+        "entropy": "202.8"
+    },
+    {
+        "chem": "Fe",
+        "en": "Iron",
+        "zh": "铁  ",
+        "state": "s",
+        "enthalpy": "0",
+        "gibbs": "",
+        "entropy": "27.3"
+    },
+    {
+        "chem": "Fe<sub>2</sub>O<sub>3</sub>",
+        "en": "Iron(Ⅲ) oxide",
+        "zh": "三氧化二铁(Ⅲ)  ",
+        "state": "s",
+        "enthalpy": "-824.2",
+        "gibbs": "-742.2",
+        "entropy": "87.4"
+    },
+    {
+        "chem": "Fe<sub>3</sub>O<sub>4</sub>",
+        "en": "Iron(Ⅱ,Ⅲ) oxide",
+        "zh": "四氧化三铁(Ⅱ,Ⅲ)  ",
+        "state": "s",
+        "enthalpy": "-1118.4",
+        "gibbs": "-1015.4",
+        "entropy": "146.4"
+    },
+    {
+        "chem": "FeCl<sub>2</sub>",
+        "en": "Iron(Ⅱ) chloride",
+        "zh": "氯化亚铁(Ⅱ)  ",
+        "state": "s",
+        "enthalpy": "-341.8",
+        "gibbs": "-302.3",
+        "entropy": "118"
+    },
+    {
+        "chem": "FeCl<sub>3</sub>",
+        "en": "Iron(Ⅲ) chloride",
+        "zh": "氯化铁(Ⅲ)  ",
+        "state": "s",
+        "enthalpy": "-399.5",
+        "gibbs": "-334",
+        "entropy": "142.3"
+    },
+    {
+        "chem": "FeCO<sub>3</sub>",
+        "en": "Iron(Ⅱ) carbonate",
+        "zh": "碳酸亚铁(Ⅱ)  ",
+        "state": "s",
+        "enthalpy": "-740.6",
+        "gibbs": "-666.7",
+        "entropy": "92.9"
+    },
+    {
+        "chem": "FeCr<sub>2</sub>O<sub>4</sub>",
+        "en": "Chromium iron oxide",
+        "zh": "铬酸亚铁（铬铁矿）  ",
+        "state": "s",
+        "enthalpy": "-1444.7",
+        "gibbs": "-1343.8",
+        "entropy": "146"
+    },
+    {
+        "chem": "FeO",
+        "en": "Iron(Ⅱ) oxide",
+        "zh": "氧化亚铁(Ⅱ)  ",
+        "state": "s",
+        "enthalpy": "-272",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "FeS",
+        "en": "Iron(Ⅱ) sulfide",
+        "zh": "硫化亚铁(Ⅱ)  ",
+        "state": "s",
+        "enthalpy": "-100",
+        "gibbs": "-100.4",
+        "entropy": "60.3"
+    },
+    {
+        "chem": "FeS<sub>2</sub>",
+        "en": "Iron disulfide",
+        "zh": "二硫化铁  ",
+        "state": "s",
+        "enthalpy": "-178.2",
+        "gibbs": "-166.9",
+        "entropy": "52.9"
+    },
+    {
+        "chem": "FeSO<sub>4</sub>",
+        "en": "Iron(Ⅱ) sulfate",
+        "zh": "硫酸亚铁(Ⅱ)  ",
+        "state": "s",
+        "enthalpy": "-928.4",
+        "gibbs": "-820.8",
+        "entropy": "107.5"
+    },
+    {
+        "chem": "Ga",
+        "en": "Gallium",
+        "zh": "镓  ",
+        "state": "s",
+        "enthalpy": "0",
+        "gibbs": "0",
+        "entropy": "40.8"
+    },
+    {
+        "chem": "Ga(OH)<sub>3</sub>",
+        "en": "Gallium(Ⅲ) hydroxide",
+        "zh": "氢氧化镓(Ⅲ)  ",
+        "state": "s",
+        "enthalpy": "-964.4",
+        "gibbs": "-831.3",
+        "entropy": "100"
+    },
+    {
+        "chem": "Ga<sub>2</sub>O<sub>3</sub>",
+        "en": "Gallium(Ⅲ) oxide",
+        "zh": "氧化镓(Ⅲ)  ",
+        "state": "s",
+        "enthalpy": "-1089.1",
+        "gibbs": "-998.3",
+        "entropy": "85"
+    },
+    {
+        "chem": "GaAs",
+        "en": "Gallium arsenide",
+        "zh": "砷化镓  ",
+        "state": "s",
+        "enthalpy": "-71",
+        "gibbs": "-67.8",
+        "entropy": "64.2"
+    },
+    {
+        "chem": "GaCl<sub>3</sub>",
+        "en": "Gallium(Ⅲ) chloride",
+        "zh": "氯化镓(Ⅲ)  ",
+        "state": "s",
+        "enthalpy": "-524.7",
+        "gibbs": "-454.8",
+        "entropy": "142"
+    },
+    {
+        "chem": "GaF<sub>3</sub>",
+        "en": "Gallium(Ⅲ) fluoride",
+        "zh": "氟化镓(Ⅲ)  ",
+        "state": "s",
+        "enthalpy": "-1163",
+        "gibbs": "-1085.3",
+        "entropy": "84"
+    },
+    {
+        "chem": "GaN",
+        "en": "Gallium nitride",
+        "zh": "氮化镓  ",
+        "state": "s",
+        "enthalpy": "-110.5",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "GaSb",
+        "en": "Gallium antimonide",
+        "zh": "锑化镓  ",
+        "state": "s",
+        "enthalpy": "-41.8",
+        "gibbs": "-38.9",
+        "entropy": "76.1"
+    },
+    {
+        "chem": "Ge",
+        "en": "Germanium",
+        "zh": "锗  ",
+        "state": "s",
+        "enthalpy": "0",
+        "gibbs": "",
+        "entropy": "31.1"
+    },
+    {
+        "chem": "GeH<sub>4</sub>",
+        "en": "Germane",
+        "zh": "锗烷  ",
+        "state": "g",
+        "enthalpy": "90.8",
+        "gibbs": "113.4",
+        "entropy": "217.1"
+    },
+    {
+        "chem": "GeI<sub>4</sub>",
+        "en": "Germanium(Ⅳ) iodide",
+        "zh": "碘化锗(Ⅳ)  ",
+        "state": "s",
+        "enthalpy": "-141.8",
+        "gibbs": "-144.3",
+        "entropy": "271.1"
+    },
+    {
+        "chem": "GeI<sub>4</sub>",
+        "en": "Germanium(Ⅳ) iodide",
+        "zh": "碘化锗(Ⅳ)  ",
+        "state": "g",
+        "enthalpy": "-56.9",
+        "gibbs": "-106.3",
+        "entropy": "428.9"
+    },
+    {
+        "chem": "GeO<sub>2</sub>",
+        "en": "Germanium(Ⅳ) oxide",
+        "zh": "二氧化锗(Ⅳ)  ",
+        "state": "s",
+        "enthalpy": "-580",
+        "gibbs": "-521.4",
+        "entropy": "39.7"
+    },
+    {
+        "chem": "H<sub>2</sub>",
+        "en": "Hydrogen",
+        "zh": "氢  ",
+        "state": "g",
+        "enthalpy": "0",
+        "gibbs": "",
+        "entropy": "130.7"
+    },
+    {
+        "chem": "H<sub>2</sub>O",
+        "en": "Water",
+        "zh": "水  ",
+        "state": "l",
+        "enthalpy": "-285.8",
+        "gibbs": "-237.1",
+        "entropy": "70"
+    },
+    {
+        "chem": "H<sub>2</sub>O",
+        "en": "Water",
+        "zh": "水  ",
+        "state": "g",
+        "enthalpy": "-241.8",
+        "gibbs": "-228.6",
+        "entropy": "188.8"
+    },
+    {
+        "chem": "H<sub>2</sub>O<sub>2</sub>",
+        "en": "Hydrogen peroxide",
+        "zh": "过氧化氢  ",
+        "state": "l",
+        "enthalpy": "-187.8",
+        "gibbs": "-120.4",
+        "entropy": "109.6"
+    },
+    {
+        "chem": "H<sub>2</sub>S",
+        "en": "Hydrogen sulfide",
+        "zh": "硫化氢  ",
+        "state": "g",
+        "enthalpy": "-20.6",
+        "gibbs": "-33.4",
+        "entropy": "205.8"
+    },
+    {
+        "chem": "H<sub>2</sub>Se",
+        "en": "Hydrogen selenide",
+        "zh": "硒化氢  ",
+        "state": "g",
+        "enthalpy": "29.7",
+        "gibbs": "15.9",
+        "entropy": "219"
+    },
+    {
+        "chem": "H<sub>2</sub>SeO<sub>4</sub>",
+        "en": "Selenic acid",
+        "zh": "硒酸  ",
+        "state": "s",
+        "enthalpy": "-530.1",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "H<sub>2</sub>SiO<sub>3</sub>",
+        "en": "Metasilicic acid",
+        "zh": "偏硅酸  ",
+        "state": "s",
+        "enthalpy": "-1188.7",
+        "gibbs": "-1092.4",
+        "entropy": "134"
+    },
+    {
+        "chem": "H<sub>2</sub>SO<sub>4</sub>",
+        "en": "Sulfuric acid",
+        "zh": "硫酸  ",
+        "state": "l",
+        "enthalpy": "-814",
+        "gibbs": "-690",
+        "entropy": "156.9"
+    },
+    {
+        "chem": "H<sub>2</sub>Te",
+        "en": "Hydrogen telluride",
+        "zh": "碲化氢  ",
+        "state": "g",
+        "enthalpy": "99.6",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "H<sub>3</sub>AsO<sub>4</sub>",
+        "en": "Arsenic acid",
+        "zh": "砷酸  ",
+        "state": "s",
+        "enthalpy": "-906.3",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "H<sub>3</sub>BO<sub>3</sub>",
+        "en": "Boric acid",
+        "zh": "硼酸  ",
+        "state": "s",
+        "enthalpy": "-1094.3",
+        "gibbs": "-968.9",
+        "entropy": "90"
+    },
+    {
+        "chem": "H<sub>3</sub>PO<sub>2</sub>",
+        "en": "Phosphinic acid",
+        "zh": "次磷酸  ",
+        "state": "s",
+        "enthalpy": "-604.6",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "H<sub>3</sub>PO<sub>2</sub>",
+        "en": "Phosphinic acid",
+        "zh": "次磷酸  ",
+        "state": "l",
+        "enthalpy": "-595.4",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "H<sub>3</sub>PO<sub>3</sub>",
+        "en": "Phosphonic acid",
+        "zh": "亚磷酸  ",
+        "state": "s",
+        "enthalpy": "-964.4",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "H<sub>3</sub>PO<sub>4</sub>",
+        "en": "Phosphoric acid",
+        "zh": "磷酸  ",
+        "state": "s",
+        "enthalpy": "-1284.4",
+        "gibbs": "-1124.3",
+        "entropy": "110.5"
+    },
+    {
+        "chem": "H<sub>3</sub>PO<sub>4</sub>",
+        "en": "Phosphoric acid",
+        "zh": "磷酸  ",
+        "state": "l",
+        "enthalpy": "-1271.7",
+        "gibbs": "-1123.6",
+        "entropy": "150.8"
+    },
+    {
+        "chem": "H<sub>3</sub>Sb",
+        "en": "Stibine",
+        "zh": "锑化氢  ",
+        "state": "g",
+        "enthalpy": "145.1",
+        "gibbs": "147.8",
+        "entropy": "232.8"
+    },
+    {
+        "chem": "H<sub>4</sub>P<sub>2</sub>O<sub>7</sub>",
+        "en": "Diphosphoric acid",
+        "zh": "焦磷酸  ",
+        "state": "s",
+        "enthalpy": "-2241",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "H<sub>4</sub>P<sub>2</sub>O<sub>7</sub>",
+        "en": "Diphosphoric acid",
+        "zh": "焦磷酸  ",
+        "state": "l",
+        "enthalpy": "-2231.7",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "H<sub>4</sub>SiO<sub>4</sub>",
+        "en": "Orthosilicic acid",
+        "zh": "原硅酸  ",
+        "state": "s",
+        "enthalpy": "-1481.1",
+        "gibbs": "-1332.9",
+        "entropy": "192"
+    },
+    {
+        "chem": "HBr",
+        "en": "Hydrogen bromide",
+        "zh": "溴化氢  ",
+        "state": "g",
+        "enthalpy": "-36.3",
+        "gibbs": "-53.4",
+        "entropy": "198.7"
+    },
+    {
+        "chem": "HCl",
+        "en": "Hydrogen chloride",
+        "zh": "氯化氢  ",
+        "state": "g",
+        "enthalpy": "-92.3",
+        "gibbs": "-95.3",
+        "entropy": "186.9"
+    },
+    {
+        "chem": "HClO",
+        "en": "Hypochlorous acid",
+        "zh": "次氯酸  ",
+        "state": "g",
+        "enthalpy": "-78.7",
+        "gibbs": "-66.1",
+        "entropy": "236.7"
+    },
+    {
+        "chem": "HCHO",
+        "en": "Formaldehyde",
+        "zh": "甲醛  ",
+        "state": "g",
+        "enthalpy": "-108.6",
+        "gibbs": "-102.5",
+        "entropy": "218.8"
+    },
+    {
+        "chem": "HClO<sub>4</sub>",
+        "en": "Perchloric acid",
+        "zh": "高氯酸  ",
+        "state": "l",
+        "enthalpy": "-40.6",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "HCN",
+        "en": "Hydrogen cyanide",
+        "zh": "氰化氢  ",
+        "state": "l",
+        "enthalpy": "108.9",
+        "gibbs": "125",
+        "entropy": "112.8"
+    },
+    {
+        "chem": "HCN",
+        "en": "Hydrogen cyanide",
+        "zh": "氰化氢  ",
+        "state": "g",
+        "enthalpy": "135.1",
+        "gibbs": "124.7",
+        "entropy": "201.8"
+    },
+    {
+        "chem": "HCOOH",
+        "en": "Formic acid",
+        "zh": "甲酸  ",
+        "state": "l",
+        "enthalpy": "-425",
+        "gibbs": "-361.4",
+        "entropy": "129"
+    },
+    {
+        "chem": "He",
+        "en": "Helium",
+        "zh": "氦  ",
+        "state": "g",
+        "enthalpy": "0",
+        "gibbs": "",
+        "entropy": "126.2"
+    },
+    {
+        "chem": "HF",
+        "en": "Hydrogen fluoride",
+        "zh": "氟化氢  ",
+        "state": "l",
+        "enthalpy": "-299.8",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "HF",
+        "en": "Hydrogen fluoride",
+        "zh": "氟化氢  ",
+        "state": "g",
+        "enthalpy": "-273.3",
+        "gibbs": "-275.4",
+        "entropy": "173.8"
+    },
+    {
+        "chem": "Hg",
+        "en": "Mercury",
+        "zh": "汞  ",
+        "state": "l",
+        "enthalpy": "0",
+        "gibbs": "",
+        "entropy": "75.9"
+    },
+    {
+        "chem": "Hg",
+        "en": "Mercury",
+        "zh": "汞  ",
+        "state": "g",
+        "enthalpy": "61.4",
+        "gibbs": "31.8",
+        "entropy": "175"
+    },
+    {
+        "chem": "Hg<sub>2</sub>",
+        "en": "Dimercury",
+        "zh": "二聚汞  ",
+        "state": "g",
+        "enthalpy": "108.8",
+        "gibbs": "68.2",
+        "entropy": "288.1"
+    },
+    {
+        "chem": "Hg<sub>2</sub>Br<sub>2</sub>",
+        "en": "Mercury(Ⅰ) bromide",
+        "zh": "溴化亚汞(Ⅰ)  ",
+        "state": "s",
+        "enthalpy": "-206.9",
+        "gibbs": "-181.1",
+        "entropy": "218"
+    },
+    {
+        "chem": "Hg<sub>2</sub>Cl<sub>2</sub>",
+        "en": "Mercury(Ⅰ) chloride",
+        "zh": "氯化亚汞(Ⅰ)  ",
+        "state": "s",
+        "enthalpy": "-265.4",
+        "gibbs": "-210.7",
+        "entropy": "191.6"
+    },
+    {
+        "chem": "Hg<sub>2</sub>CO<sub>3</sub>",
+        "en": "Mercury(Ⅰ) carbonate",
+        "zh": "碳酸亚汞(Ⅰ)  ",
+        "state": "s",
+        "enthalpy": "-553.5",
+        "gibbs": "-468.1",
+        "entropy": "180"
+    },
+    {
+        "chem": "Hg<sub>2</sub>I<sub>2</sub>",
+        "en": "Mercury(Ⅰ) iodide",
+        "zh": "碘化亚汞(Ⅰ)  ",
+        "state": "g",
+        "enthalpy": "-121.3",
+        "gibbs": "-111",
+        "entropy": "233.5"
+    },
+    {
+        "chem": "Hg<sub>2</sub>SO<sub>4</sub>",
+        "en": "Mercury(Ⅰ) sulfate",
+        "zh": "硫酸亚汞(Ⅰ)  ",
+        "state": "s",
+        "enthalpy": "-743.1",
+        "gibbs": "-625.8",
+        "entropy": "200.7"
+    },
+    {
+        "chem": "HgBr<sub>2</sub>",
+        "en": "Mercury(Ⅱ) bromide",
+        "zh": "溴化汞(Ⅱ)  ",
+        "state": "s",
+        "enthalpy": "-170.7",
+        "gibbs": "-153.1",
+        "entropy": "172"
+    },
+    {
+        "chem": "HgCl<sub>2</sub>",
+        "en": "Mercury(Ⅱ) chloride",
+        "zh": "氯化汞(Ⅱ)  ",
+        "state": "s",
+        "enthalpy": "-224.3",
+        "gibbs": "-178.6",
+        "entropy": "146"
+    },
+    {
+        "chem": "HgI<sub>2</sub>",
+        "en": "Mercury(Ⅱ) iodide",
+        "zh": "碘化汞(Ⅱ)  ",
+        "state": "s",
+        "enthalpy": "-105.4",
+        "gibbs": "-101.7",
+        "entropy": "180"
+    },
+    {
+        "chem": "HgO",
+        "en": "Mercury(Ⅱ) oxide",
+        "zh": "氧化汞(Ⅱ)  ",
+        "state": "s",
+        "enthalpy": "-90.8",
+        "gibbs": "-58.5",
+        "entropy": "70.3"
+    },
+    {
+        "chem": "HgS",
+        "en": "Mercury(Ⅱ) sulfide",
+        "zh": "硫化汞(Ⅱ)  ",
+        "state": "s",
+        "enthalpy": "-58.2",
+        "gibbs": "-50.6",
+        "entropy": "82.4"
+    },
+    {
+        "chem": "HgSO<sub>4</sub>",
+        "en": "Mercury(Ⅱ) sulfate",
+        "zh": "硫酸汞(Ⅱ)  ",
+        "state": "s",
+        "enthalpy": "-707.5",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "HI",
+        "en": "Hydrogen iodide",
+        "zh": "碘化氢  ",
+        "state": "g",
+        "enthalpy": "26.5",
+        "gibbs": "1.7",
+        "entropy": "206.6"
+    },
+    {
+        "chem": "HIO<sub>3</sub>",
+        "en": "Iodic acid",
+        "zh": "碘酸  ",
+        "state": "l",
+        "enthalpy": "-230.1",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "HN<sub>3</sub>",
+        "en": "Hydrazoic acid",
+        "zh": "叠氮酸  ",
+        "state": "g",
+        "enthalpy": "294.1",
+        "gibbs": "328.1",
+        "entropy": "239"
+    },
+    {
+        "chem": "HN<sub>3</sub>",
+        "en": "Hydrazoic acid",
+        "zh": "叠氮酸  ",
+        "state": "l",
+        "enthalpy": "264",
+        "gibbs": "327.3",
+        "entropy": "140.6"
+    },
+    {
+        "chem": "HNCO",
+        "en": "Isocyanic acid(HNCO)",
+        "zh": "异氰酸  ",
+        "state": "g",
+        "enthalpy": "",
+        "gibbs": "",
+        "entropy": "238"
+    },
+    {
+        "chem": "HNO<sub>2</sub>",
+        "en": "Nitrous acid",
+        "zh": "亚硝酸  ",
+        "state": "g",
+        "enthalpy": "-79.5",
+        "gibbs": "-46",
+        "entropy": "254.1"
+    },
+    {
+        "chem": "HNO<sub>3</sub>",
+        "en": "Nitric acid",
+        "zh": "硝酸  ",
+        "state": "l",
+        "enthalpy": "-174.1",
+        "gibbs": "-80.7",
+        "entropy": "155.6"
+    },
+    {
+        "chem": "HNO<sub>3</sub>",
+        "en": "Nitric acid",
+        "zh": "硝酸  ",
+        "state": "g",
+        "enthalpy": "-133.9",
+        "gibbs": "-73.5",
+        "entropy": "266.9"
+    },
+    {
+        "chem": "HReO<sub>4</sub>",
+        "en": "Perrhenic acid",
+        "zh": "高铼酸  ",
+        "state": "s",
+        "enthalpy": "-762.3",
+        "gibbs": "-656.4",
+        "entropy": "158.2"
+    },
+    {
+        "chem": "HSCN",
+        "en": "Isothiocyanic acid",
+        "zh": "异硫氰酸  ",
+        "state": "g",
+        "enthalpy": "127.6",
+        "gibbs": "113",
+        "entropy": "247.8"
+    },
+    {
+        "chem": "I<sub>2</sub>",
+        "en": "Iodine(rhombic)",
+        "zh": "碘（正交晶系）  ",
+        "state": "s",
+        "enthalpy": "0",
+        "gibbs": "",
+        "entropy": "116.1"
+    },
+    {
+        "chem": "I<sub>2</sub>",
+        "en": "Iodine(rhombic)",
+        "zh": "碘（正交晶系）  ",
+        "state": "g",
+        "enthalpy": "62.4",
+        "gibbs": "19.3",
+        "entropy": "260.7"
+    },
+    {
+        "chem": "IF",
+        "en": "Iodine fluoride",
+        "zh": "氟化碘  ",
+        "state": "g",
+        "enthalpy": "-95.7",
+        "gibbs": "-118.5",
+        "entropy": "236.2"
+    },
+    {
+        "chem": "IF<sub>5</sub>",
+        "en": "Iodine pentafluoride",
+        "zh": "五氟化碘  ",
+        "state": "l",
+        "enthalpy": "-864.8",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "IF<sub>5</sub>",
+        "en": "Iodine pentafluoride",
+        "zh": "五氟化碘  ",
+        "state": "g",
+        "enthalpy": "-822.5",
+        "gibbs": "-751.7",
+        "entropy": "327.7"
+    },
+    {
+        "chem": "In",
+        "en": "Indium",
+        "zh": "铟  ",
+        "state": "s",
+        "enthalpy": "0",
+        "gibbs": "",
+        "entropy": "57.8"
+    },
+    {
+        "chem": "In<sub>2</sub>O<sub>3</sub>",
+        "en": "Indium(Ⅲ) oxide",
+        "zh": "氧化铟(Ⅲ)  ",
+        "state": "s",
+        "enthalpy": "-925.8",
+        "gibbs": "-830.7",
+        "entropy": "104.2"
+    },
+    {
+        "chem": "InAs",
+        "en": "Indium arsenide",
+        "zh": "砷化铟  ",
+        "state": "s",
+        "enthalpy": "-58.6",
+        "gibbs": "-53.6",
+        "entropy": "75.7"
+    },
+    {
+        "chem": "InI<sub>3</sub>",
+        "en": "Indium(Ⅲ) iodide",
+        "zh": "碘化铟(Ⅲ)  ",
+        "state": "s",
+        "enthalpy": "-238",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "InI<sub>3</sub>",
+        "en": "Indium(Ⅲ) iodide",
+        "zh": "碘化铟(Ⅲ)  ",
+        "state": "g",
+        "enthalpy": "-120.5",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "InP",
+        "en": "Indium phosphide",
+        "zh": "磷化铟  ",
+        "state": "s",
+        "enthalpy": "-88.7",
+        "gibbs": "-77",
+        "entropy": "59.8"
+    },
+    {
+        "chem": "InSb",
+        "en": "Indium antimonide",
+        "zh": "锑化铟  ",
+        "state": "s",
+        "enthalpy": "-30.5",
+        "gibbs": "-25.5",
+        "entropy": "86.2"
+    },
+    {
+        "chem": "Ir",
+        "en": "Iridium",
+        "zh": "铱  ",
+        "state": "s",
+        "enthalpy": "0",
+        "gibbs": "",
+        "entropy": "35.5"
+    },
+    {
+        "chem": "IrF<sub>6</sub>",
+        "en": "Iridium(Ⅵ) fluoride",
+        "zh": "六氟化铱(Ⅵ)  ",
+        "state": "s",
+        "enthalpy": "-579.7",
+        "gibbs": "-461.6",
+        "entropy": "247.7"
+    },
+    {
+        "chem": "IrF<sub>6</sub>",
+        "en": "Iridium(Ⅵ) fluoride",
+        "zh": "六氟化铱(Ⅵ)  ",
+        "state": "g",
+        "enthalpy": "-544",
+        "gibbs": "-460",
+        "entropy": "357.8"
+    },
+    {
+        "chem": "K",
+        "en": "Potassium",
+        "zh": "钾  ",
+        "state": "s",
+        "enthalpy": "0",
+        "gibbs": "",
+        "entropy": "64.7"
+    },
+    {
+        "chem": "K<sub>2</sub>C<sub>2</sub>O<sub>4</sub>",
+        "en": "Potassium oxalate",
+        "zh": "草酸钾  ",
+        "state": "s",
+        "enthalpy": "-1346",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "K<sub>2</sub>CO<sub>3</sub>",
+        "en": "Potassium carbonate",
+        "zh": "碳酸钾  ",
+        "state": "s",
+        "enthalpy": "-1151",
+        "gibbs": "-1063.5",
+        "entropy": "155.5"
+    },
+    {
+        "chem": "K<sub>2</sub>O",
+        "en": "Potassium oxide",
+        "zh": "氧化钾  ",
+        "state": "s",
+        "enthalpy": "-361.5",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "K<sub>2</sub>O<sub>2</sub>",
+        "en": "Potassium peroxide",
+        "zh": "过氧化钾  ",
+        "state": "s",
+        "enthalpy": "-494.1",
+        "gibbs": "-425.1",
+        "entropy": "102.1"
+    },
+    {
+        "chem": "K<sub>2</sub>S",
+        "en": "Potassium sulfide",
+        "zh": "硫化钾  ",
+        "state": "s",
+        "enthalpy": "-380.7",
+        "gibbs": "-364",
+        "entropy": "105"
+    },
+    {
+        "chem": "K<sub>2</sub>SiF<sub>6</sub>",
+        "en": "Potassium hexafluorosilicate",
+        "zh": "六氟硅酸钾  ",
+        "state": "s",
+        "enthalpy": "-2956",
+        "gibbs": "-2798.6",
+        "entropy": "226"
+    },
+    {
+        "chem": "K<sub>2</sub>SO<sub>4</sub>",
+        "en": "Potassium sulfate",
+        "zh": "硫酸钾  ",
+        "state": "s",
+        "enthalpy": "-1437.8",
+        "gibbs": "-1321.4",
+        "entropy": "175.6"
+    },
+    {
+        "chem": "K<sub>3</sub>PO<sub>4</sub>",
+        "en": "Potassium phosphate",
+        "zh": "磷酸钾  ",
+        "state": "s",
+        "enthalpy": "-1950.2",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "KBH<sub>4</sub>",
+        "en": "Potassium borohydride",
+        "zh": "硼氢化钾  ",
+        "state": "s",
+        "enthalpy": "-227.4",
+        "gibbs": "-160.3",
+        "entropy": "106.3"
+    },
+    {
+        "chem": "KBrO<sub>3</sub>",
+        "en": "Potassium bromate",
+        "zh": "溴酸钾  ",
+        "state": "s",
+        "enthalpy": "-360.2",
+        "gibbs": "-271.2",
+        "entropy": "149.2"
+    },
+    {
+        "chem": "KBrO<sub>4</sub>",
+        "en": "Potassium perbromate",
+        "zh": "高溴酸钾  ",
+        "state": "s",
+        "enthalpy": "-287.9",
+        "gibbs": "-174.4",
+        "entropy": "170.1"
+    },
+    {
+        "chem": "KCl",
+        "en": "Potassium chloride",
+        "zh": "氯化钾  ",
+        "state": "s",
+        "enthalpy": "-436.5",
+        "gibbs": "-408.5",
+        "entropy": "82.6"
+    },
+    {
+        "chem": "KClO<sub>3</sub>",
+        "en": "Potassium chlorate",
+        "zh": "氯酸钾  ",
+        "state": "s",
+        "enthalpy": "-397.7",
+        "gibbs": "-296.3",
+        "entropy": "143.1"
+    },
+    {
+        "chem": "KClO<sub>4</sub>",
+        "en": "Potassium perchlorate",
+        "zh": "高氯酸钾  ",
+        "state": "s",
+        "enthalpy": "-432.8",
+        "gibbs": "-303.1",
+        "entropy": "151"
+    },
+    {
+        "chem": "KCN",
+        "en": "Potassium cyanide",
+        "zh": "氰化钾  ",
+        "state": "s",
+        "enthalpy": "-113",
+        "gibbs": "-101.9",
+        "entropy": "128.5"
+    },
+    {
+        "chem": "KH",
+        "en": "Potassium hydride",
+        "zh": "氢化钾  ",
+        "state": "s",
+        "enthalpy": "-57.7",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "KH<sub>2</sub>PO<sub>4</sub>",
+        "en": "Potassium dihydrogen phosphate",
+        "zh": "磷酸二氢钾  ",
+        "state": "s",
+        "enthalpy": "-1568.3",
+        "gibbs": "-1415.9",
+        "entropy": "134.9"
+    },
+    {
+        "chem": "KHCO<sub>3</sub>",
+        "en": "Potassium hydrogen carbonate",
+        "zh": "碳酸氢钾  ",
+        "state": "s",
+        "enthalpy": "-963.2",
+        "gibbs": "-863.5",
+        "entropy": "115.5"
+    },
+    {
+        "chem": "KHF<sub>2</sub>",
+        "en": "Potassium hydrogen fluoride",
+        "zh": "氟氢化钾  ",
+        "state": "s",
+        "enthalpy": "-927.7",
+        "gibbs": "-859.7",
+        "entropy": "104.3"
+    },
+    {
+        "chem": "KI",
+        "en": "Potassium iodide",
+        "zh": "碘化钾  ",
+        "state": "s",
+        "enthalpy": "-327.9",
+        "gibbs": "-324.9",
+        "entropy": "106.3"
+    },
+    {
+        "chem": "KIO<sub>3</sub>",
+        "en": "Potassium iodate",
+        "zh": "碘酸钾  ",
+        "state": "s",
+        "enthalpy": "-501.4",
+        "gibbs": "-418.4",
+        "entropy": "151.5"
+    },
+    {
+        "chem": "KIO<sub>4</sub>",
+        "en": "Potassium periodate",
+        "zh": "高碘酸钾  ",
+        "state": "s",
+        "enthalpy": "-467.2",
+        "gibbs": "-361.4",
+        "entropy": "175.7"
+    },
+    {
+        "chem": "KMnO<sub>4</sub>",
+        "en": "Potassium permanganate",
+        "zh": "高锰酸钾  ",
+        "state": "s",
+        "enthalpy": "-837.2",
+        "gibbs": "-737.6",
+        "entropy": "171.7"
+    },
+    {
+        "chem": "KNO<sub>2</sub>",
+        "en": "Potassium nitrite",
+        "zh": "亚硝酸钾  ",
+        "state": "s",
+        "enthalpy": "-369.8",
+        "gibbs": "-306.6",
+        "entropy": "152.1"
+    },
+    {
+        "chem": "KNO<sub>3</sub>",
+        "en": "Potassium nitrate",
+        "zh": "硝酸钾  ",
+        "state": "s",
+        "enthalpy": "-494.6",
+        "gibbs": "-394.9",
+        "entropy": "133.1"
+    },
+    {
+        "chem": "KO<sub>2</sub>",
+        "en": "Potassium superoxide",
+        "zh": "超氧化钾  ",
+        "state": "s",
+        "enthalpy": "-284.9",
+        "gibbs": "-239.4",
+        "entropy": "116.7"
+    },
+    {
+        "chem": "KOH",
+        "en": "Potassium hydroxide",
+        "zh": "氢氧化钾  ",
+        "state": "s",
+        "enthalpy": "-424.6",
+        "gibbs": "-379.4",
+        "entropy": "81.2"
+    },
+    {
+        "chem": "Kr",
+        "en": "Krypton",
+        "zh": "氪  ",
+        "state": "g",
+        "enthalpy": "0",
+        "gibbs": "",
+        "entropy": "164.1"
+    },
+    {
+        "chem": "KSCN",
+        "en": "Potassium thiocyanate",
+        "zh": "硫氰酸钾  ",
+        "state": "s",
+        "enthalpy": "-200.2",
+        "gibbs": "-178.3",
+        "entropy": "124.3"
+    },
+    {
+        "chem": "La",
+        "en": "Lanthanum",
+        "zh": "镧  ",
+        "state": "s",
+        "enthalpy": "0",
+        "gibbs": "",
+        "entropy": "56.9"
+    },
+    {
+        "chem": "La<sub>2</sub>O<sub>3</sub>",
+        "en": "Lanthanum oxide",
+        "zh": "氧化镧  ",
+        "state": "s",
+        "enthalpy": "-1793.7",
+        "gibbs": "-1705.8",
+        "entropy": "127.3"
+    },
+    {
+        "chem": "LaCl<sub>3</sub>",
+        "en": "Lanthanum chloride",
+        "zh": "氯化镧  ",
+        "state": "s",
+        "enthalpy": "-1072.2",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "Li",
+        "en": "Lithium",
+        "zh": "锂  ",
+        "state": "s",
+        "enthalpy": "0",
+        "gibbs": "",
+        "entropy": "29.1"
+    },
+    {
+        "chem": "Li<sub>2</sub>CO<sub>3</sub>",
+        "en": "Lithium carbonate",
+        "zh": "碳酸锂  ",
+        "state": "s",
+        "enthalpy": "-1215.9",
+        "gibbs": "-1132.1",
+        "entropy": "90.4"
+    },
+    {
+        "chem": "Li<sub>2</sub>O",
+        "en": "Lithium oxide",
+        "zh": "氧化锂  ",
+        "state": "s",
+        "enthalpy": "-597.9",
+        "gibbs": "-561.2",
+        "entropy": "37.6"
+    },
+    {
+        "chem": "Li<sub>2</sub>O<sub>2</sub>",
+        "en": "Lithium peroxide",
+        "zh": "过氧化锂  ",
+        "state": "s",
+        "enthalpy": "-634.3",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "Li<sub>2</sub>SO<sub>4</sub>",
+        "en": "Lithium sulfate",
+        "zh": "硫酸锂  ",
+        "state": "s",
+        "enthalpy": "-1436.5",
+        "gibbs": "-1321.7",
+        "entropy": "115.1"
+    },
+    {
+        "chem": "Li<sub>3</sub>PO<sub>4</sub>",
+        "en": "Lithium phosphate",
+        "zh": "磷酸锂  ",
+        "state": "s",
+        "enthalpy": "-2095.8",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "LiAlH<sub>4</sub>",
+        "en": "Lithium aluminum hydride",
+        "zh": "氢化铝锂  ",
+        "state": "s",
+        "enthalpy": "-116.3",
+        "gibbs": "-44.7",
+        "entropy": "78.7"
+    },
+    {
+        "chem": "LiBH<sub>4</sub>",
+        "en": "Lithium borohydride",
+        "zh": "硼氢化锂  ",
+        "state": "s",
+        "enthalpy": "-190.8",
+        "gibbs": "-125",
+        "entropy": "75.9"
+    },
+    {
+        "chem": "LiF",
+        "en": "Lithium fluoride",
+        "zh": "氟化锂  ",
+        "state": "s",
+        "enthalpy": "-616",
+        "gibbs": "-587.7",
+        "entropy": "35.7"
+    },
+    {
+        "chem": "LiH",
+        "en": "Lithium hydride",
+        "zh": "氢化锂  ",
+        "state": "s",
+        "enthalpy": "-90.5",
+        "gibbs": "-68.3",
+        "entropy": "20"
+    },
+    {
+        "chem": "LiNO<sub>2</sub>",
+        "en": "Lithium nitrite",
+        "zh": "亚硝酸锂  ",
+        "state": "s",
+        "enthalpy": "-372.4",
+        "gibbs": "-302",
+        "entropy": "96"
+    },
+    {
+        "chem": "LiNO<sub>3</sub>",
+        "en": "Lithium nitrate",
+        "zh": "硝酸锂  ",
+        "state": "s",
+        "enthalpy": "-483.1",
+        "gibbs": "-381.1",
+        "entropy": "90"
+    },
+    {
+        "chem": "LiOH",
+        "en": "Lithium hydroxide",
+        "zh": "氢氧化锂  ",
+        "state": "s",
+        "enthalpy": "-487.5",
+        "gibbs": "-441.5",
+        "entropy": "42.8"
+    },
+    {
+        "chem": "LiOH",
+        "en": "Lithium hydroxide",
+        "zh": "氢氧化锂  ",
+        "state": "g",
+        "enthalpy": "-229",
+        "gibbs": "-234.2",
+        "entropy": "214.4"
+    },
+    {
+        "chem": "Mg",
+        "en": "Magnesium",
+        "zh": "镁  ",
+        "state": "s",
+        "enthalpy": "0",
+        "gibbs": "",
+        "entropy": "32.7"
+    },
+    {
+        "chem": "Mg(NO<sub>3</sub>)<sub>2</sub>",
+        "en": "Magnesium nitrate",
+        "zh": "硝酸镁  ",
+        "state": "s",
+        "enthalpy": "-790.7",
+        "gibbs": "-589.4",
+        "entropy": "164"
+    },
+    {
+        "chem": "Mg(OH)<sub>2</sub>",
+        "en": "Magnesium hydroxide",
+        "zh": "氢氧化镁  ",
+        "state": "s",
+        "enthalpy": "-924.5",
+        "gibbs": "-833.5",
+        "entropy": "63.2"
+    },
+    {
+        "chem": "MgBr<sub>2</sub>",
+        "en": "Magnesium bromide",
+        "zh": "溴化镁  ",
+        "state": "s",
+        "enthalpy": "-524.3",
+        "gibbs": "-503.8",
+        "entropy": "117.2"
+    },
+    {
+        "chem": "MgC<sub>2</sub>O<sub>4</sub>",
+        "en": "Magnesium oxalate",
+        "zh": "草酸镁  ",
+        "state": "s",
+        "enthalpy": "-1269",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "MgCl<sub>2</sub>",
+        "en": "Magnesium chloride",
+        "zh": "氯化镁  ",
+        "state": "s",
+        "enthalpy": "-641.3",
+        "gibbs": "-591.8",
+        "entropy": "89.6"
+    },
+    {
+        "chem": "MgCO<sub>3</sub>",
+        "en": "Magnesium carbonate",
+        "zh": "碳酸镁  ",
+        "state": "s",
+        "enthalpy": "-1095.8",
+        "gibbs": "-1012.1",
+        "entropy": "65.7"
+    },
+    {
+        "chem": "MgH<sub>2</sub>",
+        "en": "Magnesium hydride",
+        "zh": "氢化镁  ",
+        "state": "s",
+        "enthalpy": "-75.3",
+        "gibbs": "-35.9",
+        "entropy": "31.1"
+    },
+    {
+        "chem": "MgI<sub>2</sub>",
+        "en": "Magnesium iodide",
+        "zh": "碘化镁  ",
+        "state": "s",
+        "enthalpy": "-364",
+        "gibbs": "-358.2",
+        "entropy": "129.7"
+    },
+    {
+        "chem": "MgO",
+        "en": "Magnesium oxide",
+        "zh": "氧化镁  ",
+        "state": "s",
+        "enthalpy": "-601.6",
+        "gibbs": "-569.3",
+        "entropy": "27"
+    },
+    {
+        "chem": "MgSO<sub>4</sub>",
+        "en": "Magnesium sulfate",
+        "zh": "硫酸镁  ",
+        "state": "s",
+        "enthalpy": "-1284.9",
+        "gibbs": "-1170.6",
+        "entropy": "91.6"
+    },
+    {
+        "chem": "Mn",
+        "en": "Manganese",
+        "zh": "锰  ",
+        "state": "s",
+        "enthalpy": "0",
+        "gibbs": "",
+        "entropy": "32"
+    },
+    {
+        "chem": "Mn(NO<sub>3</sub>)<sub>2</sub>",
+        "en": "Manganese(Ⅱ) nitrate",
+        "zh": "硝酸锰(Ⅱ)  ",
+        "state": "s",
+        "enthalpy": "-576.3",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "Mn<sub>2</sub>O<sub>3</sub>",
+        "en": "Manganese(Ⅲ) oxide",
+        "zh": "三氧化二锰(Ⅲ)  ",
+        "state": "s",
+        "enthalpy": "-959",
+        "gibbs": "-881.1",
+        "entropy": "110.5"
+    },
+    {
+        "chem": "Mn<sub>2</sub>SiO<sub>4</sub>",
+        "en": "Manganese(Ⅱ) orthosilicate",
+        "zh": "硅酸锰(Ⅱ)  ",
+        "state": "s",
+        "enthalpy": "-1730.5",
+        "gibbs": "-1632.1",
+        "entropy": "163.2"
+    },
+    {
+        "chem": "Mn<sub>3</sub>O<sub>4</sub>",
+        "en": "Manganese(Ⅱ,Ⅲ) oxide",
+        "zh": "四氧化三锰(Ⅱ,Ⅲ)  ",
+        "state": "s",
+        "enthalpy": "-1387.8",
+        "gibbs": "-1283.2",
+        "entropy": "155.6"
+    },
+    {
+        "chem": "MnCl<sub>2</sub>",
+        "en": "Manganese(Ⅱ) chloride",
+        "zh": "氯化锰(Ⅱ)  ",
+        "state": "s",
+        "enthalpy": "-481.3",
+        "gibbs": "-440.5",
+        "entropy": "118.2"
+    },
+    {
+        "chem": "MnCO<sub>3</sub>",
+        "en": "Manganese(Ⅱ) carbonate",
+        "zh": "碳酸锰(Ⅱ)  ",
+        "state": "s",
+        "enthalpy": "-894.1",
+        "gibbs": "-816.7",
+        "entropy": "85.8"
+    },
+    {
+        "chem": "MnO",
+        "en": "Manganese(Ⅱ) oxide",
+        "zh": "氧化锰(Ⅱ)  ",
+        "state": "s",
+        "enthalpy": "-385.2",
+        "gibbs": "-362.9",
+        "entropy": "59.7"
+    },
+    {
+        "chem": "MnO<sub>2</sub>",
+        "en": "Manganese(Ⅳ) oxide",
+        "zh": "二氧化锰(Ⅳ)  ",
+        "state": "s",
+        "enthalpy": "-520",
+        "gibbs": "-465.1",
+        "entropy": "53.1"
+    },
+    {
+        "chem": "MnS",
+        "en": "Manganese(Ⅱ) sulfide",
+        "zh": "硫化锰(Ⅱ)  ",
+        "state": "s",
+        "enthalpy": "-214.2",
+        "gibbs": "-218.4",
+        "entropy": "78.2"
+    },
+    {
+        "chem": "Mo",
+        "en": "Molybdenum",
+        "zh": "钼  ",
+        "state": "s",
+        "enthalpy": "0",
+        "gibbs": "",
+        "entropy": "28.7"
+    },
+    {
+        "chem": "MoO<sub>3</sub>",
+        "en": "Molybdenum(Ⅵ) oxide",
+        "zh": "三氧化钼(Ⅵ)  ",
+        "state": "s",
+        "enthalpy": "-745.1",
+        "gibbs": "-668",
+        "entropy": "77.7"
+    },
+    {
+        "chem": "N<sub>2</sub>",
+        "en": "Nitrogen",
+        "zh": "氮  ",
+        "state": "g",
+        "enthalpy": "0",
+        "gibbs": "",
+        "entropy": "191.6"
+    },
+    {
+        "chem": "N<sub>2</sub>H<sub>4</sub>",
+        "en": "Hydrazine",
+        "zh": "联氨  ",
+        "state": "l",
+        "enthalpy": "50.6",
+        "gibbs": "149.3",
+        "entropy": "121.2"
+    },
+    {
+        "chem": "N<sub>2</sub>H<sub>4</sub>",
+        "en": "Hydrazine",
+        "zh": "联氨  ",
+        "state": "g",
+        "enthalpy": "95.4",
+        "gibbs": "159.4",
+        "entropy": "238.5"
+    },
+    {
+        "chem": "N<sub>2</sub>O",
+        "en": "Nitrous oxide",
+        "zh": "一氧化二氮  ",
+        "state": "g",
+        "enthalpy": "81.6",
+        "gibbs": "103.7",
+        "entropy": "220"
+    },
+    {
+        "chem": "N<sub>2</sub>O<sub>3</sub>",
+        "en": "Nitrogen trioxide",
+        "zh": "三氧化二氮  ",
+        "state": "l",
+        "enthalpy": "50.3",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "N<sub>2</sub>O<sub>3</sub>",
+        "en": "Nitrogen trioxide",
+        "zh": "三氧化二氮  ",
+        "state": "g",
+        "enthalpy": "86.6",
+        "gibbs": "142.4",
+        "entropy": "314.7"
+    },
+    {
+        "chem": "N<sub>2</sub>O<sub>4</sub>",
+        "en": "Nitrogen tetroxide",
+        "zh": "四氧化二氮  ",
+        "state": "l",
+        "enthalpy": "-19.5",
+        "gibbs": "97.5",
+        "entropy": "209.2"
+    },
+    {
+        "chem": "N<sub>2</sub>O<sub>4</sub>",
+        "en": "Nitrogen tetroxide",
+        "zh": "四氧化二氮  ",
+        "state": "g",
+        "enthalpy": "11.1",
+        "gibbs": "99.8",
+        "entropy": "304.4"
+    },
+    {
+        "chem": "N<sub>2</sub>O<sub>5</sub>",
+        "en": "Nitrogen pentoxide",
+        "zh": "五氧化二氮  ",
+        "state": "s",
+        "enthalpy": "-43.1",
+        "gibbs": "113.9",
+        "entropy": "178.2"
+    },
+    {
+        "chem": "N<sub>2</sub>O<sub>5</sub>",
+        "en": "Nitrogen pentoxide",
+        "zh": "五氧化二氮  ",
+        "state": "g",
+        "enthalpy": "13.3",
+        "gibbs": "117.1",
+        "entropy": "355.7"
+    },
+    {
+        "chem": "Na",
+        "en": "Sodium",
+        "zh": "钠  ",
+        "state": "s",
+        "enthalpy": "0",
+        "gibbs": "",
+        "entropy": "51.3"
+    },
+    {
+        "chem": "Na",
+        "en": "Sodium",
+        "zh": "钠  ",
+        "state": "g",
+        "enthalpy": "107.5",
+        "gibbs": "77",
+        "entropy": "153.7"
+    },
+    {
+        "chem": "Na<sub>2</sub>",
+        "en": "Disodium",
+        "zh": "二钠  ",
+        "state": "g",
+        "enthalpy": "142.1",
+        "gibbs": "103.9",
+        "entropy": "230.2"
+    },
+    {
+        "chem": "Na<sub>2</sub>B<sub>4</sub>O<sub>7</sub>",
+        "en": "Sodium tetraborate",
+        "zh": "四硼酸钠  ",
+        "state": "s",
+        "enthalpy": "-3291.1",
+        "gibbs": "-3096",
+        "entropy": "189.5"
+    },
+    {
+        "chem": "Na<sub>2</sub>C<sub>2</sub>O<sub>4</sub>",
+        "en": "Sodium oxalate",
+        "zh": "草酸钠  ",
+        "state": "g",
+        "enthalpy": "-1318",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "Na<sub>2</sub>CO<sub>3</sub>",
+        "en": "Sodium carbonate",
+        "zh": "碳酸钠  ",
+        "state": "s",
+        "enthalpy": "-1130.7",
+        "gibbs": "-1044.4",
+        "entropy": "135"
+    },
+    {
+        "chem": "Na<sub>2</sub>HPO<sub>4</sub>",
+        "en": "Sodium hydrogen phosphate",
+        "zh": "磷酸氢二钠  ",
+        "state": "s",
+        "enthalpy": "-1748.1",
+        "gibbs": "-1608.2",
+        "entropy": "150.5"
+    },
+    {
+        "chem": "Na<sub>2</sub>MnO<sub>4</sub>",
+        "en": "Sodium permanganate",
+        "zh": "锰酸钠（注意：原英文误为高锰酸钠）  ",
+        "state": "s",
+        "enthalpy": "-1156",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "Na<sub>2</sub>O",
+        "en": "Sodium oxide",
+        "zh": "氧化钠  ",
+        "state": "s",
+        "enthalpy": "-414.2",
+        "gibbs": "-375.5",
+        "entropy": "75.1"
+    },
+    {
+        "chem": "Na<sub>2</sub>O<sub>2</sub>",
+        "en": "Sodium peroxide",
+        "zh": "过氧化钠  ",
+        "state": "s",
+        "enthalpy": "-510.9",
+        "gibbs": "-447.7",
+        "entropy": "95"
+    },
+    {
+        "chem": "Na<sub>2</sub>S",
+        "en": "Sodium sulfide",
+        "zh": "硫化钠  ",
+        "state": "s",
+        "enthalpy": "-364.8",
+        "gibbs": "-349.8",
+        "entropy": "83.7"
+    },
+    {
+        "chem": "Na<sub>2</sub>SiF<sub>6</sub>",
+        "en": "Sodium hexafluorosilicate",
+        "zh": "六氟硅酸钠  ",
+        "state": "s",
+        "enthalpy": "-2909.6",
+        "gibbs": "-2754.2",
+        "entropy": "207.1"
+    },
+    {
+        "chem": "Na<sub>2</sub>SiO<sub>3</sub>",
+        "en": "Sodium metasilicate",
+        "zh": "偏硅酸钠  ",
+        "state": "s",
+        "enthalpy": "-1554.9",
+        "gibbs": "-1462.8",
+        "entropy": "113.9"
+    },
+    {
+        "chem": "Na<sub>2</sub>SO<sub>3</sub>",
+        "en": "Sodium sulfite",
+        "zh": "亚硫酸钠  ",
+        "state": "s",
+        "enthalpy": "-1100.8",
+        "gibbs": "-1012.5",
+        "entropy": "145.9"
+    },
+    {
+        "chem": "Na<sub>2</sub>SO<sub>4</sub>",
+        "en": "Sodium sulfate",
+        "zh": "硫酸钠  ",
+        "state": "s",
+        "enthalpy": "-1387.1",
+        "gibbs": "-1270.2",
+        "entropy": "149.6"
+    },
+    {
+        "chem": "NaAlF<sub>4</sub>",
+        "en": "Sodium tetrafluoroaluminate",
+        "zh": "四氟铝酸钠  ",
+        "state": "g",
+        "enthalpy": "-1869",
+        "gibbs": "-1827.5",
+        "entropy": "345.7"
+    },
+    {
+        "chem": "NaBF<sub>4</sub>",
+        "en": "Sodium tetrafluoroborate",
+        "zh": "四氟硼酸钠  ",
+        "state": "s",
+        "enthalpy": "-1844.7",
+        "gibbs": "-1750.1",
+        "entropy": "145.3"
+    },
+    {
+        "chem": "NaBH<sub>4</sub>",
+        "en": "Sodium borohydride",
+        "zh": "硼氢化钠  ",
+        "state": "s",
+        "enthalpy": "-188.6",
+        "gibbs": "-123.9",
+        "entropy": "101.3"
+    },
+    {
+        "chem": "NaBO<sub>2</sub>",
+        "en": "Sodium metaborate",
+        "zh": "偏硼酸钠  ",
+        "state": "s",
+        "enthalpy": "-977",
+        "gibbs": "-920.7",
+        "entropy": "73.5"
+    },
+    {
+        "chem": "NaBr",
+        "en": "Sodium bromide",
+        "zh": "溴化钠  ",
+        "state": "s",
+        "enthalpy": "-361.1",
+        "gibbs": "-349",
+        "entropy": "86.8"
+    },
+    {
+        "chem": "NaCl",
+        "en": "Sodium chloride",
+        "zh": "氯化钠  ",
+        "state": "s",
+        "enthalpy": "-411.2",
+        "gibbs": "-384.1",
+        "entropy": "72.1"
+    },
+    {
+        "chem": "NaClO<sub>3</sub>",
+        "en": "Sodium chlorate",
+        "zh": "氯酸钠  ",
+        "state": "s",
+        "enthalpy": "-365.8",
+        "gibbs": "-262.3",
+        "entropy": "123.4"
+    },
+    {
+        "chem": "NaClO<sub>4</sub>",
+        "en": "Sodium perchlorate",
+        "zh": "高氯酸钠  ",
+        "state": "s",
+        "enthalpy": "-383.3",
+        "gibbs": "-254.9",
+        "entropy": "142.3"
+    },
+    {
+        "chem": "NaCN",
+        "en": "Sodium cyanide",
+        "zh": "氰化钠  ",
+        "state": "s",
+        "enthalpy": "-87.5",
+        "gibbs": "-76.4",
+        "entropy": "115.6"
+    },
+    {
+        "chem": "NaF",
+        "en": "Sodium fluoride",
+        "zh": "氟化钠  ",
+        "state": "s",
+        "enthalpy": "-576.6",
+        "gibbs": "-546.3",
+        "entropy": "51.1"
+    },
+    {
+        "chem": "NaH",
+        "en": "Sodium hydride",
+        "zh": "氢化钠  ",
+        "state": "s",
+        "enthalpy": "-56.3",
+        "gibbs": "-33.5",
+        "entropy": "40"
+    },
+    {
+        "chem": "NaHCO<sub>3</sub>",
+        "en": "Sodium hydrogen carbonate",
+        "zh": "碳酸氢钠  ",
+        "state": "s",
+        "enthalpy": "-950.8",
+        "gibbs": "-851",
+        "entropy": "101.7"
+    },
+    {
+        "chem": "NaHSO<sub>4</sub>",
+        "en": "Sodium hydrogen sulfate",
+        "zh": "硫酸氢钠  ",
+        "state": "s",
+        "enthalpy": "-1125.5",
+        "gibbs": "-992.8",
+        "entropy": "113"
+    },
+    {
+        "chem": "NaI",
+        "en": "Sodium iodide",
+        "zh": "碘化钠  ",
+        "state": "s",
+        "enthalpy": "-287.8",
+        "gibbs": "-286.1",
+        "entropy": "98.5"
+    },
+    {
+        "chem": "NaIO<sub>4</sub>",
+        "en": "Sodium periodate",
+        "zh": "高碘酸钠  ",
+        "state": "s",
+        "enthalpy": "-429.3",
+        "gibbs": "-323",
+        "entropy": "163"
+    },
+    {
+        "chem": "NaN<sub>3</sub>",
+        "en": "Sodium azide",
+        "zh": "叠氮化钠  ",
+        "state": "s",
+        "enthalpy": "21.7",
+        "gibbs": "93.8",
+        "entropy": "96.9"
+    },
+    {
+        "chem": "NaNH<sub>2</sub>",
+        "en": "Sodium amide",
+        "zh": "氨基钠  ",
+        "state": "s",
+        "enthalpy": "-123.8",
+        "gibbs": "-64",
+        "entropy": "76.9"
+    },
+    {
+        "chem": "NaNO<sub>2</sub>",
+        "en": "Sodium nitrite",
+        "zh": "亚硝酸钠  ",
+        "state": "s",
+        "enthalpy": "-358.7",
+        "gibbs": "-284.6",
+        "entropy": "103.8"
+    },
+    {
+        "chem": "NaNO<sub>3</sub>",
+        "en": "Sodium nitrate",
+        "zh": "硝酸钠  ",
+        "state": "s",
+        "enthalpy": "-467.9",
+        "gibbs": "-367",
+        "entropy": "116.5"
+    },
+    {
+        "chem": "NaO<sub>2</sub>",
+        "en": "Sodium superoxide",
+        "zh": "超氧化钠  ",
+        "state": "s",
+        "enthalpy": "-260.2",
+        "gibbs": "-218.4",
+        "entropy": "115.9"
+    },
+    {
+        "chem": "NaOCN",
+        "en": "Sodium cyanate",
+        "zh": "氰酸钠  ",
+        "state": "s",
+        "enthalpy": "-405.4",
+        "gibbs": "-358.1",
+        "entropy": "96.7"
+    },
+    {
+        "chem": "NaOH",
+        "en": "Sodium hydroxide",
+        "zh": "氢氧化钠  ",
+        "state": "s",
+        "enthalpy": "-425.8",
+        "gibbs": "-379.7",
+        "entropy": "64.4"
+    },
+    {
+        "chem": "Nb",
+        "en": "Niobium",
+        "zh": "铌  ",
+        "state": "s",
+        "enthalpy": "0",
+        "gibbs": "",
+        "entropy": "36.4"
+    },
+    {
+        "chem": "Nb<sub>2</sub>O<sub>5</sub>",
+        "en": "Niobium(Ⅴ) oxide",
+        "zh": "五氧化二铌(Ⅴ)  ",
+        "state": "s",
+        "enthalpy": "-1899.5",
+        "gibbs": "-1766",
+        "entropy": "137.2"
+    },
+    {
+        "chem": "NbCl<sub>5</sub>",
+        "en": "Niobium(Ⅴ) chloride",
+        "zh": "五氯化铌(Ⅴ)  ",
+        "state": "s",
+        "enthalpy": "-797.5",
+        "gibbs": "-683.2",
+        "entropy": "210.5"
+    },
+    {
+        "chem": "NbCl<sub>5</sub>",
+        "en": "Niobium(Ⅴ) chloride",
+        "zh": "五氯化铌(Ⅴ)  ",
+        "state": "g",
+        "enthalpy": "-703.7",
+        "gibbs": "-646",
+        "entropy": "400.6"
+    },
+    {
+        "chem": "NCl<sub>3</sub>",
+        "en": "Nitrogen trichloride",
+        "zh": "三氯化氮  ",
+        "state": "l",
+        "enthalpy": "230",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "Ne",
+        "en": "Neon",
+        "zh": "氖  ",
+        "state": "g",
+        "enthalpy": "0",
+        "gibbs": "",
+        "entropy": "146.3"
+    },
+    {
+        "chem": "NF<sub>3</sub>",
+        "en": "Nitrogen trifluoride",
+        "zh": "三氟化氮  ",
+        "state": "g",
+        "enthalpy": "-132.1",
+        "gibbs": "-90.6",
+        "entropy": "260.8"
+    },
+    {
+        "chem": "NH<sub>3</sub>",
+        "en": "Ammonia",
+        "zh": "氨  ",
+        "state": "g",
+        "enthalpy": "-45.9",
+        "gibbs": "-16.4",
+        "entropy": "192.8"
+    },
+    {
+        "chem": "NH<sub>4</sub>Br",
+        "en": "Ammonium bromide",
+        "zh": "溴化铵  ",
+        "state": "s",
+        "enthalpy": "-270.8",
+        "gibbs": "-175.2",
+        "entropy": "113"
+    },
+    {
+        "chem": "NH<sub>4</sub>Cl",
+        "en": "Ammonium chloride",
+        "zh": "氯化铵  ",
+        "state": "s",
+        "enthalpy": "-314.4",
+        "gibbs": "-202.9",
+        "entropy": "94.6"
+    },
+    {
+        "chem": "NH<sub>4</sub>CN",
+        "en": "Ammonium cyanide",
+        "zh": "氰化铵  ",
+        "state": "s",
+        "enthalpy": "0.4",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "NH<sub>4</sub>F",
+        "en": "Ammonium fluoride",
+        "zh": "氟化铵  ",
+        "state": "s",
+        "enthalpy": "-464",
+        "gibbs": "-348.7",
+        "entropy": "72"
+    },
+    {
+        "chem": "NH<sub>4</sub>NO<sub>2</sub>",
+        "en": "Ammonium nitrite",
+        "zh": "亚硝酸铵  ",
+        "state": "s",
+        "enthalpy": "-256.5",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "NH<sub>4</sub>NO<sub>3</sub>",
+        "en": "Ammonium nitrate",
+        "zh": "硝酸铵  ",
+        "state": "s",
+        "enthalpy": "-365.6",
+        "gibbs": "-183.9",
+        "entropy": "151.1"
+    },
+    {
+        "chem": "(NH<sub>4</sub>)<sub>2</sub>HPO<sub>4</sub>",
+        "en": "Ammonium hydrogen phosphate",
+        "zh": "磷酸氢二铵  ",
+        "state": "s",
+        "enthalpy": "-1566.9",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "NH<sub>4</sub>HSO<sub>3</sub>",
+        "en": "Ammonium hydrogen sulfite",
+        "zh": "亚硫酸氢铵  ",
+        "state": "s",
+        "enthalpy": "-768.6",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "NH<sub>4</sub>HSO<sub>4</sub>",
+        "en": "Ammonium hydrogen sulfate",
+        "zh": "硫酸氢铵  ",
+        "state": "s",
+        "enthalpy": "-1027",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "(NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>",
+        "en": "Ammonium sulfate",
+        "zh": "硫酸铵  ",
+        "state": "s",
+        "enthalpy": "-1180.9",
+        "gibbs": "-901.7",
+        "entropy": "220.1"
+    },
+    {
+        "chem": "NH<sub>4</sub>I",
+        "en": "Ammonium iodide",
+        "zh": "碘化铵  ",
+        "state": "s",
+        "enthalpy": "-201.4",
+        "gibbs": "-112.5",
+        "entropy": "117"
+    },
+    {
+        "chem": "Ni",
+        "en": "Nickel",
+        "zh": "镍  ",
+        "state": "s",
+        "enthalpy": "0",
+        "gibbs": "",
+        "entropy": "29.9"
+    },
+    {
+        "chem": "Ni<sub>2</sub>O<sub>3</sub>",
+        "en": "Nickel(Ⅲ) oxide",
+        "zh": "三氧化二镍(Ⅲ)  ",
+        "state": "s",
+        "enthalpy": "-489.5",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "NiS",
+        "en": "Nickel(Ⅱ) sulfide",
+        "zh": "硫化镍(Ⅱ)  ",
+        "state": "s",
+        "enthalpy": "-82",
+        "gibbs": "-79.5",
+        "entropy": "53"
+    },
+    {
+        "chem": "NiSO<sub>4</sub>",
+        "en": "Nickel(Ⅱ) sulfate",
+        "zh": "硫酸镍(Ⅱ)  ",
+        "state": "s",
+        "enthalpy": "-872.9",
+        "gibbs": "-759.7",
+        "entropy": "92"
+    },
+    {
+        "chem": "NO",
+        "en": "Nitric oxide",
+        "zh": "一氧化氮  ",
+        "state": "g",
+        "enthalpy": "91.3",
+        "gibbs": "87.6",
+        "entropy": "210.8"
+    },
+    {
+        "chem": "NO<sub>2</sub>",
+        "en": "Nitrogen dioxide",
+        "zh": "二氧化氮  ",
+        "state": "g",
+        "enthalpy": "33.2",
+        "gibbs": "51.3",
+        "entropy": "240.1"
+    },
+    {
+        "chem": "O<sub>2</sub>",
+        "en": "Oxygen",
+        "zh": "氧  ",
+        "state": "g",
+        "enthalpy": "0",
+        "gibbs": "",
+        "entropy": "205.2"
+    },
+    {
+        "chem": "O<sub>3</sub>",
+        "en": "Ozone",
+        "zh": "臭氧  ",
+        "state": "g",
+        "enthalpy": "142.7",
+        "gibbs": "163.2",
+        "entropy": "238.9"
+    },
+    {
+        "chem": "O<sub>2</sub>F<sub>2</sub>",
+        "en": "Difluorine dioxide",
+        "zh": "二氟化二氧  ",
+        "state": "g",
+        "enthalpy": "19.2",
+        "gibbs": "58.2",
+        "entropy": "277.2"
+    },
+    {
+        "chem": "OF<sub>2</sub>",
+        "en": "Fluorine monoxide",
+        "zh": "一氧化二氟  ",
+        "state": "g",
+        "enthalpy": "24.5",
+        "gibbs": "41.8",
+        "entropy": "247.5"
+    },
+    {
+        "chem": "Os",
+        "en": "Osmium",
+        "zh": "锇  ",
+        "state": "s",
+        "enthalpy": "0",
+        "gibbs": "",
+        "entropy": "32.6"
+    },
+    {
+        "chem": "OsF<sub>6</sub>",
+        "en": "Osmium(Ⅵ) fluoride",
+        "zh": "六氟化锇(Ⅵ)  ",
+        "state": "s",
+        "enthalpy": "",
+        "gibbs": "",
+        "entropy": "246"
+    },
+    {
+        "chem": "OsF<sub>6</sub>",
+        "en": "Osmium(Ⅵ) fluoride",
+        "zh": "六氟化锇(Ⅵ)  ",
+        "state": "g",
+        "enthalpy": "",
+        "gibbs": "",
+        "entropy": "358.1"
+    },
+    {
+        "chem": "OsO<sub>4</sub>",
+        "en": "Osmium(Ⅷ) oxide",
+        "zh": "四氧化锇(Ⅷ)  ",
+        "state": "s",
+        "enthalpy": "-394.1",
+        "gibbs": "-304.9",
+        "entropy": "143.9"
+    },
+    {
+        "chem": "P",
+        "en": "Phosphorus(white)",
+        "zh": "磷（白磷）  ",
+        "state": "s",
+        "enthalpy": "0",
+        "gibbs": "",
+        "entropy": "41.1"
+    },
+    {
+        "chem": "P",
+        "en": "Phosphorus(white)",
+        "zh": "磷（白磷）  ",
+        "state": "g",
+        "enthalpy": "316.5",
+        "gibbs": "280.1",
+        "entropy": "163.2"
+    },
+    {
+        "chem": "P",
+        "en": "Phosphorus(red)",
+        "zh": "磷（红磷）  ",
+        "state": "s",
+        "enthalpy": "-17.6",
+        "gibbs": "",
+        "entropy": "22.8"
+    },
+    {
+        "chem": "P",
+        "en": "Phosphorus(black)",
+        "zh": "磷（黑磷）  ",
+        "state": "s",
+        "enthalpy": "-39.3",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "P<sub>2</sub>H<sub>4</sub>",
+        "en": "Diphosphine",
+        "zh": "联膦  ",
+        "state": "l",
+        "enthalpy": "-5",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "P<sub>2</sub>H<sub>4</sub>",
+        "en": "Diphosphine",
+        "zh": "联膦  ",
+        "state": "g",
+        "enthalpy": "20.9",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "P<sub>4</sub>",
+        "en": "Tetraphosphorus",
+        "zh": "四磷  ",
+        "state": "g",
+        "enthalpy": "58.9",
+        "gibbs": "24.4",
+        "entropy": "280"
+    },
+    {
+        "chem": "Pb(NO<sub>3</sub>)<sub>2</sub>",
+        "en": "Lead(Ⅱ) nitrate",
+        "zh": "硝酸铅(Ⅱ)  ",
+        "state": "s",
+        "enthalpy": "-451.9",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "Pb<sub>3</sub>O<sub>4</sub>",
+        "en": "Lead(Ⅱ,Ⅱ,Ⅳ) oxide",
+        "zh": "四氧化三铅(Ⅱ,Ⅱ,Ⅳ)  ",
+        "state": "s",
+        "enthalpy": "-718.4",
+        "gibbs": "-601.2",
+        "entropy": "211.3"
+    },
+    {
+        "chem": "PbC<sub>2</sub>O<sub>4</sub>",
+        "en": "Lead(Ⅱ) oxalate",
+        "zh": "草酸铅(Ⅱ)  ",
+        "state": "s",
+        "enthalpy": "-851.4",
+        "gibbs": "-750.1",
+        "entropy": "146"
+    },
+    {
+        "chem": "PbCl<sub>2</sub>",
+        "en": "Lead(Ⅱ) chloride",
+        "zh": "氯化铅(Ⅱ)  ",
+        "state": "s",
+        "enthalpy": "-359.4",
+        "gibbs": "-314.1",
+        "entropy": "136"
+    },
+    {
+        "chem": "PbCl<sub>4</sub>",
+        "en": "Lead(Ⅳ) chloride",
+        "zh": "四氯化铅(Ⅳ)  ",
+        "state": "l",
+        "enthalpy": "-329.3",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "PbCO<sub>3</sub>",
+        "en": "Lead(Ⅱ) carbonate",
+        "zh": "碳酸铅(Ⅱ)  ",
+        "state": "s",
+        "enthalpy": "-699.1",
+        "gibbs": "-625.5",
+        "entropy": "131"
+    },
+    {
+        "chem": "PbI<sub>2</sub>",
+        "en": "Lead(Ⅱ) iodide",
+        "zh": "碘化铅(Ⅱ)  ",
+        "state": "s",
+        "enthalpy": "-175.5",
+        "gibbs": "-173.6",
+        "entropy": "174.9"
+    },
+    {
+        "chem": "PbO",
+        "en": "Lead(Ⅱ) oxide(massicot)",
+        "zh": "氧化铅(Ⅱ, 黄铅矿)  ",
+        "state": "s",
+        "enthalpy": "-217.3",
+        "gibbs": "-187.9",
+        "entropy": "68.7"
+    },
+    {
+        "chem": "PbO",
+        "en": "Lead(Ⅱ) oxide(litharge)",
+        "zh": "氧化铅(Ⅱ, 密陀僧)  ",
+        "state": "s",
+        "enthalpy": "-219",
+        "gibbs": "-188.9",
+        "entropy": "66.5"
+    },
+    {
+        "chem": "PbO<sub>2</sub>",
+        "en": "Lead(Ⅳ) oxide",
+        "zh": "二氧化铅(Ⅳ)  ",
+        "state": "s",
+        "enthalpy": "-277.4",
+        "gibbs": "-217.3",
+        "entropy": "68.6"
+    },
+    {
+        "chem": "PbS",
+        "en": "Lead(Ⅱ) sulfide",
+        "zh": "硫化铅(Ⅱ)  ",
+        "state": "s",
+        "enthalpy": "-100.4",
+        "gibbs": "-98.7",
+        "entropy": "91.2"
+    },
+    {
+        "chem": "PbSe",
+        "en": "Lead(Ⅱ) selenide",
+        "zh": "硒化铅(Ⅱ)  ",
+        "state": "s",
+        "enthalpy": "-102.9",
+        "gibbs": "-101.7",
+        "entropy": "102.5"
+    },
+    {
+        "chem": "PbSO<sub>4</sub>",
+        "en": "Lead(Ⅱ) sulfate",
+        "zh": "硫酸铅(Ⅱ)  ",
+        "state": "s",
+        "enthalpy": "-920",
+        "gibbs": "-813",
+        "entropy": "148.5"
+    },
+    {
+        "chem": "PbTe",
+        "en": "Lead(Ⅱ) telluride",
+        "zh": "碲化铅(Ⅱ)  ",
+        "state": "s",
+        "enthalpy": "-70.7",
+        "gibbs": "-69.5",
+        "entropy": "110"
+    },
+    {
+        "chem": "PCl<sub>3</sub>",
+        "en": "Phosphorus(Ⅲ) chloride",
+        "zh": "三氯化磷(Ⅲ)  ",
+        "state": "l",
+        "enthalpy": "-319.7",
+        "gibbs": "-272.3",
+        "entropy": "217.1"
+    },
+    {
+        "chem": "PCl<sub>3</sub>",
+        "en": "Phosphorus(Ⅲ) chloride",
+        "zh": "三氯化磷(Ⅲ)  ",
+        "state": "g",
+        "enthalpy": "-287",
+        "gibbs": "-267.8",
+        "entropy": "311.8"
+    },
+    {
+        "chem": "PCl<sub>5</sub>",
+        "en": "Phosphorus(Ⅴ) chloride",
+        "zh": "五氯化磷(Ⅴ)  ",
+        "state": "g",
+        "enthalpy": "-374.9",
+        "gibbs": "-305",
+        "entropy": "364.6"
+    },
+    {
+        "chem": "Pd",
+        "en": "Palladium",
+        "zh": "钯  ",
+        "state": "s",
+        "enthalpy": "0",
+        "gibbs": "",
+        "entropy": "37.6"
+    },
+    {
+        "chem": "PdO",
+        "en": "Palladium(Ⅱ) oxide",
+        "zh": "氧化钯(Ⅱ)  ",
+        "state": "s",
+        "enthalpy": "-85.4",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "PdO",
+        "en": "Palladium(Ⅱ) oxide",
+        "zh": "氧化钯(Ⅱ)  ",
+        "state": "g",
+        "enthalpy": "348.9",
+        "gibbs": "325.9",
+        "entropy": "218"
+    },
+    {
+        "chem": "PF<sub>5</sub>",
+        "en": "Phosphorous(Ⅴ) fluoride",
+        "zh": "五氟化磷(Ⅴ)  ",
+        "state": "g",
+        "enthalpy": "-1594.4",
+        "gibbs": "-1520.7",
+        "entropy": "300.8"
+    },
+    {
+        "chem": "PH<sub>3</sub>",
+        "en": "Phosphine",
+        "zh": "磷化氢  ",
+        "state": "g",
+        "enthalpy": "5.4",
+        "gibbs": "13.5",
+        "entropy": "210.2"
+    },
+    {
+        "chem": "Pt",
+        "en": "Platinum",
+        "zh": "铂  ",
+        "state": "s",
+        "enthalpy": "0",
+        "gibbs": "",
+        "entropy": "41.6"
+    },
+    {
+        "chem": "PtCl<sub>4</sub>",
+        "en": "Platinum(Ⅳ) chloride",
+        "zh": "四氯化铂(Ⅳ)  ",
+        "state": "s",
+        "enthalpy": "-231.8",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "PtF<sub>6</sub>",
+        "en": "Platinum(Ⅵ) fluoride",
+        "zh": "六氟化铂(Ⅵ)  ",
+        "state": "s",
+        "enthalpy": "",
+        "gibbs": "",
+        "entropy": "235.6"
+    },
+    {
+        "chem": "PtF<sub>6</sub>",
+        "en": "Platinum(Ⅵ) fluoride",
+        "zh": "六氟化铂(Ⅵ)  ",
+        "state": "g",
+        "enthalpy": "",
+        "gibbs": "",
+        "entropy": "348.3"
+    },
+    {
+        "chem": "Rb",
+        "en": "Rubidium",
+        "zh": "铷  ",
+        "state": "s",
+        "enthalpy": "0",
+        "gibbs": "",
+        "entropy": "76.8"
+    },
+    {
+        "chem": "Rb<sub>2</sub>CO<sub>3</sub>",
+        "en": "Rubidium carbonate",
+        "zh": "碳酸铷  ",
+        "state": "s",
+        "enthalpy": "-1136",
+        "gibbs": "-1051",
+        "entropy": "181.3"
+    },
+    {
+        "chem": "Rb<sub>2</sub>O",
+        "en": "Rubidium oxide",
+        "zh": "氧化铷  ",
+        "state": "s",
+        "enthalpy": "-339",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "Rb<sub>2</sub>O<sub>2</sub>",
+        "en": "Rubidium peroxide",
+        "zh": "过氧化铷  ",
+        "state": "s",
+        "enthalpy": "-472",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "RbCl",
+        "en": "Rubidium chloride",
+        "zh": "氯化铷  ",
+        "state": "s",
+        "enthalpy": "-435.4",
+        "gibbs": "-407.8",
+        "entropy": "95.9"
+    },
+    {
+        "chem": "RbClO<sub>4</sub>",
+        "en": "Rubidium perchlorate",
+        "zh": "高氯酸铷  ",
+        "state": "s",
+        "enthalpy": "-437.2",
+        "gibbs": "-306.9",
+        "entropy": "161.1"
+    },
+    {
+        "chem": "RbNO<sub>3</sub>",
+        "en": "Rubidium nitrate",
+        "zh": "硝酸铷  ",
+        "state": "s",
+        "enthalpy": "-495.1",
+        "gibbs": "-395.8",
+        "entropy": "147.3"
+    },
+    {
+        "chem": "RbOH",
+        "en": "Rubidium hydroxide",
+        "zh": "氢氧化铷  ",
+        "state": "s",
+        "enthalpy": "-418.8",
+        "gibbs": "-373.9",
+        "entropy": "94"
+    },
+    {
+        "chem": "RbOH",
+        "en": "Rubidium hydroxide",
+        "zh": "氢氧化铷  ",
+        "state": "g",
+        "enthalpy": "-238",
+        "gibbs": "-239.1",
+        "entropy": "248.5"
+    },
+    {
+        "chem": "Re",
+        "en": "Rhenium",
+        "zh": "铼  ",
+        "state": "s",
+        "enthalpy": "0",
+        "gibbs": "",
+        "entropy": "36.9"
+    },
+    {
+        "chem": "Re<sub>2</sub>O<sub>7</sub>",
+        "en": "Rhenium(Ⅶ) oxide",
+        "zh": "七氧化二铼(Ⅶ)  ",
+        "state": "s",
+        "enthalpy": "-1240.1",
+        "gibbs": "-1066",
+        "entropy": "207.1"
+    },
+    {
+        "chem": "Re<sub>2</sub>O<sub>7</sub>",
+        "en": "Rhenium(Ⅶ) oxide",
+        "zh": "七氧化二铼(Ⅶ)  ",
+        "state": "g",
+        "enthalpy": "-1100",
+        "gibbs": "-994",
+        "entropy": "452"
+    },
+    {
+        "chem": "Rh",
+        "en": "Rhodium",
+        "zh": "铑  ",
+        "state": "s",
+        "enthalpy": "0",
+        "gibbs": "",
+        "entropy": "31.5"
+    },
+    {
+        "chem": "Rh<sub>2</sub>O<sub>3</sub>",
+        "en": "Rhodium(Ⅲ) oxide",
+        "zh": "三氧化二铑(Ⅲ)  ",
+        "state": "s",
+        "enthalpy": "-343",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "Rn",
+        "en": "Radon",
+        "zh": "氡  ",
+        "state": "g",
+        "enthalpy": "0",
+        "gibbs": "",
+        "entropy": "176.2"
+    },
+    {
+        "chem": "Ru",
+        "en": "Ruthenium",
+        "zh": "钌  ",
+        "state": "s",
+        "enthalpy": "0",
+        "gibbs": "",
+        "entropy": "28.5"
+    },
+    {
+        "chem": "RuO<sub>2</sub>",
+        "en": "Ruthenium(Ⅳ) oxide",
+        "zh": "二氧化钌(Ⅳ)  ",
+        "state": "s",
+        "enthalpy": "-305",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "RuO<sub>4</sub>",
+        "en": "Ruthenium(Ⅷ) oxide",
+        "zh": "四氧化钌(Ⅷ)  ",
+        "state": "s",
+        "enthalpy": "-239.3",
+        "gibbs": "-152.2",
+        "entropy": "146.4"
+    },
+    {
+        "chem": "S<sub>2</sub>Cl<sub>2</sub>",
+        "en": "Sulfur chloride",
+        "zh": "二氯化二硫（注意：原英文误为氯化硫）  ",
+        "state": "l",
+        "enthalpy": "-59.4",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "Sb",
+        "en": "Antimony",
+        "zh": "锑  ",
+        "state": "s",
+        "enthalpy": "0",
+        "gibbs": "",
+        "entropy": "45.7"
+    },
+    {
+        "chem": "Sb<sub>2</sub>O<sub>5</sub>",
+        "en": "Antimony(Ⅴ) oxide",
+        "zh": "五氧化二锑(Ⅴ)  ",
+        "state": "s",
+        "enthalpy": "-971.9",
+        "gibbs": "-829.2",
+        "entropy": "125.1"
+    },
+    {
+        "chem": "Sc",
+        "en": "Scandium",
+        "zh": "钪  ",
+        "state": "s",
+        "enthalpy": "0",
+        "gibbs": "",
+        "entropy": "34.6"
+    },
+    {
+        "chem": "Sc<sub>2</sub>O<sub>3</sub>",
+        "en": "Scandium oxide",
+        "zh": "氧化钪  ",
+        "state": "s",
+        "enthalpy": "-1908.8",
+        "gibbs": "-1819.4",
+        "entropy": "77"
+    },
+    {
+        "chem": "SCl<sub>2</sub>",
+        "en": "Sulfur dichloride",
+        "zh": "二氯化硫  ",
+        "state": "l",
+        "enthalpy": "-50",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "Se",
+        "en": "Selenium(gray)",
+        "zh": "硒（灰硒）  ",
+        "state": "s",
+        "enthalpy": "0",
+        "gibbs": "",
+        "entropy": "42.4"
+    },
+    {
+        "chem": "SeF<sub>6</sub>",
+        "en": "Selenium hexafluoride",
+        "zh": "六氟化硒  ",
+        "state": "g",
+        "enthalpy": "-1117",
+        "gibbs": "-1017",
+        "entropy": "313.9"
+    },
+    {
+        "chem": "SeO<sub>2</sub>",
+        "en": "Selenium dioxide",
+        "zh": "二氧化硒  ",
+        "state": "s",
+        "enthalpy": "-225.4",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "SF<sub>4</sub>",
+        "en": "Sulfur tetrafluoride",
+        "zh": "四氟化硫  ",
+        "state": "g",
+        "enthalpy": "-763.2",
+        "gibbs": "-722",
+        "entropy": "299.6"
+    },
+    {
+        "chem": "SF<sub>6</sub>",
+        "en": "Sulfur hexafluoride",
+        "zh": "六氟化硫  ",
+        "state": "g",
+        "enthalpy": "-1220.5",
+        "gibbs": "-1116.5",
+        "entropy": "291.5"
+    },
+    {
+        "chem": "Si<sub>2</sub>H<sub>6</sub>",
+        "en": "Disilane",
+        "zh": "乙硅烷  ",
+        "state": "g",
+        "enthalpy": "80.3",
+        "gibbs": "127.3",
+        "entropy": "272.7"
+    },
+    {
+        "chem": "SiC",
+        "en": "Silicon carbide(cubic)",
+        "zh": "碳化硅（立方）  ",
+        "state": "s",
+        "enthalpy": "-65.3",
+        "gibbs": "-62.8",
+        "entropy": "16.6"
+    },
+    {
+        "chem": "SiC",
+        "en": "Silicon carbide(hexagonal)",
+        "zh": "碳化硅（六方）  ",
+        "state": "s",
+        "enthalpy": "-62.8",
+        "gibbs": "-60.2",
+        "entropy": "16.5"
+    },
+    {
+        "chem": "SiCl<sub>4</sub>",
+        "en": "Tetrachlorosilane",
+        "zh": "四氯化硅  ",
+        "state": "l",
+        "enthalpy": "-687",
+        "gibbs": "-619.8",
+        "entropy": "239.7"
+    },
+    {
+        "chem": "SiCl<sub>4</sub>",
+        "en": "Tetrachlorosilane",
+        "zh": "四氯化硅  ",
+        "state": "g",
+        "enthalpy": "-657",
+        "gibbs": "-617",
+        "entropy": "330.7"
+    },
+    {
+        "chem": "SiF<sub>4</sub>",
+        "en": "Tetrafluorosilane",
+        "zh": "四氟化硅  ",
+        "state": "g",
+        "enthalpy": "-1615",
+        "gibbs": "-1572.8",
+        "entropy": "282.8"
+    },
+    {
+        "chem": "SiH<sub>4</sub>",
+        "en": "Silane",
+        "zh": "硅烷  ",
+        "state": "g",
+        "enthalpy": "34.3",
+        "gibbs": "56.9",
+        "entropy": "204.6"
+    },
+    {
+        "chem": "SiO<sub>2</sub>",
+        "en": "Silicon dioxide(α-quartz)",
+        "zh": "二氧化硅（α-石英）  ",
+        "state": "s",
+        "enthalpy": "-910.7",
+        "gibbs": "-856.3",
+        "entropy": "41.5"
+    },
+    {
+        "chem": "SiO<sub>2</sub>",
+        "en": "Silicon dioxide(α-quartz)",
+        "zh": "二氧化硅（α-石英）  ",
+        "state": "g",
+        "enthalpy": "-322",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "Sn",
+        "en": "Tin(white)",
+        "zh": "锡（白锡）  ",
+        "state": "s",
+        "enthalpy": "0",
+        "gibbs": "",
+        "entropy": "51.2"
+    },
+    {
+        "chem": "Sn",
+        "en": "Tin(white)",
+        "zh": "锡（白锡）  ",
+        "state": "g",
+        "enthalpy": "301.2",
+        "gibbs": "266.2",
+        "entropy": "168.5"
+    },
+    {
+        "chem": "Sn",
+        "en": "Tin(gray)",
+        "zh": "锡（灰锡）  ",
+        "state": "s",
+        "enthalpy": "-2.1",
+        "gibbs": "0.1",
+        "entropy": "44.1"
+    },
+    {
+        "chem": "Sn(OH)<sub>2</sub>",
+        "en": "Tin(Ⅱ) hydroxide",
+        "zh": "氢氧化锡(Ⅱ)  ",
+        "state": "s",
+        "enthalpy": "-561.1",
+        "gibbs": "-491.6",
+        "entropy": "155"
+    },
+    {
+        "chem": "SnCl<sub>2</sub>",
+        "en": "Tin(Ⅱ) chloride",
+        "zh": "氯化锡(Ⅱ)  ",
+        "state": "s",
+        "enthalpy": "-325.1",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "SnCl<sub>4</sub>",
+        "en": "Tin(Ⅳ) chloride",
+        "zh": "四氯化锡(Ⅳ)  ",
+        "state": "l",
+        "enthalpy": "-511.3",
+        "gibbs": "-440.1",
+        "entropy": "258.6"
+    },
+    {
+        "chem": "SnCl<sub>4</sub>",
+        "en": "Tin(Ⅳ) chloride",
+        "zh": "四氯化锡(Ⅳ)  ",
+        "state": "g",
+        "enthalpy": "-471.5",
+        "gibbs": "-432.2",
+        "entropy": "365.8"
+    },
+    {
+        "chem": "SnO",
+        "en": "Tin(Ⅱ) oxide",
+        "zh": "氧化锡(Ⅱ)  ",
+        "state": "s",
+        "enthalpy": "-280.7",
+        "gibbs": "-251.9",
+        "entropy": "57.2"
+    },
+    {
+        "chem": "SnO",
+        "en": "Tin(Ⅱ) oxide",
+        "zh": "氧化锡(Ⅱ)  ",
+        "state": "g",
+        "enthalpy": "15.1",
+        "gibbs": "-8.4",
+        "entropy": "232.1"
+    },
+    {
+        "chem": "SnO<sub>2</sub>",
+        "en": "Tin(Ⅳ) oxide",
+        "zh": "氧化锡(Ⅳ)  ",
+        "state": "s",
+        "enthalpy": "-577.6",
+        "gibbs": "-515.8",
+        "entropy": "49"
+    },
+    {
+        "chem": "SnS",
+        "en": "Tin(Ⅱ) sulfide",
+        "zh": "硫化锡(Ⅱ)  ",
+        "state": "s",
+        "enthalpy": "-100",
+        "gibbs": "-98.3",
+        "entropy": "77"
+    },
+    {
+        "chem": "SO<sub>2</sub>",
+        "en": "Sulfur dioxide",
+        "zh": "二氧化硫  ",
+        "state": "l",
+        "enthalpy": "-320.5",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "SO<sub>2</sub>",
+        "en": "Sulfur dioxide",
+        "zh": "二氧化硫  ",
+        "state": "g",
+        "enthalpy": "-296.8",
+        "gibbs": "-300.1",
+        "entropy": "248.2"
+    },
+    {
+        "chem": "SO<sub>2</sub>Cl<sub>2</sub>",
+        "en": "Sulfuryl chloride",
+        "zh": "硫酰氯  ",
+        "state": "l",
+        "enthalpy": "-394.1",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "SO<sub>2</sub>Cl<sub>2</sub>",
+        "en": "Sulfuryl chloride",
+        "zh": "硫酰氯  ",
+        "state": "g",
+        "enthalpy": "-364",
+        "gibbs": "-320",
+        "entropy": "311.9"
+    },
+    {
+        "chem": "SO<sub>3</sub>",
+        "en": "Sulfur trioxide",
+        "zh": "三氧化硫  ",
+        "state": "s",
+        "enthalpy": "-454.5",
+        "gibbs": "-374.2",
+        "entropy": "70.7"
+    },
+    {
+        "chem": "SO<sub>3</sub>",
+        "en": "Sulfur trioxide",
+        "zh": "三氧化硫  ",
+        "state": "l",
+        "enthalpy": "-441",
+        "gibbs": "-373.8",
+        "entropy": "113.8"
+    },
+    {
+        "chem": "SO<sub>3</sub>",
+        "en": "Sulfur trioxide",
+        "zh": "三氧化硫  ",
+        "state": "g",
+        "enthalpy": "-395.7",
+        "gibbs": "-371.1",
+        "entropy": "256.8"
+    },
+    {
+        "chem": "Sr",
+        "en": "Strontium",
+        "zh": "锶  ",
+        "state": "s",
+        "enthalpy": "0",
+        "gibbs": "",
+        "entropy": "55"
+    },
+    {
+        "chem": "Sr(OH)<sub>2</sub>",
+        "en": "Strontium hydroxide",
+        "zh": "氢氧化锶  ",
+        "state": "s",
+        "enthalpy": "-959",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "SrCO<sub>3</sub>",
+        "en": "Strontium carbonate",
+        "zh": "碳酸锶  ",
+        "state": "s",
+        "enthalpy": "-1220.1",
+        "gibbs": "-1140.1",
+        "entropy": "97.1"
+    },
+    {
+        "chem": "SrO",
+        "en": "Strontium oxide",
+        "zh": "氧化锶  ",
+        "state": "s",
+        "enthalpy": "-592",
+        "gibbs": "-561.9",
+        "entropy": "54.4"
+    },
+    {
+        "chem": "SrS",
+        "en": "Strontium sulfide",
+        "zh": "硫化锶  ",
+        "state": "s",
+        "enthalpy": "-472.4",
+        "gibbs": "-467.8",
+        "entropy": "68.2"
+    },
+    {
+        "chem": "SrSO<sub>4</sub>",
+        "en": "Strontium sulfate",
+        "zh": "硫酸锶  ",
+        "state": "s",
+        "enthalpy": "-1453.1",
+        "gibbs": "-1340.9",
+        "entropy": "117"
+    },
+    {
+        "chem": "Ta",
+        "en": "Tantalum",
+        "zh": "钽  ",
+        "state": "s",
+        "enthalpy": "0",
+        "gibbs": "",
+        "entropy": "41.5"
+    },
+    {
+        "chem": "Tc",
+        "en": "Technetium",
+        "zh": "锝  ",
+        "state": "s",
+        "enthalpy": "0",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "Tc",
+        "en": "Technetium",
+        "zh": "锝  ",
+        "state": "g",
+        "enthalpy": "678",
+        "gibbs": "",
+        "entropy": "181.1"
+    },
+    {
+        "chem": "Te",
+        "en": "Tellurium",
+        "zh": "碲  ",
+        "state": "s",
+        "enthalpy": "0",
+        "gibbs": "",
+        "entropy": "49.7"
+    },
+    {
+        "chem": "TeO<sub>2</sub>",
+        "en": "Tellurium dioxide",
+        "zh": "二氧化碲  ",
+        "state": "s",
+        "enthalpy": "-322.6",
+        "gibbs": "-270.3",
+        "entropy": "79.5"
+    },
+    {
+        "chem": "Ti",
+        "en": "Titanium",
+        "zh": "钛  ",
+        "state": "s",
+        "enthalpy": "0",
+        "gibbs": "",
+        "entropy": "30.7"
+    },
+    {
+        "chem": "TiBr<sub>3</sub>",
+        "en": "Titanium bromide",
+        "zh": "三溴化钛  ",
+        "state": "s",
+        "enthalpy": "-548.5",
+        "gibbs": "-523.8",
+        "entropy": "176.6"
+    },
+    {
+        "chem": "TiCl<sub>4</sub>",
+        "en": "Titanium(Ⅳ) chloride",
+        "zh": "四氯化钛(Ⅳ)  ",
+        "state": "l",
+        "enthalpy": "-804.2",
+        "gibbs": "-737.2",
+        "entropy": "252.3"
+    },
+    {
+        "chem": "TiCl<sub>4</sub>",
+        "en": "Titanium(Ⅳ) chloride",
+        "zh": "四氯化钛(Ⅳ)  ",
+        "state": "g",
+        "enthalpy": "-763.2",
+        "gibbs": "-726.3",
+        "entropy": "353.2"
+    },
+    {
+        "chem": "TiO<sub>2</sub>",
+        "en": "Titanium(Ⅳ) oxide(rutile)",
+        "zh": "二氧化钛(Ⅳ, 金红石)  ",
+        "state": "s",
+        "enthalpy": "-944",
+        "gibbs": "-888.8",
+        "entropy": "50.6"
+    },
+    {
+        "chem": "Tl",
+        "en": "Thallium",
+        "zh": "铊  ",
+        "state": "s",
+        "enthalpy": "0",
+        "gibbs": "",
+        "entropy": "64.2"
+    },
+    {
+        "chem": "TlBr",
+        "en": "Thallium(Ⅰ) bromide",
+        "zh": "溴化铊(Ⅰ)  ",
+        "state": "s",
+        "enthalpy": "-173.2",
+        "gibbs": "-167.4",
+        "entropy": "120.5"
+    },
+    {
+        "chem": "TlCl",
+        "en": "Thallium(Ⅰ) chloride",
+        "zh": "氯化铊(Ⅰ)  ",
+        "state": "s",
+        "enthalpy": "-204.1",
+        "gibbs": "-184.9",
+        "entropy": "111.3"
+    },
+    {
+        "chem": "TlCl<sub>3</sub>",
+        "en": "Thallium(Ⅲ) chloride",
+        "zh": "三氯化铊(Ⅲ)  ",
+        "state": "s",
+        "enthalpy": "-315.1",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "Tl<sub>2</sub>CO<sub>3</sub>",
+        "en": "Thallium(Ⅰ) carbonate",
+        "zh": "碳酸铊(Ⅰ)  ",
+        "state": "s",
+        "enthalpy": "-700",
+        "gibbs": "-614.6",
+        "entropy": "155.2"
+    },
+    {
+        "chem": "TlF",
+        "en": "Thallium(Ⅰ) fluoride",
+        "zh": "氟化铊(Ⅰ)  ",
+        "state": "s",
+        "enthalpy": "-324.7",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "TlF",
+        "en": "Thallium(Ⅰ) fluoride",
+        "zh": "氟化铊(Ⅰ)  ",
+        "state": "g",
+        "enthalpy": "-182.4",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "TlI",
+        "en": "Thallium(Ⅰ) iodide",
+        "zh": "碘化铊(Ⅰ)  ",
+        "state": "s",
+        "enthalpy": "-123.8",
+        "gibbs": "-125.4",
+        "entropy": "127.6"
+    },
+    {
+        "chem": "Tl<sub>2</sub>O",
+        "en": "Thallium(Ⅰ) oxide",
+        "zh": "氧化亚铊(Ⅰ)  ",
+        "state": "s",
+        "enthalpy": "-178.7",
+        "gibbs": "-147.3",
+        "entropy": "126"
+    },
+    {
+        "chem": "TlOH",
+        "en": "Thallium(Ⅰ) hydroxide",
+        "zh": "氢氧化铊(Ⅰ)  ",
+        "state": "s",
+        "enthalpy": "-238.9",
+        "gibbs": "-195.8",
+        "entropy": "88"
+    },
+    {
+        "chem": "Tl<sub>2</sub>S",
+        "en": "Thallium(Ⅰ) sulfide",
+        "zh": "硫化亚铊(Ⅰ)  ",
+        "state": "s",
+        "enthalpy": "-97.1",
+        "gibbs": "-93.7",
+        "entropy": "151"
+    },
+    {
+        "chem": "Tl<sub>2</sub>SO<sub>4</sub>",
+        "en": "Thallium(Ⅰ) sulfate",
+        "zh": "硫酸铊(Ⅰ)  ",
+        "state": "s",
+        "enthalpy": "-931.8",
+        "gibbs": "-830.4",
+        "entropy": "230.5"
+    },
+    {
+        "chem": "U",
+        "en": "Uranium",
+        "zh": "铀  ",
+        "state": "s",
+        "enthalpy": "0",
+        "gibbs": "",
+        "entropy": "50.2"
+    },
+    {
+        "chem": "UO<sub>3</sub>",
+        "en": "Uranium(Ⅵ) oxide",
+        "zh": "三氧化铀(Ⅵ)  ",
+        "state": "s",
+        "enthalpy": "-1223.8",
+        "gibbs": "-1145.7",
+        "entropy": "96.1"
+    },
+    {
+        "chem": "V",
+        "en": "Vanadium",
+        "zh": "钒  ",
+        "state": "s",
+        "enthalpy": "0",
+        "gibbs": "",
+        "entropy": "28.9"
+    },
+    {
+        "chem": "V<sub>2</sub>O<sub>5</sub>",
+        "en": "Vanadium(Ⅴ) oxide",
+        "zh": "五氧化二钒(Ⅴ)  ",
+        "state": "s",
+        "enthalpy": "-1550.6",
+        "gibbs": "-1419.5",
+        "entropy": "131"
+    },
+    {
+        "chem": "W",
+        "en": "Tungsten",
+        "zh": "钨  ",
+        "state": "s",
+        "enthalpy": "0",
+        "gibbs": "",
+        "entropy": "32.6"
+    },
+    {
+        "chem": "WO<sub>3</sub>",
+        "en": "Tungsten(Ⅵ) oxide",
+        "zh": "三氧化钨(Ⅵ)  ",
+        "state": "s",
+        "enthalpy": "-842.9",
+        "gibbs": "-764",
+        "entropy": "75.9"
+    },
+    {
+        "chem": "Xe",
+        "en": "Xenon",
+        "zh": "氙  ",
+        "state": "g",
+        "enthalpy": "0",
+        "gibbs": "",
+        "entropy": "169.7"
+    },
+    {
+        "chem": "XeF<sub>4</sub>",
+        "en": "Xenon tetrafluoride",
+        "zh": "四氟化氙  ",
+        "state": "s",
+        "enthalpy": "-261.5",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "Y",
+        "en": "Yttrium",
+        "zh": "钇  ",
+        "state": "s",
+        "enthalpy": "0",
+        "gibbs": "",
+        "entropy": "44.4"
+    },
+    {
+        "chem": "Y<sub>2</sub>O<sub>3</sub>",
+        "en": "Yttrium oxide",
+        "zh": "氧化钇  ",
+        "state": "s",
+        "enthalpy": "-1905.3",
+        "gibbs": "-1816.6",
+        "entropy": "99.1"
+    },
+    {
+        "chem": "Zn",
+        "en": "Zinc",
+        "zh": "锌  ",
+        "state": "s",
+        "enthalpy": "0",
+        "gibbs": "",
+        "entropy": "41.6"
+    },
+    {
+        "chem": "Zn(NO<sub>3</sub>)<sub>2</sub>",
+        "en": "Zinc nitrate",
+        "zh": "硝酸锌  ",
+        "state": "s",
+        "enthalpy": "-483.7",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "Zn(OH)<sub>2</sub>",
+        "en": "Zinc hydroxide",
+        "zh": "氢氧化锌  ",
+        "state": "s",
+        "enthalpy": "-641.9",
+        "gibbs": "-553.5",
+        "entropy": "81.2"
+    },
+    {
+        "chem": "ZnCl<sub>2</sub>",
+        "en": "Zinc chloride",
+        "zh": "氯化锌  ",
+        "state": "s",
+        "enthalpy": "-415.1",
+        "gibbs": "-369.4",
+        "entropy": "111.5"
+    },
+    {
+        "chem": "ZnCO<sub>3</sub>",
+        "en": "Zinc carbonate",
+        "zh": "碳酸锌  ",
+        "state": "s",
+        "enthalpy": "-812.8",
+        "gibbs": "-731.5",
+        "entropy": "82.4"
+    },
+    {
+        "chem": "ZnF<sub>2</sub>",
+        "en": "Zinc fluoride",
+        "zh": "氟化锌  ",
+        "state": "s",
+        "enthalpy": "-764.4",
+        "gibbs": "-713.3",
+        "entropy": "73.7"
+    },
+    {
+        "chem": "ZnO",
+        "en": "Zinc oxide",
+        "zh": "氧化锌  ",
+        "state": "s",
+        "enthalpy": "-350.5",
+        "gibbs": "-320.5",
+        "entropy": "43.7"
+    },
+    {
+        "chem": "ZnS",
+        "en": "Zinc sulfide(wurtzite)",
+        "zh": "硫化锌（纤锌矿）  ",
+        "state": "s",
+        "enthalpy": "-192.6",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "ZnS",
+        "en": "Zinc sulfide(sphalerite)",
+        "zh": "硫化锌（闪锌矿）  ",
+        "state": "s",
+        "enthalpy": "-206",
+        "gibbs": "-201.3",
+        "entropy": "57.7"
+    },
+    {
+        "chem": "ZnSO<sub>4</sub>",
+        "en": "Zinc sulfate",
+        "zh": "硫酸锌  ",
+        "state": "s",
+        "enthalpy": "-982.8",
+        "gibbs": "-871.5",
+        "entropy": "110.5"
+    },
+    {
+        "chem": "Zr",
+        "en": "Zirconium",
+        "zh": "锆  ",
+        "state": "s",
+        "enthalpy": "0",
+        "gibbs": "",
+        "entropy": "39"
+    },
+    {
+        "chem": "ZrCl<sub>2</sub>",
+        "en": "Zirconium(Ⅱ) chloride",
+        "zh": "二氯化锆(Ⅱ)  ",
+        "state": "s",
+        "enthalpy": "-502",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "ZrF<sub>4</sub>",
+        "en": "Zirconium(Ⅳ) fluoride",
+        "zh": "四氟化锆(Ⅳ)  ",
+        "state": "s",
+        "enthalpy": "-1911.3",
+        "gibbs": "-1809.9",
+        "entropy": "104.6"
+    },
+    {
+        "chem": "ZrO<sub>2</sub>",
+        "en": "Zirconium(Ⅳ) oxide",
+        "zh": "二氧化锆(Ⅳ)  ",
+        "state": "s",
+        "enthalpy": "-1100.6",
+        "gibbs": "-1042.8",
+        "entropy": "50.4"
+    },
+    {
+        "chem": "C<sub>2</sub>H<sub>2</sub>O<sub>2</sub>",
+        "en": "Glyoxal",
+        "zh": "乙二醛  ",
+        "state": "g",
+        "enthalpy": "-212",
+        "gibbs": "-189.7",
+        "entropy": "272.5"
+    },
+    {
+        "chem": "CH<sub>3</sub>NH<sub>2</sub>",
+        "en": "Methylamine",
+        "zh": "甲胺  ",
+        "state": "l",
+        "enthalpy": "-47.3",
+        "gibbs": "35.7",
+        "entropy": "150.2"
+    },
+    {
+        "chem": "CH<sub>3</sub>NH<sub>2</sub>",
+        "en": "Methylamine",
+        "zh": "甲胺  ",
+        "state": "g",
+        "enthalpy": "-22.5",
+        "gibbs": "32.7",
+        "entropy": "242.9"
+    },
+    {
+        "chem": "CH<sub>3</sub>OCH<sub>3</sub>",
+        "en": "Dimethyl ether",
+        "zh": "二甲醚  ",
+        "state": "l",
+        "enthalpy": "-203.3",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "CH<sub>3</sub>OCH<sub>3</sub>",
+        "en": "Dimethyl ether",
+        "zh": "二甲醚  ",
+        "state": "g",
+        "enthalpy": "-184.1",
+        "gibbs": "-112.6",
+        "entropy": "266.4"
+    },
+    {
+        "chem": "CH<sub>3</sub>OH",
+        "en": "Methanol",
+        "zh": "甲醇  ",
+        "state": "l",
+        "enthalpy": "-239.2",
+        "gibbs": "-166.6",
+        "entropy": "126.8"
+    },
+    {
+        "chem": "CH<sub>3</sub>OH",
+        "en": "Methanol",
+        "zh": "甲醇  ",
+        "state": "g",
+        "enthalpy": "-201",
+        "gibbs": "-162.3",
+        "entropy": "239.9"
+    },
+    {
+        "chem": "CH<sub>4</sub>",
+        "en": "Methane",
+        "zh": "甲烷  ",
+        "state": "g",
+        "enthalpy": "-74.6",
+        "gibbs": "-50.5",
+        "entropy": "186.3"
+    },
+    {
+        "chem": "CHI<sub>3</sub>",
+        "en": "Triiodomethane",
+        "zh": "三碘甲烷  ",
+        "state": "s",
+        "enthalpy": "-181.1",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "CHI<sub>3</sub>",
+        "en": "Triiodomethane",
+        "zh": "三碘甲烷  ",
+        "state": "g",
+        "enthalpy": "251",
+        "gibbs": "",
+        "entropy": "356.2"
+    },
+    {
+        "chem": "CO(NH<sub>2</sub>)<sub>2</sub>",
+        "en": "Urea",
+        "zh": "尿素  ",
+        "state": "s",
+        "enthalpy": "-333.1",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "CO(NH<sub>2</sub>)<sub>2</sub>",
+        "en": "Urea",
+        "zh": "尿素  ",
+        "state": "g",
+        "enthalpy": "-245.8",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "C<sub>2</sub>H<sub>4</sub>",
+        "en": "Ethylene",
+        "zh": "乙烯  ",
+        "state": "g",
+        "enthalpy": "52.4",
+        "gibbs": "68.4",
+        "entropy": "219.3"
+    },
+    {
+        "chem": "C<sub>2</sub>H<sub>5</sub>OH",
+        "en": "Ethanol",
+        "zh": "乙醇  ",
+        "state": "l",
+        "enthalpy": "-277.6",
+        "gibbs": "-174.8",
+        "entropy": "160.7"
+    },
+    {
+        "chem": "C<sub>2</sub>H<sub>6</sub>",
+        "en": "Ethane",
+        "zh": "乙烷  ",
+        "state": "g",
+        "enthalpy": "-84",
+        "gibbs": "-32",
+        "entropy": "229.2"
+    },
+    {
+        "chem": "C<sub>2</sub>H<sub>7</sub>N",
+        "en": "Ethylamine",
+        "zh": "乙胺  ",
+        "state": "g",
+        "enthalpy": "-47.5",
+        "gibbs": "36.3",
+        "entropy": "283.8"
+    },
+    {
+        "chem": "C<sub>3</sub>H<sub>4</sub>",
+        "en": "Propyne",
+        "zh": "丙炔  ",
+        "state": "g",
+        "enthalpy": "184.9",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "C<sub>3</sub>H<sub>6</sub>",
+        "en": "Propene",
+        "zh": "丙烯  ",
+        "state": "l",
+        "enthalpy": "4",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "C<sub>3</sub>H<sub>6</sub>",
+        "en": "Propene",
+        "zh": "丙烯  ",
+        "state": "g",
+        "enthalpy": "20",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "C<sub>3</sub>H<sub>6</sub>",
+        "en": "Cyclopropane",
+        "zh": "环丙烷  ",
+        "state": "l",
+        "enthalpy": "35.2",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "C<sub>3</sub>H<sub>6</sub>",
+        "en": "Cyclopropane",
+        "zh": "环丙烷  ",
+        "state": "g",
+        "enthalpy": "53.3",
+        "gibbs": "104.5",
+        "entropy": "237.5"
+    },
+    {
+        "chem": "C<sub>3</sub>H<sub>6</sub>O",
+        "en": "Propanal",
+        "zh": "丙醛  ",
+        "state": "l",
+        "enthalpy": "-215.6",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "C<sub>3</sub>H<sub>6</sub>O",
+        "en": "Propanal",
+        "zh": "丙醛  ",
+        "state": "g",
+        "enthalpy": "-185.6",
+        "gibbs": "304.5",
+        "entropy": ""
+    },
+    {
+        "chem": "C<sub>3</sub>H<sub>8</sub>",
+        "en": "Propane",
+        "zh": "丙烷  ",
+        "state": "l",
+        "enthalpy": "-120.9",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "C<sub>3</sub>H<sub>8</sub>",
+        "en": "Propane",
+        "zh": "丙烷  ",
+        "state": "g",
+        "enthalpy": "-103.8",
+        "gibbs": "-23.4",
+        "entropy": "270.3"
+    },
+    {
+        "chem": "C<sub>3</sub>H<sub>9</sub>N",
+        "en": "Propylamine",
+        "zh": "丙胺  ",
+        "state": "l",
+        "enthalpy": "-101.5",
+        "gibbs": "",
+        "entropy": "164.1"
+    },
+    {
+        "chem": "C<sub>3</sub>H<sub>9</sub>N",
+        "en": "Propylamine",
+        "zh": "丙胺  ",
+        "state": "g",
+        "enthalpy": "-70.1",
+        "gibbs": "39.9",
+        "entropy": "325.4"
+    },
+    {
+        "chem": "C<sub>4</sub>H<sub>8</sub>",
+        "en": "1-Butene",
+        "zh": "1-丁烯  ",
+        "state": "l",
+        "enthalpy": "-20.8",
+        "gibbs": "",
+        "entropy": "227"
+    },
+    {
+        "chem": "C<sub>4</sub>H<sub>8</sub>",
+        "en": "1-Butene",
+        "zh": "1-丁烯  ",
+        "state": "g",
+        "enthalpy": "0.1",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "C<sub>4</sub>H<sub>8</sub>O<sub>2</sub>",
+        "en": "Ethyl Acetate",
+        "zh": "乙酸乙酯  ",
+        "state": "l",
+        "enthalpy": "-479.3",
+        "gibbs": "",
+        "entropy": "257.7"
+    },
+    {
+        "chem": "C<sub>5</sub>H<sub>5</sub>N",
+        "en": "Pyridine",
+        "zh": "吡啶  ",
+        "state": "l",
+        "enthalpy": "100.2",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "C<sub>5</sub>H<sub>5</sub>N",
+        "en": "Pyridine",
+        "zh": "吡啶  ",
+        "state": "g",
+        "enthalpy": "140.4",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "C<sub>6</sub>H<sub>12</sub>",
+        "en": "Cyclohexane",
+        "zh": "环己烷  ",
+        "state": "l",
+        "enthalpy": "-156.4",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "C<sub>6</sub>H<sub>12</sub>",
+        "en": "Cyclohexane",
+        "zh": "环己烷  ",
+        "state": "g",
+        "enthalpy": "-123.4",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "C<sub>6</sub>H<sub>6</sub>",
+        "en": "Benzene",
+        "zh": "苯  ",
+        "state": "l",
+        "enthalpy": "49.1",
+        "gibbs": "124.5",
+        "entropy": "173.4"
+    },
+    {
+        "chem": "C<sub>6</sub>H<sub>6</sub>",
+        "en": "Benzene",
+        "zh": "苯  ",
+        "state": "g",
+        "enthalpy": "82.9",
+        "gibbs": "129.7",
+        "entropy": "269.2"
+    },
+    {
+        "chem": "C<sub>6</sub>H<sub>6</sub>O",
+        "en": "Phenol",
+        "zh": "苯酚  ",
+        "state": "s",
+        "enthalpy": "-165.1",
+        "gibbs": "",
+        "entropy": "144"
+    },
+    {
+        "chem": "C<sub>6</sub>H<sub>6</sub>O",
+        "en": "Phenol",
+        "zh": "苯酚  ",
+        "state": "g",
+        "enthalpy": "-96.4",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "C<sub>6</sub>H<sub>7</sub>N",
+        "en": "Aniline",
+        "zh": "苯胺  ",
+        "state": "l",
+        "enthalpy": "31.6",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "C<sub>6</sub>H<sub>7</sub>N",
+        "en": "Aniline",
+        "zh": "苯胺  ",
+        "state": "g",
+        "enthalpy": "87.5",
+        "gibbs": "-7",
+        "entropy": "317.9"
+    },
+    {
+        "chem": "C<sub>6</sub>H<sub>16</sub>N<sub>2</sub>",
+        "en": "1,6-Hexanediamine",
+        "zh": "1,6-己二胺  ",
+        "state": "s",
+        "enthalpy": "-205.0",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "C<sub>7</sub>H<sub>8</sub>",
+        "en": "Toluene",
+        "zh": "甲苯  ",
+        "state": "l",
+        "enthalpy": "12.4",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "C<sub>7</sub>H<sub>8</sub>",
+        "en": "Toluene",
+        "zh": "甲苯  ",
+        "state": "g",
+        "enthalpy": "50.5",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "C<sub>8</sub>H<sub>10</sub>",
+        "en": "Ethylbenzene",
+        "zh": "乙苯  ",
+        "state": "l",
+        "enthalpy": "-12.3",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "C<sub>8</sub>H<sub>10</sub>",
+        "en": "Ethylbenzene",
+        "zh": "乙苯  ",
+        "state": "g",
+        "enthalpy": "29.9",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "C<sub>8</sub>H<sub>10</sub>",
+        "en": "o-Xylene",
+        "zh": "邻二甲苯  ",
+        "state": "l",
+        "enthalpy": "-24.4",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "C<sub>8</sub>H<sub>10</sub>",
+        "en": "o-Xylene",
+        "zh": "邻二甲苯  ",
+        "state": "g",
+        "enthalpy": "19.1",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "C<sub>8</sub>H<sub>10</sub>",
+        "en": "m-Xylene",
+        "zh": "间二甲苯  ",
+        "state": "l",
+        "enthalpy": "-25.4",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "C<sub>8</sub>H<sub>10</sub>",
+        "en": "m-Xylene",
+        "zh": "间二甲苯  ",
+        "state": "g",
+        "enthalpy": "17.3",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "C<sub>8</sub>H<sub>10</sub>",
+        "en": "p-Xylene",
+        "zh": "对二甲苯  ",
+        "state": "l",
+        "enthalpy": "-24.4",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "C<sub>8</sub>H<sub>10</sub>",
+        "en": "p-Xylene",
+        "zh": "对二甲苯  ",
+        "state": "g",
+        "enthalpy": "18",
+        "gibbs": "",
+        "entropy": ""
+    },
+    {
+        "chem": "C<sub>10</sub>H<sub>8</sub>",
+        "en": "Naphthalene",
+        "zh": "萘  ",
+        "state": "s",
+        "enthalpy": "78.5",
+        "gibbs": "201.6",
+        "entropy": "167.4"
+    },
+    {
+        "chem": "C<sub>10</sub>H<sub>8</sub>",
+        "en": "Naphthalene",
+        "zh": "萘",
+        "state": "g",
+        "enthalpy": "150.6",
+        "gibbs": "224.1",
+        "entropy": "333.1"
+    }
+]
